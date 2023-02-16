@@ -1,9 +1,6 @@
-# Awesome Skeleton-based Action Recognition  
+# Awesome Skeleton-based Action Recognition  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-We have collected recent papers on skeleton-based action recognition that have been published in prestigious conferences and journals. 
+We collect existing papers on skeleton-based action recognition published in prominent conferences and journals. 
 
 This paper list will be continuously updated at the end of each month.
 
