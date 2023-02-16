@@ -5,7 +5,7 @@
 
 We collect existing papers on skeleton-based action recognition published in prominent conferences and journals. 
 
-This paper list will be continuously updated at the end of each month.
+This paper list will be continuously updated at the end of each month. 
 
 
 ## Survey
@@ -421,5 +421,6 @@ This paper list will be continuously updated at the end of each month.
 **NeurIPS** 
 - Two-Stream Convolutional Networks for Action Recognition in Videos [[paper](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)]
 
+## Last update: Thur, Feb 16, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
