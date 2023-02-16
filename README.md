@@ -10,7 +10,7 @@ This paper list will be continuously updated at the end of each month.
 
 ## Survey
 
-- Human Action Recognition from Various Data Modalities: A Review (**TPMAI 2022**) [[paper](https://arxiv.org/pdf/2012.11866.pdf)]
+- Human Action Recognition from Various Data Modalities: A Review (**TPAMI 2022**) [[paper](https://arxiv.org/pdf/2012.11866.pdf)]
 - Human action recognition and prediction: A survey (**IJCV 2022**) [[paper](https://link.springer.com/article/10.1007/s11263-022-01594-9)]
 - Action recognition based on RGB and skeleton data sets: A survey (**Neurocomputing 2022**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222011596)]
 - A Comparative Review of Recent Kinect-based Action Recognition Algorithms (**TIP 2019**) [[paper](https://arxiv.org/pdf/1906.09955.pdf)]
