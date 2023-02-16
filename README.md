@@ -7,6 +7,7 @@ We collect existing papers on skeleton-based action recognition published in pro
 
 This paper list will be continuously updated at the end of each month.
 
+
 ## Survey
 
 - Human Action Recognition from Various Data Modalities: A Review (**TPMAI 2022**) [[paper](https://arxiv.org/pdf/2012.11866.pdf)]
@@ -313,7 +314,7 @@ This paper list will be continuously updated at the end of each month.
 **CVPR**
 - Recognizing Human Actions as the Evolution of Pose Estimation Maps [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Recognizing_Human_Actions_CVPR_2018_paper.pdf)] [[code](https://github.com/nkliuyifang/Skeleton-based-Human-Action-Recognition)]
 - Independently recurrent neural network (indrnn): Building a longer and deeper rnn [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Independently_Recurrent_Neural_CVPR_2018_paper.pdf)] [[code](https://github.com/Sunnydreamrain/IndRNN_pytorch)]
-- 2d/3d pose estimation and action recognition using multitask deep learning [[paper](2D/3D Pose Estimation and Action Recognition using Multitask Dee)] [[code](https://github.com/dluvizon/deephar)]
+- 2d/3d pose estimation and action recognition using multitask deep learning [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luvizon_2D3D_Pose_Estimation_CVPR_2018_paper.pdf)] [[code](https://github.com/dluvizon/deephar)]
 - Deep progressive reinforcement learning for skeleton-based action recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.pdf)]
 
 **ECCV**
