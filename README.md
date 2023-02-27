@@ -27,7 +27,7 @@ This paper list will be continuously updated at the end of each month.
 - Anonymization for Skeleton Action Recognition [[paper](https://arxiv.org/pdf/2111.15129.pdf)] [[code](https://github.com/ml-postech/Skeleton-anonymization)]
 - Defending Black-box Skeleton-based Human Activity Classifiers [[paper](https://arxiv.org/pdf/2203.04713.pdf)] [[code](https://github.com/realcrane/Defending-Black-box-Skeleton-based-Human-Activity-Classifiers)]
 - Hierarchical Contrast for Unsupervised Skeleton-based Action Representation Learning [[paper](https://arxiv.org/pdf/2212.02082.pdf)] [[code](https://github.com/HuiGuanLab/HiCo)]
-- Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences [[paper](https://arxiv.org/pdf/2302.09018.pdf)]
+- Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences [[paper](https://arxiv.org/pdf/2302.09018.pdf)] [[code](https://github.com/YujieOuO/PSTL)]
 
 **ICLR**
 - Graph Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2301.10900.pdf)] [[code](https://github.com/OliverHxh/SkeletonGCL)]
@@ -423,6 +423,6 @@ This paper list will be continuously updated at the end of each month.
 **NeurIPS** 
 - Two-Stream Convolutional Networks for Action Recognition in Videos [[paper](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)]
 
-## Last update: Feb 22, 2023
+## Last update: Feb 27, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
