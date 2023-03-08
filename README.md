@@ -117,7 +117,6 @@ This paper list will be continuously updated at the end of each month.
 **Neurocomputing**
 - Forward-reverse adaptive graph convolutional networks for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221018920)] [[code](https://github.com/Nanasaki-Ai/FR-AGCN)]
 - AFE-CNN: 3D Skeleton-based Action Recognition with Action Feature Enhancement [[paper](https://arxiv.org/pdf/2208.03444.pdf)]
-- Forward-reverse adaptive graph convolutional networks for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221018920)]
 
 
 **arXiv papers**
