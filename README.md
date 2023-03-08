@@ -344,9 +344,12 @@ This paper list will be continuously updated at the end of each month.
 - Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation [[paper](https://arxiv.org/pdf/1804.06055.pdf)] [[code](https://github.com/huguyuehuhu/HCN-pytorch)]
 - Memory Attention Networks for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/1804.08254.pdf)] [[code](https://github.com/memory-attention-networks/MANs)]
 
+**BMVC**
+- Part-based graph convolutional network for action recognition [[paper](https://arxiv.org/abs/1809.04983)] [[code](https://github.com/kalpitthakkar/pb-gcn)] 
+- A fine-to-coarse convolutional neural network for 3D human action recognition [[paper](https://arxiv.org/abs/1805.11790)] 
+
 **ICIP**
 - Joints relation inference network for skeleton-based action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802912)]
-
 
 **TIP**
 - Beyond joints: Learning representations from primitive geometries for skeleton-based action recognition and detection [[paper](https://ieeexplore.ieee.org/abstract/document/8360391)] [[code](https://github.com/hongsong-wang/Beyond-Joints)]
