@@ -169,6 +169,9 @@ This paper list will be continuously updated at the end of each month.
 - UNIK: A Unified Framework for Real-world Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2107.08580.pdf)] [[code](https://github.com/YangDi666/UNIK)]
 - Unsupervised human action recognition with skeletal graph Laplacian and self-supervised viewpoints invariance [[paper](https://arxiv.org/pdf/2204.10312.pdf)] [[code](https://github.com/IIT-PAVIS/UHAR_Skeletal_Laplacian)]
 
+**WACV**
+- JOLO-GCN: mining joint-centered light-weight information for skeleton-based action recognition [[paper](https://arxiv.org/abs/2011.07787)]
+
 **ICPR**
 - Learning Connectivity with Graph Convolutional Networks for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2112.03328.pdf)]
 
