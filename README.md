@@ -88,6 +88,7 @@ This paper list will be continuously updated at the end of each month.
 
 **WACV**
 - Skeleton-DML: deep metric learning for skeleton-based one-shot action recognition [[paper](openaccess.thecvf.com/content/WACV2022/papers/Memmesheimer_Skeleton-DML_Deep_Metric_Learning_for_Skeleton-Based_One-Shot_Action_Recognition_WACV_2022_paper.pdf)] [[code](https://github.com/raphaelmemmesheimer/skeleton-dml)]
+- Generative adversarial graph convolutional networks for human action synthesis [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Degardin_Generative_Adversarial_Graph_Convolutional_Networks_for_Human_Action_Synthesis_WACV_2022_paper.pdf)] [[code](https://github.com/DegardinBruno/Kinetic-GAN)]
 - Adaptive Local-Component-aware Graph Convolutional Network for One-shot Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Zhu_Adaptive_Local-Component-Aware_Graph_Convolutional_Network_for_One-Shot_Skeleton-Based_Action_Recognition_WACV_2023_paper.pdf)]
 
 **ICPR**
