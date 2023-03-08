@@ -40,11 +40,11 @@ This paper list will be continuously updated at the end of each month.
 - Skeleton-based Action Recognition through Contrasting Two-Stream Spatial-Temporal Networks [[paper](https://arxiv.org/pdf/2301.11495.pdf)]
 
 **arXiv papers**
+- Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2302.02327.pdf)] [[code](https://github.com/1xbq1/PSP-Learning)]
 - Modiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/pdf/2301.03949.pdf)]
 - Action Capsules: Human Skeleton Action Recognition [[paper](https://arxiv.org/pdf/2301.13090.pdf)]
 - Skeleton-based Human Action Recognition via Convolutional Neural Networks (CNN) [[paper](https://arxiv.org/pdf/2301.13360.pdf)]
 - Spatiotemporal Decouple-and-Squeeze Contrastive Learning for Semi-Supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2302.02316.pdf)]
-- Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2302.02327.pdf)] [[code](https://github.com/1xbq1/PSP-Learning)]
 - Dynamic Spatial-temporal Hypergraph Convolutional Network for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2302.08689.pdf)]
 - DMMG: Dual Min-Max Games for Self-Supervised Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2302.12007.pdf)]
 - Spatial-temporal Transformer-guided Diffusion based Data Augmentation for Efficient Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2302.13434.pdf)]
