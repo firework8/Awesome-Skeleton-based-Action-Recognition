@@ -261,6 +261,9 @@ This paper list will be continuously updated at the end of each month.
 - Group-Skeleton-Based Human Action Recognition in Complex Events [[paper](https://arxiv.org/ftp/arxiv/papers/2011/2011.13273.pdf)]
 - Mix dimension in poincaré geometry for 3d skeleton-based action recognition [[paper](https://arxiv.org/pdf/2007.15678.pdf)]
 
+**ACCV**
+- Decoupled spatial-temporal attention network for skeleton-based action-gesture recognition [[paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Shi_Decoupled_Spatial-Temporal_Attention_Network_for_Skeleton-Based_Action-Gesture_Recognition_ACCV_2020_paper.pdf)]
+
 **TPAMI**
 - Learning multi-view interactional skeleton graph for action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9234715)] [[code](https://github.com/niais/mv-ignet)]
 - Multi-task deep learning for real-time 3D human pose estimation and action recognition [[paper](https://arxiv.org/pdf/1912.08077.pdf)] [[code](https://github.com/dluvizon/deephar)]
