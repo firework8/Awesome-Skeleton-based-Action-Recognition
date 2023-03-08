@@ -32,6 +32,9 @@ This paper list will be continuously updated at the end of each month.
 **ICLR**
 - Graph Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2301.10900.pdf)] [[code](https://github.com/OliverHxh/SkeletonGCL)]
 
+**ICIP**
+- Temporal-Channel Topology Enhanced Network for Skeleton-Based Action Recognition [[paper](https://arxiv.org/ftp/arxiv/papers/2302/2302.12967.pdf)] [[code](https://github.com/aikuniverse/TCTE-Net)]
+
 **TMM**
 - Delving Deep into One-Shot Skeleton-based Action Recognition with Diverse Occlusions [[paper](https://ieeexplore.ieee.org/abstract/document/10011561)] [[code](https://github.com/KPeng9510/Trans4SOAR)]
 - Skeleton-based Action Recognition through Contrasting Two-Stream Spatial-Temporal Networks [[paper](https://arxiv.org/pdf/2301.11495.pdf)]
@@ -43,6 +46,8 @@ This paper list will be continuously updated at the end of each month.
 - Spatiotemporal Decouple-and-Squeeze Contrastive Learning for Semi-Supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2302.02316.pdf)]
 - Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2302.02327.pdf)] [[code](https://github.com/1xbq1/PSP-Learning)]
 - Dynamic Spatial-temporal Hypergraph Convolutional Network for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2302.08689.pdf)]
+- DMMG: Dual Min-Max Games for Self-Supervised Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2302.12007.pdf)]
+- Spatial-temporal Transformer-guided Diffusion based Data Augmentation for Efficient Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2302.13434.pdf)]
 
 
 ### 2022
@@ -423,6 +428,6 @@ This paper list will be continuously updated at the end of each month.
 **NeurIPS** 
 - Two-Stream Convolutional Networks for Action Recognition in Videos [[paper](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)]
 
-## Last update: Feb 27, 2023
+## Last update: Mar 8, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
