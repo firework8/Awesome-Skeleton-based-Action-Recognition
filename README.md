@@ -59,7 +59,7 @@ This paper list will be continuously updated at the end of each month.
 ### 2022
 
 **CVPR**
-- InfoGCN: Representation Learning for Human Skeleton-based Action Recognition [[paper](https://github.com/stnoah1/infogcn)] [[code](https://github.com/stnoah1/infogcn)]
+- InfoGCN: Representation Learning for Human Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chi_InfoGCN_Representation_Learning_for_Human_Skeleton-Based_Action_Recognition_CVPR_2022_paper.pdf)] [[code](https://github.com/stnoah1/infogcn)]
 - Revisiting Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Duan_Revisiting_Skeleton-Based_Action_Recognition_CVPR_2022_paper.pdf)] [[code](https://github.com/kennymckormick/pyskl)]
 
 **ECCV**
