@@ -21,6 +21,13 @@ This paper list will be continuously updated at the end of each month.
 
 ### 2023
 
+**CVPR**
+- Learning Discriminative Representations for Skeleton Based Action Recognition [[paper](https://arxiv.org/abs/2303.03729)] [[code](https://github.com/zhysora/FR-Head)]
+
+**ICLR**
+- Graph Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2301.10900.pdf)] [[code](https://github.com/OliverHxh/SkeletonGCL)]
+- Hyperbolic Self-paced Learning for Self-supervised Skeleton-based Action Representations [[paper](https://arxiv.org/abs/2303.06242)] [[code](https://github.com/paolomandica/HYSP)]
+
 **AAAI**
 - Language Supervised Training for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2208.05318.pdf)] [[code](https://github.com/MartinXM/LST)]
 - Hierarchical Consistent Contrastive Learning for Skeleton-Based Action Recognition with Growing Augmentations [[paper](https://arxiv.org/abs/2211.13466)] [[code](https://github.com/JHang2020/HiCLR)]
@@ -28,9 +35,6 @@ This paper list will be continuously updated at the end of each month.
 - Defending Black-box Skeleton-based Human Activity Classifiers [[paper](https://arxiv.org/pdf/2203.04713.pdf)] [[code](https://github.com/realcrane/Defending-Black-box-Skeleton-based-Human-Activity-Classifiers)]
 - Hierarchical Contrast for Unsupervised Skeleton-based Action Representation Learning [[paper](https://arxiv.org/pdf/2212.02082.pdf)] [[code](https://github.com/HuiGuanLab/HiCo)]
 - Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences [[paper](https://arxiv.org/pdf/2302.09018.pdf)] [[code](https://github.com/YujieOuO/PSTL)]
-
-**ICLR**
-- Graph Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2301.10900.pdf)] [[code](https://github.com/OliverHxh/SkeletonGCL)]
 
 **ICIP**
 - Temporal-Channel Topology Enhanced Network for Skeleton-Based Action Recognition [[paper](https://arxiv.org/ftp/arxiv/papers/2302/2302.12967.pdf)] [[code](https://github.com/aikuniverse/TCTE-Net)]
@@ -439,6 +443,6 @@ This paper list will be continuously updated at the end of each month.
 **NeurIPS** 
 - Two-Stream Convolutional Networks for Action Recognition in Videos [[paper](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)]
 
-## Last update: Mar 8, 2023
+## Last update: Mar 15, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
