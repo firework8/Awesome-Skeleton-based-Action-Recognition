@@ -47,6 +47,9 @@ This paper list will be continuously updated at the end of each month.
 **TNNLS**
 - Spatiotemporal Decouple-and-Squeeze Contrastive Learning for Semi-Supervised Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10066256)]
 
+**PR**
+- Online Skeleton-based Action Recognition with Continual Spatio-Temporal Graph Convolutional Networks [[paper](https://arxiv.org/abs/2203.11009)] [[code](https://github.com/LukasHedegaard/continual-skeletons)]
+
 **arXiv papers**
 - Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.02327)] [[code](https://github.com/1xbq1/PSP-Learning)]
 - Modiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/abs/2301.03949)]
@@ -129,7 +132,6 @@ This paper list will be continuously updated at the end of each month.
 **arXiv papers**
 - Spatio-Temporal Tuples Transformer for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2201.02849)] [[code](https://github.com/heleiqiu/STTFormer)]
 - HAA4D: Few-Shot Human Atomic Action Recognition via 3D Spatio-Temporal Skeletal Alignment [[paper](https://arxiv.org/abs/2202.07308)] [[code](https://github.com/Morris88826/HAA4D)]
-- Online Skeleton-based Action Recognition with Continual Spatio-Temporal Graph Convolutional Networks [[paper](https://arxiv.org/abs/2203.11009)] [[code](https://github.com/LukasHedegaard/continual-skeletons)]
 - Contrastive Learning from Spatio-Temporal Mixed Skeleton Sequences for Self-Supervised Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2207.03065)] [[code](https://github.com/czhaneva/SkeleMixCLR)]
 - Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2208.10741)] [[code](https://github.com/Jho-Yonsei/HD-GCN)] 
 - Spatial Temporal Graph Attention Network for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2208.08599)] [[code](https://github.com/hulianyuyy/STGAT)]
