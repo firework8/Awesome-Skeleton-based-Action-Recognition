@@ -409,8 +409,8 @@ This paper list will be continuously updated at the end of each month.
 - Rolling rotations for recognizing human actions from 3d skeletal data [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vemulapalli_Rolling_Rotations_for_CVPR_2016_paper.pdf)]
 
 **ECCV**
-- Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_50)]
 - Temporal segment networks: Towards good practices for deep action recognition [[paper](https://arxiv.org/pdf/1608.00859.pdf%EF%BC%89)] [[code](https://github.com/yjxiong/temporal-segment-networks)]
+- Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_50)]
 
 **AAAI**
 - Co-occurrence Feature Learning for Skeleton based Action Recognition using Regularized Deep LSTM Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/10451)]
