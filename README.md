@@ -444,6 +444,20 @@ This paper list will be continuously updated at the end of each month.
 **NeurIPS** 
 - Two-Stream Convolutional Networks for Action Recognition in Videos [[paper](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)]
 
-## Last update: Mar 20, 2023
+## Other Resources
+With all the resources available on the github website, this paper list is comprehensive and recently updated.
+
+- [niais/Awesome-Skeleton-based-Action-Recognition](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition)
+- [Kali-Hac/Awesome-Skeleton-Based-Models](https://github.com/Kali-Hac/Awesome-Skeleton-Based-Models)
+- [cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes](https://github.com/cagbal/Skeleton-Based-Action-Recognition-Papers-and-Notes)
+- [XiaoCode-er/Skeleton-Based-Action-Recognition-Papers](https://github.com/XiaoCode-er/Skeleton-Based-Action-Recognition-Papers)
+- [leviethung2103/awesome-skeleton-based-action-recognition](https://github.com/leviethung2103/awesome-skeleton-based-action-recognition)
+- [fdu-wuyuan/Siren](https://github.com/fdu-wuyuan/Siren)
+- [manjunath5496/Skeleton-based-Action-Recognition-Papers](https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers)
+- [liaomingg/action_recognition_and_skeleton_detection_summary](https://github.com/liaomingg/action_recognition_and_skeleton_detection_summary)
+- [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
+- [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
+
+## Last update: Mar 21, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
