@@ -22,8 +22,9 @@ This paper list will be continuously updated at the end of each month.
 ### 2023
 
 **CVPR**
-- Learning Discriminative Representations for Skeleton Based Action Recognition [[paper](https://arxiv.org/abs/2303.03729)] [[code](https://github.com/zhysora/FR-Head)]
+- Learning Discriminative Representations for Skeleton Based Action Recognition [[paper](https://arxiv.org/pdf/2303.03729.pdf)] [[code](https://github.com/zhysora/FR-Head)]
 - Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition [[code](https://github.com/Infinitywxh/Neural_Koopman_pooling)]
+- Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2303.10904.pdf)] [[code](https://langlandslin.github.io/projects/ActCLR/)]
 
 **ICLR**
 - Graph Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2301.10900.pdf)] [[code](https://github.com/OliverHxh/SkeletonGCL)]
@@ -458,6 +459,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Mar 21, 2023
+## Last update: Mar 23, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
