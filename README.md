@@ -23,8 +23,9 @@ This paper list will be continuously updated at the end of each month.
 
 **CVPR**
 - Learning Discriminative Representations for Skeleton Based Action Recognition [[paper](https://arxiv.org/pdf/2303.03729.pdf)] [[code](https://github.com/zhysora/FR-Head)]
-- Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition [[code](https://github.com/Infinitywxh/Neural_Koopman_pooling)]
 - Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2303.10904.pdf)] [[code](https://langlandslin.github.io/projects/ActCLR/)]
+- Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition [[code](https://github.com/Infinitywxh/Neural_Koopman_pooling)]
+
 
 **ICLR**
 - Graph Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2301.10900.pdf)] [[code](https://github.com/OliverHxh/SkeletonGCL)]
