@@ -25,6 +25,9 @@ This paper list will be continuously updated at the end of each month.
 - Learning Discriminative Representations for Skeleton Based Action Recognition [[paper](https://arxiv.org/pdf/2303.03729.pdf)] [[code](https://github.com/zhysora/FR-Head)]
 - Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2303.10904.pdf)] [[code](https://langlandslin.github.io/projects/ActCLR/)]
 - Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition [[code](https://github.com/Infinitywxh/Neural_Koopman_pooling)]
+- 3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition [[paper](https://arxiv.org/pdf/2303.14474.pdf)]
+- Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features [[paper](https://arxiv.org/pdf/2303.15167.pdf)]
+- Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling [[paper](https://arxiv.org/pdf/2303.15270.pdf)]
 
 
 **ICLR**
