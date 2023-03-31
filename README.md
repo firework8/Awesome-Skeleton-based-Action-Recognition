@@ -41,6 +41,7 @@ This paper list will be continuously updated at the end of each month.
 - Defending Black-box Skeleton-based Human Activity Classifiers [[paper](https://arxiv.org/pdf/2203.04713.pdf)] [[code](https://github.com/realcrane/Defending-Black-box-Skeleton-based-Human-Activity-Classifiers)]
 - Hierarchical Contrast for Unsupervised Skeleton-based Action Representation Learning [[paper](https://arxiv.org/pdf/2212.02082.pdf)] [[code](https://github.com/HuiGuanLab/HiCo)]
 - Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences [[paper](https://arxiv.org/pdf/2302.09018.pdf)] [[code](https://github.com/YujieOuO/PSTL)]
+- Novel Motion Patterns Matter for Practical Skeleton-based Action Recognition [[paper](https://humanperception.github.io/documents/AAAI2023.pdf)]
 
 **ICIP**
 - Temporal-Channel Topology Enhanced Network for Skeleton-Based Action Recognition [[paper](https://arxiv.org/ftp/arxiv/papers/2302/2302.12967.pdf)] [[code](https://github.com/aikuniverse/TCTE-Net)]
