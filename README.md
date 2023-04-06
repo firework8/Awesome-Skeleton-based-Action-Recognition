@@ -24,6 +24,8 @@ This paper list will be continuously updated at the end of each month.
 **CVPR**
 - Learning Discriminative Representations for Skeleton Based Action Recognition [[paper](https://arxiv.org/pdf/2303.03729.pdf)] [[code](https://github.com/zhysora/FR-Head)]
 - Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2303.10904.pdf)] [[code](https://langlandslin.github.io/projects/ActCLR/)]
+- STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition [[paper](https://arxiv.org/pdf/2303.18177.pdf)] [[code](https://github.com/zgzxy001/STMT)]
+- HaLP: Hallucinating Latent Positives for Skeleton-based Self-Supervised Learning of Actions [[paper](https://arxiv.org/pdf/2304.00387.pdf)] [[code](https://github.com/anshulbshah/HaLP)]
 - Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition [[code](https://github.com/Infinitywxh/Neural_Koopman_pooling)]
 - 3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition [[paper](https://arxiv.org/pdf/2303.14474.pdf)]
 - Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features [[paper](https://arxiv.org/pdf/2303.15167.pdf)]
@@ -65,6 +67,7 @@ This paper list will be continuously updated at the end of each month.
 - Dynamic Spatial-temporal Hypergraph Convolutional Network for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.08689)]
 - DMMG: Dual Min-Max Games for Self-Supervised Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2302.12007)]
 - Spatial-temporal Transformer-guided Diffusion based Data Augmentation for Efficient Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.13434)]
+- Focalized Contrastive View-invariant Learning for Self-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2304.00858)]
 
 
 ### 2022
@@ -464,6 +467,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Mar 29, 2023
+## Last update: Apr 6, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
