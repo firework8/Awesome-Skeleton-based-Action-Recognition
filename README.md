@@ -161,7 +161,6 @@ This paper list will be continuously updated at the end of each month.
 - 3D Human Action Representation Learning via Cross-View Consistency Pursuit [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_3D_Human_Action_Representation_Learning_via_Cross-View_Consistency_Pursuit_CVPR_2021_paper.pdf)] [[code](https://github.com/LinguoLi/CrosSCLR)]
 - BASAR:Black-box Attack on Skeletal Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Diao_BASARBlack-Box_Attack_on_Skeletal_Action_Recognition_CVPR_2021_paper.pdf)] [[code](https://github.com/realcrane/BASAR-Black-box-Attack-on-Skeletal-Action-Recognition)]
 - Understanding the Robustness of Skeleton-based Action Recognition under Adversarial Attack [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Understanding_the_Robustness_of_Skeleton-Based_Action_Recognition_Under_Adversarial_Attack_CVPR_2021_paper.pdf)] [[code](https://github.com/realcrane/Understanding-the-Robustness-of-Skeleton-based-Action-Recognition-under-Adversarial-Attack)]
-- One-shot action recognition in challenging therapy scenarios [[paper](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Sabater_One-Shot_Action_Recognition_in_Challenging_Therapy_Scenarios_CVPRW_2021_paper.pdf)] [[code](https://github.com/AlbertoSabater/Skeleton-based-One-shot-Action-Recognition)]
 
 **ICCV**
 - Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Channel-Wise_Topology_Refinement_Graph_Convolution_for_Skeleton-Based_Action_Recognition_ICCV_2021_paper.pdf)] [[code](https://github.com/Uason-Chen/CTR-GCN)]
@@ -181,6 +180,9 @@ This paper list will be continuously updated at the end of each month.
 - Skeleton-Contrastive 3D Action Representation Learning [[paper](https://arxiv.org/pdf/2108.03656.pdf)] [[code](https://github.com/fmthoker/skeleton-contrast)]
 - STST: Spatial-temporal specialized transformer for skeleton-based action recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475473)] [[code](https://github.com/HanzoZY/STST)]
 - Modeling the uncertainty for self-supervised 3d skeleton action representation learning [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475248)]
+
+**CVPRW**
+- One-shot action recognition in challenging therapy scenarios [[paper](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Sabater_One-Shot_Action_Recognition_in_Challenging_Therapy_Scenarios_CVPRW_2021_paper.pdf)] [[code](https://github.com/AlbertoSabater/Skeleton-based-One-shot-Action-Recognition)]
 
 **BMVC**
 - UNIK: A Unified Framework for Real-world Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2107.08580.pdf)] [[code](https://github.com/YangDi666/UNIK)]
