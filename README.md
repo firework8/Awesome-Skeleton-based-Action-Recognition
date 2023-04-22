@@ -71,6 +71,7 @@ This paper list will be continuously updated at the end of each month.
 - Attack is Good Augmentation: Towards Skeleton-Contrastive Representation Learning [[paper](https://arxiv.org/abs/2304.04023)]
 - Self-Supervised 3D Action Representation Learning with Skeleton Cloud Colorization [[paper](https://arxiv.org/abs/2304.08799)]
 - Skeleton-based action analysis for ADHD diagnosis [[paper](https://arxiv.org/abs/2304.09751)]
+- Video-based Contrastive Learning on Decision Trees: from Action Recognition to Autism Diagnosis [[paper](https://arxiv.org/abs/2304.10073)]
 
 
 ### 2022
@@ -472,6 +473,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Apr 20, 2023
+## Last update: Apr 22, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
