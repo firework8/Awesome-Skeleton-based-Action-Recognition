@@ -31,7 +31,6 @@ This paper list will be continuously updated at the end of each month.
 - Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features [[paper](https://arxiv.org/pdf/2303.15167.pdf)]
 - Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling [[paper](https://arxiv.org/pdf/2303.15270.pdf)]
 
-
 **ICLR**
 - Graph Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2301.10900.pdf)] [[code](https://github.com/OliverHxh/SkeletonGCL)]
 - Hyperbolic Self-paced Learning for Self-supervised Skeleton-based Action Representations [[paper](https://arxiv.org/abs/2303.06242)] [[code](https://github.com/paolomandica/HYSP)]
@@ -44,6 +43,9 @@ This paper list will be continuously updated at the end of each month.
 - Hierarchical Contrast for Unsupervised Skeleton-based Action Representation Learning [[paper](https://arxiv.org/pdf/2212.02082.pdf)] [[code](https://github.com/HuiGuanLab/HiCo)]
 - Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences [[paper](https://arxiv.org/pdf/2302.09018.pdf)] [[code](https://github.com/YujieOuO/PSTL)]
 - Novel Motion Patterns Matter for Practical Skeleton-based Action Recognition [[paper](https://humanperception.github.io/documents/AAAI2023.pdf)]
+
+**IJCAI**
+- Part Aware Contrastive Learning for Self-Supervised Action Recognition [[paper](https://arxiv.org/pdf/2305.00666.pdf)] [[code](https://github.com/GitHubOfHyl97/SkeAttnCLR)]
 
 **ICIP**
 - Temporal-Channel Topology Enhanced Network for Skeleton-Based Action Recognition [[paper](https://arxiv.org/ftp/arxiv/papers/2302/2302.12967.pdf)] [[code](https://github.com/aikuniverse/TCTE-Net)]
@@ -61,6 +63,7 @@ This paper list will be continuously updated at the end of each month.
 
 **arXiv papers**
 - Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.02327)] [[code](https://github.com/1xbq1/PSP-Learning)]
+- TSGCNeXt: Dynamic-Static Multi-Graph Convolution for Efficient Skeleton-Based Action Recognition with Long-term Learning Potential [[paper](https://arxiv.org/abs/2304.11631)] [[code](https://github.com/vvhj/TSGCNeXt)]
 - Modiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/abs/2301.03949)]
 - Action Capsules: Human Skeleton Action Recognition [[paper](https://arxiv.org/abs/2301.13090)]
 - Skeleton-based Human Action Recognition via Convolutional Neural Networks (CNN) [[paper](https://arxiv.org/abs/2301.13360)]
