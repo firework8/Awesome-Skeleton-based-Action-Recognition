@@ -75,6 +75,7 @@ This paper list will be continuously updated at the end of each month.
 - Self-Supervised 3D Action Representation Learning with Skeleton Cloud Colorization [[paper](https://arxiv.org/abs/2304.08799)]
 - Skeleton-based action analysis for ADHD diagnosis [[paper](https://arxiv.org/abs/2304.09751)]
 - Video-based Contrastive Learning on Decision Trees: from Action Recognition to Autism Diagnosis [[paper](https://arxiv.org/abs/2304.10073)]
+- Cross-view Action Recognition via Contrastive View-invariant Representation [[paper](https://arxiv.org/abs/2305.01733)]
 
 
 ### 2022
