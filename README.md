@@ -22,14 +22,14 @@ This paper list will be continuously updated at the end of each month.
 ### 2023
 
 **CVPR**
-- Learning Discriminative Representations for Skeleton Based Action Recognition [[paper](https://arxiv.org/pdf/2303.03729.pdf)] [[code](https://github.com/zhysora/FR-Head)]
-- Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2303.10904.pdf)] [[code](https://langlandslin.github.io/projects/ActCLR/)]
-- STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition [[paper](https://arxiv.org/pdf/2303.18177.pdf)] [[code](https://github.com/zgzxy001/STMT)]
-- HaLP: Hallucinating Latent Positives for Skeleton-based Self-Supervised Learning of Actions [[paper](https://arxiv.org/pdf/2304.00387.pdf)] [[code](https://github.com/anshulbshah/HaLP)]
-- Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition [[code](https://github.com/Infinitywxh/Neural_Koopman_pooling)]
-- 3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition [[paper](https://arxiv.org/pdf/2303.14474.pdf)]
-- Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features [[paper](https://arxiv.org/pdf/2303.15167.pdf)]
-- Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling [[paper](https://arxiv.org/pdf/2303.15270.pdf)]
+- Learning Discriminative Representations for Skeleton Based Action Recognition [[paper]([https://arxiv.org/pdf/2303.03729.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Learning_Discriminative_Representations_for_Skeleton_Based_Action_Recognition_CVPR_2023_paper.pdf))] [[code](https://github.com/zhysora/FR-Head)]
+- Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition [[paper]([https://arxiv.org/pdf/2303.10904.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Actionlet-Dependent_Contrastive_Learning_for_Unsupervised_Skeleton-Based_Action_Recognition_CVPR_2023_paper.pdf))] [[code](https://langlandslin.github.io/projects/ActCLR/)]
+- STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition [[paper]([https://arxiv.org/pdf/2303.18177.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_STMT_A_Spatial-Temporal_Mesh_Transformer_for_MoCap-Based_Action_Recognition_CVPR_2023_paper.pdf))] [[code](https://github.com/zgzxy001/STMT)]
+- HaLP: Hallucinating Latent Positives for Skeleton-based Self-Supervised Learning of Actions [[paper]([https://arxiv.org/pdf/2304.00387.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Shah_HaLP_Hallucinating_Latent_Positives_for_Skeleton-Based_Self-Supervised_Learning_of_Actions_CVPR_2023_paper.pdf))] [[code](https://github.com/anshulbshah/HaLP)]
+- Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition [[paper]([https://arxiv.org/pdf/2304.00387.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Neural_Koopman_Pooling_Control-Inspired_Temporal_Dynamics_Encoding_for_Skeleton-Based_Action_CVPR_2023_paper.pdf))] [[code](https://github.com/Infinitywxh/Neural_Koopman_pooling)]
+- 3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition [[paper]([https://arxiv.org/pdf/2303.14474.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.pdf))]
+- Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features [[paper]([https://arxiv.org/pdf/2303.15167.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Sato_Prompt-Guided_Zero-Shot_Anomaly_Action_Recognition_Using_Pretrained_Deep_Skeleton_Features_CVPR_2023_paper.pdf))]
+- Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling [[paper]([https://arxiv.org/pdf/2303.15270.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Hachiuma_Unified_Keypoint-Based_Action_Recognition_Framework_via_Structured_Keypoint_Pooling_CVPR_2023_paper.pdf))]
 
 **ICLR**
 - Graph Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2301.10900.pdf)] [[code](https://github.com/OliverHxh/SkeletonGCL)]
