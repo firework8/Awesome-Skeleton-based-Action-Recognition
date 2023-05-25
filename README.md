@@ -14,7 +14,7 @@ This paper list will be continuously updated at the end of each month.
 - Human action recognition and prediction: A survey (**IJCV 2022**) [[paper](https://arxiv.org/pdf/1806.11230.pdf)]
 - Action recognition based on RGB and skeleton data sets: A survey (**Neurocomputing 2022**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222011596)]
 - A Comparative Review of Recent Kinect-based Action Recognition Algorithms (**TIP 2019**) [[paper](https://arxiv.org/pdf/1906.09955.pdf)]
-- ANUBIS: Review and Benchmark Skeleton-Based Action Recognition Methods with a New Dataset (**2022 arXiv paper**) [[paper](https://arxiv.org/abs/2205.02071)] [[code](http://hcc-workshop.anu.edu.au/webs/anu101/home)]
+- ANUBIS: Review and Benchmark Skeleton-Based Action Recognition Methods with a New Dataset (**2022 arXiv paper**) [[paper](https://arxiv.org/abs/2205.02071)]
 - A Survey on 3D Skeleton-Based Action Recognition Using Learning Method (**2020 arXiv paper**) [[paper](https://arxiv.org/abs/2002.05907)]
 
 ## Papers
