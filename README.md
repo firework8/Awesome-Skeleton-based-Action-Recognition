@@ -64,6 +64,8 @@ This paper list will be continuously updated at the end of each month.
 **arXiv papers**
 - Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.02327)] [[code](https://github.com/1xbq1/PSP-Learning)]
 - TSGCNeXt: Dynamic-Static Multi-Graph Convolution for Efficient Skeleton-Based Action Recognition with Long-term Learning Potential [[paper](https://arxiv.org/abs/2304.11631)] [[code](https://github.com/vvhj/TSGCNeXt)]
+- Overcoming Topology Agnosticism: Enhancing Skeleton-Based Action Recognition through Redefined Skeletal Topology Awareness [[paper](https://arxiv.org/abs/2305.11468)] [[code](https://github.com/ZhouYuxuanYX/BlockGCN)]
+- Language Knowledge-Assisted Representation Learning for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2305.12398)] [[code](https://github.com/damnull/lagcn)]
 - Modiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/abs/2301.03949)]
 - Action Capsules: Human Skeleton Action Recognition [[paper](https://arxiv.org/abs/2301.13090)]
 - Skeleton-based Human Action Recognition via Convolutional Neural Networks (CNN) [[paper](https://arxiv.org/abs/2301.13360)]
@@ -477,6 +479,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: May 20, 2023
+## Last update: May 25, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
