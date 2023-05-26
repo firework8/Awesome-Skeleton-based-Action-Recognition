@@ -400,7 +400,6 @@ This paper list will be continuously updated at the end of each month.
 - Modeling Temporal Dynamics and Spatial Configurations of Actions Using Two-Stream Recurrent Neural Networks [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Modeling_Temporal_Dynamics_CVPR_2017_paper.pdf)] 
 - Global Context-Aware Attention LSTM Networks for 3D Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Global_Context-Aware_Attention_CVPR_2017_paper.pdf)]
 - A New Representation of Skeleton Sequences for 3D Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ke_A_New_Representation_CVPR_2017_paper.pdf)]
-- Interpretable 3D Human Action Analysis with Temporal Convolutional Networks [[paper](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w20/papers/Kim_Interpretable_3D_Human_CVPR_2017_paper.pdf)]
 
 **ICCV**
 - View Adaptive Recurrent Neural Networks for High Performance Human Action Recognition from Skeleton Data [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.pdf)] [[code](https://github.com/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition)]
@@ -415,6 +414,9 @@ This paper list will be continuously updated at the end of each month.
 
 **ACM MM Workshop**
 - PKU-MMD: A Large Scale Benchmark for Continuous Multi-Modal Human Action Understanding [[paper](https://arxiv.org/abs/1703.07475)]
+
+**ICMEW**
+- Skeleton based action recognition using translation-scale invariant image mapping and multi-scale deep CNN [[paper](https://arxiv.org/pdf/1704.05645.pdf)]
 
 **TIP**
 - Skeleton-Based Human Action Recognition With Global Context-Aware Attention LSTM Networks [[paper](https://arxiv.org/pdf/1707.05740.pdf)]
