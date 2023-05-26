@@ -383,11 +383,11 @@ This paper list will be continuously updated at the end of each month.
 - Joints relation inference network for skeleton-based action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802912)]
 
 **TIP**
-- Beyond joints: Learning representations from primitive geometries for skeleton-based action recognition and detection [[paper](https://ieeexplore.ieee.org/abstract/document/8360391)] [[code](https://github.com/hongsong-wang/Beyond-Joints)]
+- Beyond Joints: Learning Representations From Primitive Geometries for Skeleton-Based Action Recognition and Detection [[paper](https://ieeexplore.ieee.org/abstract/document/8360391)] [[code](https://github.com/hongsong-wang/Beyond-Joints)]
 
 **TCSVT**
-- Skeleton-based action recognition with gated convolutional neural networks [[paper](https://ieeexplore.ieee.org/abstract/document/8529271)]
-- Action recognition with spatio–temporal visual attention on skeleton image sequences [[paper](https://arxiv.org/pdf/1801.10304.pdf)]
+- Skeleton-Based Action Recognition With Gated Convolutional Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/8529271)]
+- Action Recognition With Spatio–Temporal Visual Attention on Skeleton Image Sequences [[paper](https://arxiv.org/pdf/1801.10304.pdf)]
 
 **PR**
 - Learning content and style: Joint action recognition and person identification from human skeletons [[paper](https://www.sciencedirect.com/science/article/pii/S0031320318301195)]
@@ -399,24 +399,24 @@ This paper list will be continuously updated at the end of each month.
 - Deep Learning on Lie Groups for Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Deep_Learning_on_CVPR_2017_paper.pdf)] [[code](https://github.com/zhiwu-huang/LieNet)]
 - Modeling Temporal Dynamics and Spatial Configurations of Actions Using Two-Stream Recurrent Neural Networks [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Modeling_Temporal_Dynamics_CVPR_2017_paper.pdf)] 
 - Global Context-Aware Attention LSTM Networks for 3D Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Global_Context-Aware_Attention_CVPR_2017_paper.pdf)]
-- A new representation of skeleton sequences for 3d action recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ke_A_New_Representation_CVPR_2017_paper.pdf)]
+- A New Representation of Skeleton Sequences for 3D Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ke_A_New_Representation_CVPR_2017_paper.pdf)]
 
 **ICCV**
-- View adaptive recurrent neural networks for high performance human action recognition from skeleton data [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.pdf)] [[code](https://github.com/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition)]
+- View Adaptive Recurrent Neural Networks for High Performance Human Action Recognition from Skeleton Data [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.pdf)] [[code](https://github.com/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition)]
 - Ensemble Deep Learning for Skeleton-Based Action Recognition Using Temporal Sliding LSTM Networks [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lee_Ensemble_Deep_Learning_ICCV_2017_paper.pdf)] [[code](https://github.com/InwoongLee/TS-LSTM)]
-- Learning action recognition model from depth and skeleton videos [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rahmani_Learning_Action_Recognition_ICCV_2017_paper.pdf)]
+- Learning Action Recognition Model From Depth and Skeleton Videos [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rahmani_Learning_Action_Recognition_ICCV_2017_paper.pdf)]
 
 **AAAI**
 - An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11212)]
 
 **CVPRW**
-- Interpretable 3d human action analysis with temporal convolutional networks [[paper](https://arxiv.org/pdf/1704.04516.pdf)] [[code](https://github.com/TaeSoo-Kim/TCNActionRecognition)]
+- Interpretable 3D Human Action Analysis with Temporal Convolutional Networks [[paper](https://arxiv.org/pdf/1704.04516.pdf)] [[code](https://github.com/TaeSoo-Kim/TCNActionRecognition)]
 
 **ACM MM Workshop**
 - PKU-MMD: A Large Scale Benchmark for Continuous Multi-Modal Human Action Understanding [[paper](https://arxiv.org/abs/1703.07475)]
 
 **TIP**
-- Skeleton-based human action recognition with global context-aware attention LSTM networks [[paper](https://arxiv.org/pdf/1707.05740.pdf)]
+- Skeleton-Based Human Action Recognition With Global Context-Aware Attention LSTM Networks [[paper](https://arxiv.org/pdf/1707.05740.pdf)]
 
 **PR**
 - Learning discriminative trajectorylet detector sets for accurate skeleton-based action recognition [[paper](https://arxiv.org/pdf/1504.04923.pdf)]
@@ -427,7 +427,7 @@ This paper list will be continuously updated at the end of each month.
 
 **CVPR**
 - NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf)] [[code](https://github.com/shahroudy/NTURGB-D)]
-- Rolling rotations for recognizing human actions from 3d skeletal data [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vemulapalli_Rolling_Rotations_for_CVPR_2016_paper.pdf)]
+- Rolling Rotations for Recognizing Human Actions from 3D Skeletal Data [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vemulapalli_Rolling_Rotations_for_CVPR_2016_paper.pdf)]
 
 **ECCV**
 - Temporal segment networks: Towards good practices for deep action recognition [[paper](https://arxiv.org/pdf/1608.00859.pdf%EF%BC%89)] [[code](https://github.com/yjxiong/temporal-segment-networks)]
@@ -440,7 +440,7 @@ This paper list will be continuously updated at the end of each month.
 - Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks [[paper](https://arxiv.org/pdf/1611.02447.pdf)]
 
 **TCSVT**
-- Skeleton optical spectra-based action recognition using convolutional neural networks [[paper](https://ieeexplore.ieee.org/abstract/document/7742919)]
+- Skeleton Optical Spectra-Based Action Recognition Using Convolutional Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/7742919)]
 
 
 ### 2015
@@ -460,7 +460,7 @@ This paper list will be continuously updated at the end of each month.
 
 **CVPR**  
 - Cross-view Action Modeling, Learning and Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Wang_Cross-view_Action_Modeling_2014_CVPR_paper.pdf)]
-- Human action recognition by representing 3d skeletons as points in a lie group [[paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Vemulapalli_Human_Action_Recognition_2014_CVPR_paper.pdf)]
+- Human Action Recognition by Representing 3D Skeletons as Points in a Lie Group [[paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Vemulapalli_Human_Action_Recognition_2014_CVPR_paper.pdf)]
 
 **NeurIPS** 
 - Two-Stream Convolutional Networks for Action Recognition in Videos [[paper](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)]
