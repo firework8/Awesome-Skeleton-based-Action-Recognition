@@ -117,8 +117,8 @@ This paper list will be continuously updated at the end of each month.
 - Temporal-Viewpoint Transportation Plan for Skeletal Few-shot Action Recognition [[paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Temporal-Viewpoint_Transportation_Plan_for_Skeletal_Few-shot_Action_Recognition_ACCV_2022_paper.pdf)]
 
 **WACV**
-- Skeleton-DML: deep metric learning for skeleton-based one-shot action recognition [[paper](openaccess.thecvf.com/content/WACV2022/papers/Memmesheimer_Skeleton-DML_Deep_Metric_Learning_for_Skeleton-Based_One-Shot_Action_Recognition_WACV_2022_paper.pdf)] [[code](https://github.com/raphaelmemmesheimer/skeleton-dml)]
-- Generative adversarial graph convolutional networks for human action synthesis [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Degardin_Generative_Adversarial_Graph_Convolutional_Networks_for_Human_Action_Synthesis_WACV_2022_paper.pdf)] [[code](https://github.com/DegardinBruno/Kinetic-GAN)]
+- Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition [[paper](openaccess.thecvf.com/content/WACV2022/papers/Memmesheimer_Skeleton-DML_Deep_Metric_Learning_for_Skeleton-Based_One-Shot_Action_Recognition_WACV_2022_paper.pdf)] [[code](https://github.com/raphaelmemmesheimer/skeleton-dml)]
+- Generative Adversarial Graph Convolutional Networks for Human Action Synthesis [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Degardin_Generative_Adversarial_Graph_Convolutional_Networks_for_Human_Action_Synthesis_WACV_2022_paper.pdf)] [[code](https://github.com/DegardinBruno/Kinetic-GAN)]
 - Adaptive Local-Component-aware Graph Convolutional Network for One-shot Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Zhu_Adaptive_Local-Component-Aware_Graph_Convolutional_Network_for_One-Shot_Skeleton-Based_Action_Recognition_WACV_2023_paper.pdf)]
 
 **ICPR**
@@ -176,7 +176,7 @@ This paper list will be continuously updated at the end of each month.
 - Channel-wise Topology Refinement Graph Convolution for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Channel-Wise_Topology_Refinement_Graph_Convolution_for_Skeleton-Based_Action_Recognition_ICCV_2021_paper.pdf)] [[code](https://github.com/Uason-Chen/CTR-GCN)]
 - AdaSGN: Adapting Joint Number and Model Size for Efficient Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Shi_AdaSGN_Adapting_Joint_Number_and_Model_Size_for_Efficient_Skeleton-Based_ICCV_2021_paper.pdf)] [[code](https://github.com/lshiwjx/AdaSGN)]
 - Skeleton Cloud Colorization for Unsupervised 3D Action Representation Learning [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Skeleton_Cloud_Colorization_for_Unsupervised_3D_Action_Representation_Learning_ICCV_2021_paper.pdf)]
-- Self-supervised 3d skeleton action representation learning with motion consistency and continuity [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Su_Self-Supervised_3D_Skeleton_Action_Representation_Learning_With_Motion_Consistency_and_ICCV_2021_paper.pdf)]
+- Self-supervised 3D Skeleton Action Representation Learning with Motion Consistency and Continuity [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Su_Self-Supervised_3D_Skeleton_Action_Representation_Learning_With_Motion_Consistency_and_ICCV_2021_paper.pdf)]
 
 **NeurIPS** 
 - Unsupervised Motion Representation Learning with Capsule Autoencoders [[paper](https://proceedings.neurips.cc/paper/2021/file/19ca14e7ea6328a42e0eb13d585e4c22-Paper.pdf)]
@@ -188,30 +188,30 @@ This paper list will be continuously updated at the end of each month.
 **ACM MM**
 - Learning Multi-Granular Spatio-Temporal Graph Network for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2108.04536.pdf)] [[code](https://github.com/tailin1009/DualHead-Network)]
 - Skeleton-Contrastive 3D Action Representation Learning [[paper](https://arxiv.org/pdf/2108.03656.pdf)] [[code](https://github.com/fmthoker/skeleton-contrast)]
-- STST: Spatial-temporal specialized transformer for skeleton-based action recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475473)] [[code](https://github.com/HanzoZY/STST)]
-- Modeling the uncertainty for self-supervised 3d skeleton action representation learning [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475248)]
+- STST: Spatial-Temporal Specialized Transformer for Skeleton-based Action Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475473)] [[code](https://github.com/HanzoZY/STST)]
+- Modeling the Uncertainty for Self-supervised 3D Skeleton Action Representation Learning [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475248)]
 
 **CVPRW**
 - One-shot action recognition in challenging therapy scenarios [[paper](https://openaccess.thecvf.com/content/CVPR2021W/LLID/papers/Sabater_One-Shot_Action_Recognition_in_Challenging_Therapy_Scenarios_CVPRW_2021_paper.pdf)] [[code](https://github.com/AlbertoSabater/Skeleton-based-One-shot-Action-Recognition)]
 
 **BMVC**
 - UNIK: A Unified Framework for Real-world Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2107.08580.pdf)] [[code](https://github.com/YangDi666/UNIK)]
-- Unsupervised human action recognition with skeletal graph Laplacian and self-supervised viewpoints invariance [[paper](https://arxiv.org/pdf/2204.10312.pdf)] [[code](https://github.com/IIT-PAVIS/UHAR_Skeletal_Laplacian)]
+- Unsupervised Human Action Recognition with Skeletal Graph Laplacian and Self-Supervised Viewpoints Invariance [[paper](https://arxiv.org/pdf/2204.10312.pdf)] [[code](https://github.com/IIT-PAVIS/UHAR_Skeletal_Laplacian)]
 
 **WACV**
-- JOLO-GCN: mining joint-centered light-weight information for skeleton-based action recognition [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Cai_JOLO-GCN_Mining_Joint-Centered_Light-Weight_Information_for_Skeleton-Based_Action_Recognition_WACV_2021_paper.pdf)]
+- JOLO-GCN: Mining Joint-Centered Light-Weight Information for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Cai_JOLO-GCN_Mining_Joint-Centered_Light-Weight_Information_for_Skeleton-Based_Action_Recognition_WACV_2021_paper.pdf)]
 
 **ICPR**
 - Learning Connectivity with Graph Convolutional Networks for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2112.03328.pdf)]
 
 **ICIP**
-- Syntactically guided generative embeddings for zero-shot skeleton action recognition [[paper](https://arxiv.org/pdf/2101.11530.pdf)] [[code](https://github.com/skelemoa/synse-zsl)]
+- Syntactically Guided Generative Embeddings for Zero-Shot Skeleton Action Recognition [[paper](https://arxiv.org/pdf/2101.11530.pdf)] [[code](https://github.com/skelemoa/synse-zsl)]
 
 **ICRA**
 - Pose Refinement Graph Convolutional Network for Skeleton-basedAction Recognition [[paper](https://arxiv.org/pdf/2010.07367.pdf)] [[code](https://github.com/sj-li/PR-GCN)]
 
 **TPAMI**
-- Symbiotic graph neural networks for 3d skeleton-based human action recognition and motion prediction [[paper](https://arxiv.org/pdf/1910.02212.pdf)]
+- Symbiotic Graph Neural Networks for 3D Skeleton-Based Human Action Recognition and Motion Prediction [[paper](https://arxiv.org/pdf/1910.02212.pdf)]
 - Tensor Representations for Action Recognition [[paper](https://arxiv.org/pdf/2012.14371.pdf)]
 
 **IJCV**
@@ -219,27 +219,27 @@ This paper list will be continuously updated at the end of each month.
 
 **TIP**
 - Extremely Lightweight Skeleton-Based Action Recognition with ShiftGCN++ [[paper](https://ieeexplore.ieee.org/abstract/document/9515708)] [[code](https://github.com/kchengiva/Shift-GCN-plus)]
-- Structural knowledge distillation for efficient skeleton-based action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9351789)] [[code](https://github.com/xiaochehe/SKD)]
-- Hypergraph neural network for skeleton-based action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9329123)]
+- Structural Knowledge Distillation for Efficient Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9351789)] [[code](https://github.com/xiaochehe/SKD)]
+- Hypergraph Neural Network for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9329123)]
 - Feedback Graph Convolutional Network for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9626596)]
 
 **TIFS**
 - REGINA - Reasoning Graph Convolutional Networks in Human Action Recognition [[paper](https://arxiv.org/pdf/2105.06711.pdf)] [[code](https://github.com/DegardinBruno)]
 
 **TMM**
-- Prototypical contrast and reverse prediction: Unsupervised skeleton based action recognition [[paper](https://arxiv.org/pdf/2011.07236.pdf)] [[code](https://github.com/LZU-SIAT/PCRP)]
+- Prototypical Contrast and Reverse Prediction: Unsupervised Skeleton Based Action Recognition [[paper](https://arxiv.org/pdf/2011.07236.pdf)] [[code](https://github.com/LZU-SIAT/PCRP)]
 - A Multi-Stream Graph Convolutional Networks-Hidden Conditional Random Field Model for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9000721)]
-- Multi-localized sensitive autoencoder-attention-lstm for skeleton-based action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9392333)]
-- Laga-net: Local-and-global attention network for skeleton based action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9447926)]
+- Multi-Localized Sensitive Autoencoder-Attention-LSTM For Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9392333)]
+- LAGA-Net: Local-and-Global Attention Network for Skeleton Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9447926)]
 
 **TCSVT**
-- Fuzzy integral-based CNN classifier fusion for 3D skeleton action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9177170)] [[code](https://github.com/theavicaster/fuzzy-integral-cnn-fusion-3d-har)]
+- Fuzzy Integral-Based CNN Classifier Fusion for 3D Skeleton Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9177170)] [[code](https://github.com/theavicaster/fuzzy-integral-cnn-fusion-3d-har)]
 - A Central Difference Graph Convolutional Operator for Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2111.06995.pdf)]
-- Spatial temporal graph deconvolutional network for skeleton-based human action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9314910)]
+- Spatial Temporal Graph Deconvolutional Network for Skeleton-Based Human Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9314910)]
 - Symmetrical Enhanced Fusion Network for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9319717)]
 - Graph2Net: Perceptually-enriched graph learning for skeleton-based action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9446181)]
-- A cross view learning approach for skeleton-based action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9496611)]
-- Multi-stream interaction networks for human action recognition [[paper](https://ieeexplore.ieee.org/document/9492107)]
+- A Cross View Learning Approach for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9496611)]
+- Multi-Stream Interaction Networks for Human Action Recognition [[paper](https://ieeexplore.ieee.org/document/9492107)]
 
 **PR**
 - Arbitrary-view human action recognition via novel-view action generation [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321002302)] [[code](https://github.com/GedamuA/TB-GAN)]
@@ -267,12 +267,12 @@ This paper list will be continuously updated at the end of each month.
 - Skeleton-Based Action Recognition with Shift Graph Convolutional Network [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Skeleton-Based_Action_Recognition_With_Shift_Graph_Convolutional_Network_CVPR_2020_paper.pdf)] [[code](https://github.com/kchengiva/Shift-GCN)]
 - Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Semantics-Guided_Neural_Networks_for_Efficient_Skeleton-Based_Human_Action_Recognition_CVPR_2020_paper.pdf)] [[code](https://github.com/microsoft/SGN)]
 - PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_PREDICT__CLUSTER_Unsupervised_Skeleton_Based_Action_Recognition_CVPR_2020_paper.pdf)] [[code](https://github.com/shlizee/Predict-Cluster)]
-- Dynamic multiscale graph neural networks for 3d skeleton based human motion prediction [[paper](openaccess.thecvf.com/content_CVPR_2020/papers/Li_Dynamic_Multiscale_Graph_Neural_Networks_for_3D_Skeleton_Based_Human_CVPR_2020_paper.pdf)] [[code](https://github.com/limaosen0/DMGNN)]
-- Context aware graph convolution for skeleton-based action recognition [[paper](openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Context_Aware_Graph_Convolution_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.pdf)]
+- Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction [[paper](openaccess.thecvf.com/content_CVPR_2020/papers/Li_Dynamic_Multiscale_Graph_Neural_Networks_for_3D_Skeleton_Based_Human_CVPR_2020_paper.pdf)] [[code](https://github.com/limaosen0/DMGNN)]
+- Context Aware Graph Convolution for Skeleton-Based Action Recognition [[paper](openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Context_Aware_Graph_Convolution_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.pdf)]
 
 **ECCV**
 - Decoupling GCN with DropGraph Module for Skeleton-Based Action Recognition [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_32)] [[code](https://github.com/kchengiva/DecoupleGCN-DropGraph)]
-- Unsupervised 3d human pose representation with viewpoint and pose disentanglement [[paper](https://arxiv.org/pdf/2007.07053.pdf)] [[code](https://github.com/NIEQiang001/unsupervised-human-pose)]
+- Unsupervised 3D Human Pose Representation with Viewpoint and Pose Disentanglement [[paper](https://arxiv.org/pdf/2007.07053.pdf)] [[code](https://github.com/NIEQiang001/unsupervised-human-pose)]
 - Adversarial Self-supervised Learning for Semi-supervised 3D Action Recognition [[paper](https://arxiv.org/pdf/2007.05934.pdf)]
 
 **AAAI**
@@ -286,14 +286,14 @@ This paper list will be continuously updated at the end of each month.
 - Stronger, Faster and More Explainable: A Graph Convolutional Baseline for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2010.09978.pdf)] [[code](https://gitee.com/yfsong0709/ResGCNv1)]
 - MS2L: Multi-Task Self-Supervised Learning for Skeleton Based Action Recognition [[paper](https://arxiv.org/pdf/2010.05599.pdf)] [[code](https://github.com/LanglandsLin/MS2L)]
 - Group-Skeleton-Based Human Action Recognition in Complex Events [[paper](https://arxiv.org/ftp/arxiv/papers/2011/2011.13273.pdf)]
-- Mix dimension in poincaré geometry for 3d skeleton-based action recognition [[paper](https://arxiv.org/pdf/2007.15678.pdf)]
+- Mix Dimension in Poincaré Geometry for 3D Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2007.15678.pdf)]
 
 **ACCV**
-- Decoupled spatial-temporal attention network for skeleton-based action-gesture recognition [[paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Shi_Decoupled_Spatial-Temporal_Attention_Network_for_Skeleton-Based_Action-Gesture_Recognition_ACCV_2020_paper.pdf)]
+- Decoupled Spatial-Temporal Attention Network for Skeleton-Based Action-Gesture Recognition [[paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Shi_Decoupled_Spatial-Temporal_Attention_Network_for_Skeleton-Based_Action-Gesture_Recognition_ACCV_2020_paper.pdf)]
 
 **TPAMI**
-- Learning multi-view interactional skeleton graph for action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9234715)] [[code](https://github.com/niais/mv-ignet)]
-- Multi-task deep learning for real-time 3D human pose estimation and action recognition [[paper](https://arxiv.org/pdf/1912.08077.pdf)] [[code](https://github.com/dluvizon/deephar)]
+- Learning Multi-View Interactional Skeleton Graph for Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9234715)] [[code](https://github.com/niais/mv-ignet)]
+- Multi-Task Deep Learning for Real-Time 3D Human Pose Estimation and Action Recognition [[paper](https://arxiv.org/pdf/1912.08077.pdf)] [[code](https://github.com/dluvizon/deephar)]
 
 **TIP**
 - Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks [[paper](https://arxiv.org/pdf/1912.06971.pdf)] [[code](https://github.com/lshiwjx/2s-AGCN)]
@@ -305,7 +305,7 @@ This paper list will be continuously updated at the end of each month.
 - Richly Activated Graph Convolutional Network for Robust Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2008.03791.pdf)] [[code](https://github.com/wqk666999/RA-GCNv2)]
 
 **TNNLS**
-- Adversarial attack on skeleton-based human action recognition [[paper](https://arxiv.org/pdf/1909.06500.pdf)]
+- Adversarial Attack on Skeleton-Based Human Action Recognition [[paper](https://arxiv.org/pdf/1909.06500.pdf)]
 
 **PR**
 - Skeleton-based action recognition with hierarchical spatial reasoning and temporal stack learning network [[paper](https://www.sciencedirect.com/science/article/pii/S0031320320303149)]
@@ -329,13 +329,13 @@ This paper list will be continuously updated at the end of each month.
 - Graph CNNs with motif and variable temporal block for skeleton-based action recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4929)] [[code](https://github.com/wenyh1616/motif-stgcn)]
 
 **CVPRW**
-- Three-stream convolutional neural network with multi-task and ensemble learning for 3d action recognition [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Liang_Three-Stream_Convolutional_Neural_Network_With_Multi-Task_and_Ensemble_Learning_for_CVPRW_2019_paper.pdf)]
+- Three-Stream Convolutional Neural Network With Multi-Task and Ensemble Learning for 3D Action Recognition [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Liang_Three-Stream_Convolutional_Neural_Network_With_Multi-Task_and_Ensemble_Learning_for_CVPRW_2019_paper.pdf)]
 
 **WACV**
-- Unsupervised feature learning of human actions as trajectories in pose embedding manifold [[paper](https://arxiv.org/abs/1812.02592)]
+- Unsupervised Feature Learning of Human Actions As Trajectories in Pose Embedding Manifold [[paper](https://arxiv.org/abs/1812.02592)]
 
 **ICIP**
-- Richly activated graph convolutional network for action recognition with incomplete skeletons [[paper](https://arxiv.org/pdf/1905.06774.pdf)] [[code](https://gitee.com/yfsong0709/RA-GCNv1)]
+- Richly Activated Graph Convolutional Network for Action Recognition with Incomplete Skeletons [[paper](https://arxiv.org/pdf/1905.06774.pdf)] [[code](https://gitee.com/yfsong0709/RA-GCNv1)]
 
 **ICME**
 - Skeleton-Based Action Recognition with Synchronous Local and Non-local Spatio-temporal Learning and Frequency Attention [[paper](https://arxiv.org/pdf/1811.04237.pdf)]
@@ -354,33 +354,33 @@ This paper list will be continuously updated at the end of each month.
 
 **CVPR**
 - Recognizing Human Actions as the Evolution of Pose Estimation Maps [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Recognizing_Human_Actions_CVPR_2018_paper.pdf)] [[code](https://github.com/nkliuyifang/Skeleton-based-Human-Action-Recognition)]
-- Independently recurrent neural network (indrnn): Building a longer and deeper rnn [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Independently_Recurrent_Neural_CVPR_2018_paper.pdf)] [[code](https://github.com/Sunnydreamrain/IndRNN_pytorch)]
-- 2d/3d pose estimation and action recognition using multitask deep learning [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luvizon_2D3D_Pose_Estimation_CVPR_2018_paper.pdf)] [[code](https://github.com/dluvizon/deephar)]
-- Deep progressive reinforcement learning for skeleton-based action recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.pdf)]
+- Independently Recurrent Neural Network (IndRNN): Building a Longer and Deeper RNN [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Independently_Recurrent_Neural_CVPR_2018_paper.pdf)] [[code](https://github.com/Sunnydreamrain/IndRNN_pytorch)]
+- 2D/3D Pose Estimation and Action Recognition Using Multitask Deep Learning [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luvizon_2D3D_Pose_Estimation_CVPR_2018_paper.pdf)] [[code](https://github.com/dluvizon/deephar)]
+- Deep Progressive Reinforcement Learning for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.pdf)]
 
 **ECCV**
 - Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Chenyang_Si_Skeleton-Based_Action_Recognition_ECCV_2018_paper.pdf)]
-- Adding attentiveness to the neurons in recurrent neural networks [[paper](openaccess.thecvf.com/content_ECCV_2018/papers/Pengfei_Zhang_Adding_Attentiveness_to_ECCV_2018_paper.pdf)]
+- Adding Attentiveness to the Neurons in Recurrent Neural Networks [[paper](openaccess.thecvf.com/content_ECCV_2018/papers/Pengfei_Zhang_Adding_Attentiveness_to_ECCV_2018_paper.pdf)]
 
 **AAAI**
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://scholar.archive.org/work/cqjfz6oif5dvdn6qfyec6qywuu/access/wayback/https://ojs.aaai.org/index.php/AAAI/article/download/12328/12187) [[code](https://github.com/yysijie/st-gcn/blob/master/OLD_README.md)]
-- Unsupervised representation learning with long-term dynamics for skeleton based action recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11853)] [[code](https://github.com/jungel2star/Unsupervised-Representation-Learning-with-Long-Term-Dynamics-for-Skeleton-Based-Action-Recognition)]
-- Spatio-temporal graph convolution for skeleton based action recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11776)]
+- Unsupervised Representation Learning With Long-Term Dynamics for Skeleton Based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11853)] [[code](https://github.com/jungel2star/Unsupervised-Representation-Learning-with-Long-Term-Dynamics-for-Skeleton-Based-Action-Recognition)]
+- Spatio-Temporal Graph Convolution for Skeleton Based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11776)]
 
 **ACM MM**
 - Optimized Skeleton-based Action Recognition via Sparsified Graph Regression [[paper](https://arxiv.org/pdf/1811.12013.pdf)]
-- A large-scale varying-view rgb-d action dataset for arbitrary-view human action recognition [[paper](https://arxiv.org/pdf/1904.10681.pdf)]
+- A Large-scale Varying-view RGB-D Action Dataset for Arbitrary-view Human Action Recognition [[paper](https://arxiv.org/pdf/1904.10681.pdf)]
 
 **IJCAI**
 - Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation [[paper](https://arxiv.org/pdf/1804.06055.pdf)] [[code](https://github.com/huguyuehuhu/HCN-pytorch)]
 - Memory Attention Networks for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/1804.08254.pdf)] [[code](https://github.com/memory-attention-networks/MANs)]
 
 **BMVC**
-- Part-based graph convolutional network for action recognition [[paper](https://arxiv.org/abs/1809.04983)] [[code](https://github.com/kalpitthakkar/pb-gcn)] 
-- A fine-to-coarse convolutional neural network for 3D human action recognition [[paper](https://arxiv.org/abs/1805.11790)] 
+- Part-based Graph Convolutional Network for Action Recognition [[paper](https://arxiv.org/abs/1809.04983)] [[code](https://github.com/kalpitthakkar/pb-gcn)] 
+- A Fine-to-Coarse Convolutional Neural Network for 3D Human Action Recognition [[paper](https://arxiv.org/abs/1805.11790)] 
 
 **ICIP**
-- Joints relation inference network for skeleton-based action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802912)]
+- Joints Relation Inference Network for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802912)]
 
 **TIP**
 - Beyond Joints: Learning Representations From Primitive Geometries for Skeleton-Based Action Recognition and Detection [[paper](https://ieeexplore.ieee.org/abstract/document/8360391)] [[code](https://github.com/hongsong-wang/Beyond-Joints)]
