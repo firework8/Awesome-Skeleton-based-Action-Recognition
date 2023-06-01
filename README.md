@@ -362,7 +362,7 @@ This paper list will be continuously updated at the end of each month.
 
 **ECCV**
 - Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Chenyang_Si_Skeleton-Based_Action_Recognition_ECCV_2018_paper.pdf)]
-- Adding Attentiveness to the Neurons in Recurrent Neural Networks [[paper](openaccess.thecvf.com/content_ECCV_2018/papers/Pengfei_Zhang_Adding_Attentiveness_to_ECCV_2018_paper.pdf)]
+- Adding Attentiveness to the Neurons in Recurrent Neural Networks [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Pengfei_Zhang_Adding_Attentiveness_to_ECCV_2018_paper.pdf)]
 
 **AAAI**
 - Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://scholar.archive.org/work/cqjfz6oif5dvdn6qfyec6qywuu/access/wayback/https://ojs.aaai.org/index.php/AAAI/article/download/12328/12187) [[code](https://github.com/yysijie/st-gcn/blob/master/OLD_README.md)]
@@ -415,7 +415,7 @@ This paper list will be continuously updated at the end of each month.
 - Interpretable 3D Human Action Analysis with Temporal Convolutional Networks [[paper](https://arxiv.org/pdf/1704.04516.pdf)] [[code](https://github.com/TaeSoo-Kim/TCNActionRecognition)]
 
 **ACM MM Workshop**
-- PKU-MMD: A Large Scale Benchmark for Continuous Multi-Modal Human Action Understanding [[paper](https://arxiv.org/abs/1703.07475)]
+- PKU-MMD: A Large Scale Benchmark for Continuous Multi-Modal Human Action Understanding [[paper](https://arxiv.org/pdf/1703.07475.pdf)]
 
 **ICMEW**
 - Skeleton based action recognition using translation-scale invariant image mapping and multi-scale deep CNN [[paper](https://arxiv.org/pdf/1704.05645.pdf)]
