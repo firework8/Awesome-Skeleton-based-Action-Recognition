@@ -66,6 +66,7 @@ This paper list will be continuously updated at the end of each month.
 - TSGCNeXt: Dynamic-Static Multi-Graph Convolution for Efficient Skeleton-Based Action Recognition with Long-term Learning Potential [[paper](https://arxiv.org/abs/2304.11631)] [[code](https://github.com/vvhj/TSGCNeXt)]
 - Overcoming Topology Agnosticism: Enhancing Skeleton-Based Action Recognition through Redefined Skeletal Topology Awareness [[paper](https://arxiv.org/abs/2305.11468)] [[code](https://github.com/ZhouYuxuanYX/BlockGCN)]
 - Language Knowledge-Assisted Representation Learning for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2305.12398)] [[code](https://github.com/damnull/lagcn)]
+- Fourier Analysis on Robustness of Graph Convolutional Neural Networks for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2305.17939)] [[code](https://github.com/nntanaka/Fourier-Analysis-for-Skeleton-based-Action-Recognition)]
 - Modiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/abs/2301.03949)]
 - Action Capsules: Human Skeleton Action Recognition [[paper](https://arxiv.org/abs/2301.13090)]
 - Skeleton-based Human Action Recognition via Convolutional Neural Networks (CNN) [[paper](https://arxiv.org/abs/2301.13360)]
@@ -78,6 +79,7 @@ This paper list will be continuously updated at the end of each month.
 - Skeleton-based action analysis for ADHD diagnosis [[paper](https://arxiv.org/abs/2304.09751)]
 - Video-based Contrastive Learning on Decision Trees: from Action Recognition to Autism Diagnosis [[paper](https://arxiv.org/abs/2304.10073)]
 - Cross-view Action Recognition via Contrastive View-invariant Representation [[paper](https://arxiv.org/abs/2305.01733)]
+- High-Performance Inference Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2305.18710)]
 
 
 ### 2022
@@ -482,6 +484,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: May 25, 2023
+## Last update: Jun 1, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
