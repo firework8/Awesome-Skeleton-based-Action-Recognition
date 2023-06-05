@@ -365,7 +365,7 @@ This paper list will be continuously updated at the end of each month.
 - Adding Attentiveness to the Neurons in Recurrent Neural Networks [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Pengfei_Zhang_Adding_Attentiveness_to_ECCV_2018_paper.pdf)]
 
 **AAAI**
-- Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://scholar.archive.org/work/cqjfz6oif5dvdn6qfyec6qywuu/access/wayback/https://ojs.aaai.org/index.php/AAAI/article/download/12328/12187) [[code](https://github.com/yysijie/st-gcn/blob/master/OLD_README.md)]
+- Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://ojs.aaai.org/index.php/aaai/article/view/12328) [[code](https://github.com/yysijie/st-gcn/blob/master/OLD_README.md)]
 - Unsupervised Representation Learning With Long-Term Dynamics for Skeleton Based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11853)] [[code](https://github.com/jungel2star/Unsupervised-Representation-Learning-with-Long-Term-Dynamics-for-Skeleton-Based-Action-Recognition)]
 - Spatio-Temporal Graph Convolution for Skeleton Based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11776)]
 
