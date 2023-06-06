@@ -33,7 +33,7 @@ This paper list will be continuously updated at the end of each month.
 
 **ICLR**
 - Graph Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2301.10900.pdf)] [[code](https://github.com/OliverHxh/SkeletonGCL)]
-- Hyperbolic Self-paced Learning for Self-supervised Skeleton-based Action Representations [[paper](https://arxiv.org/abs/2303.06242)] [[code](https://github.com/paolomandica/HYSP)]
+- Hyperbolic Self-paced Learning for Self-supervised Skeleton-based Action Representations [[paper](https://arxiv.org/pdf/2303.06242.pdf)] [[code](https://github.com/paolomandica/HYSP)]
 
 **AAAI**
 - Language Supervised Training for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2208.05318.pdf)] [[code](https://github.com/MartinXM/LST)]
@@ -119,7 +119,7 @@ This paper list will be continuously updated at the end of each month.
 - Temporal-Viewpoint Transportation Plan for Skeletal Few-shot Action Recognition [[paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Temporal-Viewpoint_Transportation_Plan_for_Skeletal_Few-shot_Action_Recognition_ACCV_2022_paper.pdf)]
 
 **WACV**
-- Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition [[paper](openaccess.thecvf.com/content/WACV2022/papers/Memmesheimer_Skeleton-DML_Deep_Metric_Learning_for_Skeleton-Based_One-Shot_Action_Recognition_WACV_2022_paper.pdf)] [[code](https://github.com/raphaelmemmesheimer/skeleton-dml)]
+- Skeleton-DML: Deep Metric Learning for Skeleton-Based One-Shot Action Recognition [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Memmesheimer_Skeleton-DML_Deep_Metric_Learning_for_Skeleton-Based_One-Shot_Action_Recognition_WACV_2022_paper.pdf)] [[code](https://github.com/raphaelmemmesheimer/skeleton-dml)]
 - Generative Adversarial Graph Convolutional Networks for Human Action Synthesis [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Degardin_Generative_Adversarial_Graph_Convolutional_Networks_for_Human_Action_Synthesis_WACV_2022_paper.pdf)] [[code](https://github.com/DegardinBruno/Kinetic-GAN)]
 - Adaptive Local-Component-aware Graph Convolutional Network for One-shot Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Zhu_Adaptive_Local-Component-Aware_Graph_Convolutional_Network_for_One-Shot_Skeleton-Based_Action_Recognition_WACV_2023_paper.pdf)]
 
