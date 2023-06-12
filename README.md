@@ -323,15 +323,17 @@ This paper list will be continuously updated at the end of each month.
 - An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Si_An_Attention_Enhanced_Graph_Convolutional_LSTM_Network_for_Skeleton-Based_Action_CVPR_2019_paper.pdf)]
 
 **ICCV**
-- Bayesian graph convolution lstm for skeleton based action recognition [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Bayesian_Graph_Convolution_LSTM_for_Skeleton_Based_Action_Recognition_ICCV_2019_paper.pdf)]
-- Making the invisible visible: Action recognition through walls and occlusions [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Making_the_Invisible_Visible_Action_Recognition_Through_Walls_and_Occlusions_ICCV_2019_paper.pdf)]
-- Spatial Residual Layer and Dense Connection Block Enhanced Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/SGRL/Wu_Spatial_Residual_Layer_and_Dense_Connection_Block_Enhanced_Spatial_Temporal_ICCVW_2019_paper.pdf)]
+- Bayesian Graph Convolution LSTM for Skeleton Based Action Recognition [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Bayesian_Graph_Convolution_LSTM_for_Skeleton_Based_Action_Recognition_ICCV_2019_paper.pdf)]
+- Making the Invisible Visible: Action Recognition Through Walls and Occlusions [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Making_the_Invisible_Visible_Action_Recognition_Through_Walls_and_Occlusions_ICCV_2019_paper.pdf)]
 
 **AAAI**
-- Graph CNNs with motif and variable temporal block for skeleton-based action recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4929)] [[code](https://github.com/wenyh1616/motif-stgcn)]
+- Graph CNNs with Motif and Variable Temporal Block for Skeleton-Based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4929)] [[code](https://github.com/wenyh1616/motif-stgcn)]
 
 **CVPRW**
 - Three-Stream Convolutional Neural Network With Multi-Task and Ensemble Learning for 3D Action Recognition [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Liang_Three-Stream_Convolutional_Neural_Network_With_Multi-Task_and_Ensemble_Learning_for_CVPRW_2019_paper.pdf)]
+
+**ICCVW**
+- Spatial Residual Layer and Dense Connection Block Enhanced Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/SGRL/Wu_Spatial_Residual_Layer_and_Dense_Connection_Block_Enhanced_Spatial_Temporal_ICCVW_2019_paper.pdf)]
 
 **WACV**
 - Unsupervised Feature Learning of Human Actions As Trajectories in Pose Embedding Manifold [[paper](https://arxiv.org/abs/1812.02592)]
