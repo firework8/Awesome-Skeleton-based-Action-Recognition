@@ -245,6 +245,9 @@ This paper list will be continuously updated at the end of each month.
 - Symmetrical Enhanced Fusion Network for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9319717)]
 - Graph2Net: Perceptually-enriched graph learning for skeleton-based action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9446181)]
 
+**TNNLS**
+- Memory Attention Networks for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9378801)]  [[code](https://github.com/memory-attention-networks/MANs)]
+
 **PR**
 - Arbitrary-view human action recognition via novel-view action generation [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321002302)] [[code](https://github.com/GedamuA/TB-GAN)]
 - Tripool: Graph triplet pooling for 3D skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321001084)]
@@ -259,9 +262,12 @@ This paper list will be continuously updated at the end of each month.
 - Adaptive multi-view graph convolutional networks for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220317690)]
 
 **arXiv papers**
-- Star: Sparse transformer-based action recognition [[paper](https://arxiv.org/pdf/2107.07089.pdf)] [[code](https://github.com/imj2185/STAR)]
-- Multi-Scale Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition [[paper](https://arxiv.org/pdf/2111.03993.pdf)]
-- 3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Na¨ıve [[paper](https://arxiv.org/pdf/2112.12668.pdf)]
+- IIP-Transformer: Intra-Inter-Part Transformer for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2110.13385)] [[code](https://github.com/qtwang0035/IIP-Transformer)]
+- STAR: Sparse Transformer-based Action Recognition [[paper](https://arxiv.org/abs/2107.07089)] [[code](https://github.com/imj2185/STAR)]
+- Self-attention based anchor proposal for skeleton-based action recognition [[paper](https://arxiv.org/abs/2112.09413)] [[code](https://github.com/ideal-idea/SAP)]
+- Multi-Scale Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition [[paper](https://arxiv.org/abs/2111.03993)]
+- 3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Na¨ıve [[paper](https://arxiv.org/abs/2112.12668)]
+- LSTA-Net: Long short-term Spatio-Temporal Aggregation Network for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2111.00823)]
 
 
 ### 2020
