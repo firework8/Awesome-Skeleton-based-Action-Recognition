@@ -252,11 +252,11 @@ This paper list will be continuously updated at the end of each month.
 - Scene image and human skeleton-based dual-stream human action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0167865521001902)]
 
 **Neurocomputing**
+- Rethinking the ST-GCNs for 3D skeleton-based human action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221007153)]
+- Attention adjacency matrix based graph convolutional networks for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221002101)]
 - Skeleton-based action recognition using sparse spatio-temporal GCN with edge effective resistance [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220317094)]
 - Integrating vertex and edge features with Graph Convolutional Networks for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221013928)]
 - Adaptive multi-view graph convolutional networks for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220317690)]
-- Rethinking the ST-GCNs for 3D skeleton-based human action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221007153)]
-- Attention adjacency matrix based graph convolutional networks for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221002101)]
 
 **arXiv papers**
 - Star: Sparse transformer-based action recognition [[paper](https://arxiv.org/pdf/2107.07089.pdf)] [[code](https://github.com/imj2185/STAR)]
