@@ -56,10 +56,12 @@ This paper list will be continuously updated at the end of each month.
 
 **TNNLS**
 - Spatiotemporal Decouple-and-Squeeze Contrastive Learning for Semi-Supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2302.02316.pdf)]
+- Learning Heterogeneous Spatial–Temporal Context for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10081331)]
 
 **PR**
 - Online Skeleton-based Action Recognition with Continual Spatio-Temporal Graph Convolutional Networks [[paper](https://arxiv.org/pdf/2203.11009.pdf)] [[code](https://github.com/LukasHedegaard/continual-skeletons)]
 - SpatioTemporal Focus for Skeleton-based Action Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322007105)]
+- Relation-mining self-attention network for skeleton-based human action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001553)]
 
 **arXiv papers**
 - Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.02327)] [[code](https://github.com/1xbq1/PSP-Learning)]
@@ -237,12 +239,11 @@ This paper list will be continuously updated at the end of each month.
 
 **TCSVT**
 - Fuzzy Integral-Based CNN Classifier Fusion for 3D Skeleton Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9177170)] [[code](https://github.com/theavicaster/fuzzy-integral-cnn-fusion-3d-har)]
-- A Central Difference Graph Convolutional Operator for Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2111.06995.pdf)]
-- Spatial Temporal Graph Deconvolutional Network for Skeleton-Based Human Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9314910)]
+- A Central Difference Graph Convolutional Operator for Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2111.06995.pdf)] [[code](https://github.com/iesymiao/CD-GCN)]
+- Multi-Stream Interaction Networks for Human Action Recognition [[paper](https://ieeexplore.ieee.org/document/9492107)]
+- A Cross View Learning Approach for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9496611)]
 - Symmetrical Enhanced Fusion Network for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9319717)]
 - Graph2Net: Perceptually-enriched graph learning for skeleton-based action recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9446181)]
-- A Cross View Learning Approach for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9496611)]
-- Multi-Stream Interaction Networks for Human Action Recognition [[paper](https://ieeexplore.ieee.org/document/9492107)]
 
 **PR**
 - Arbitrary-view human action recognition via novel-view action generation [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321002302)] [[code](https://github.com/GedamuA/TB-GAN)]
@@ -353,6 +354,9 @@ This paper list will be continuously updated at the end of each month.
 - Sample Fusion Network: An End-to-End Data Augmentation Network for Skeleton-Based Human Action Recognition [[paper](https://ieeexplore.ieee.org/document/8704987)] [[code](https://github.com/FanyangMeng/Sample-Fusion-Network)]
 - View-Invariant Human Action Recognition Based on a 3D Bio-Constrained Skeleton Model [[paper](https://ieeexplore.ieee.org/abstract/document/8672922)] [[code](https://github.com/NIEQiang001/view-invariant-action-recognition-based-on-3D-bio-constrained-skeletons)]
 - EleAtt-RNN: Adding Attentiveness to Neurons in Recurrent Neural Networks [[paper](https://arxiv.org/pdf/1909.01939.pdf)]
+
+**TNNLS**
+- Graph Edge Convolutional Neural Networks for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8842613)]
 
 
 ### 2018
@@ -487,6 +491,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jun 21, 2023
+## Last update: Jun 25, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
