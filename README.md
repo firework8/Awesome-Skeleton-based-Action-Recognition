@@ -39,10 +39,10 @@ This paper list will be continuously updated at the end of each month.
 **AAAI**
 - Language Supervised Training for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2208.05318.pdf)] [[code](https://github.com/MartinXM/LST)]
 - Hierarchical Consistent Contrastive Learning for Skeleton-Based Action Recognition with Growing Augmentations [[paper](https://arxiv.org/abs/2211.13466)] [[code](https://github.com/JHang2020/HiCLR)]
+- Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences [[paper](https://arxiv.org/pdf/2302.09018.pdf)] [[code](https://github.com/YujieOuO/PSTL)]
+- Hierarchical Contrast for Unsupervised Skeleton-based Action Representation Learning [[paper](https://arxiv.org/pdf/2212.02082.pdf)] [[code](https://github.com/HuiGuanLab/HiCo)]
 - Anonymization for Skeleton Action Recognition [[paper](https://arxiv.org/pdf/2111.15129.pdf)] [[code](https://github.com/ml-postech/Skeleton-anonymization)]
 - Defending Black-box Skeleton-based Human Activity Classifiers [[paper](https://arxiv.org/pdf/2203.04713.pdf)] [[code](https://github.com/realcrane/Defending-Black-box-Skeleton-based-Human-Activity-Classifiers)]
-- Hierarchical Contrast for Unsupervised Skeleton-based Action Representation Learning [[paper](https://arxiv.org/pdf/2212.02082.pdf)] [[code](https://github.com/HuiGuanLab/HiCo)]
-- Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences [[paper](https://arxiv.org/pdf/2302.09018.pdf)] [[code](https://github.com/YujieOuO/PSTL)]
 - Novel Motion Patterns Matter for Practical Skeleton-based Action Recognition [[paper](https://humanperception.github.io/documents/AAAI2023.pdf)]
 
 **IJCAI**
@@ -63,10 +63,9 @@ This paper list will be continuously updated at the end of each month.
 - Learning Heterogeneous Spatial–Temporal Context for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10081331)]
 
 **PR**
-- Online Skeleton-based Action Recognition with Continual Spatio-Temporal Graph Convolutional Networks [[paper](https://arxiv.org/pdf/2203.11009.pdf)] [[code](https://github.com/LukasHedegaard/continual-skeletons)]
+- Continual spatio-temporal graph convolutional networks [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323002285)] [[code](https://github.com/LukasHedegaard/continual-skeletons)]
+- Relation-mining self-attention network for skeleton-based human action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001553)] [[code](https://github.com/GedamuA/RSA-Net)]
 - SpatioTemporal Focus for Skeleton-based Action Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322007105)]
-- Relation-mining self-attention network for skeleton-based human action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001553)]
-- Continual spatio-temporal graph convolutional networks [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323002285)]
 
 **Neurocomputing**
 - Focalized Contrastive View-invariant Learning for Self-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2304.00858)]
