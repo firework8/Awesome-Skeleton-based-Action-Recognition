@@ -103,6 +103,7 @@ This paper list will be continuously updated at the end of each month.
 - Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning [[paper](https://arxiv.org/pdf/2207.06101.pdf)] [[code](https://github.com/Boeun-Kim/GL-Transformer)]
 - Contrastive Positive Mining for Unsupervised 3D Action Representation Learning [[paper](https://arxiv.org/pdf/2208.03497.pdf)]
 - Learning Spatial-Preserved Skeleton Representations for Few-Shot Action Recognition [[paper](https://openreview.net/pdf?id=qIlLNOJsKxJ)]
+- Uncertainty-DTW for Time Series and Sequences [[paper](https://arxiv.org/pdf/2211.00005.pdf)]
 
 **AAAI**
 - Contrastive Learning from Extremely Augmented Skeleton Sequences for Self-supervised Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/19957)] [[code](https://github.com/Levigty/AimCLR)]
@@ -149,6 +150,10 @@ This paper list will be continuously updated at the end of each month.
 
 **TCSVT**
 - Two-person Graph Convolutional Network for Skeleton-based Human Interaction Recognition [[paper](https://arxiv.org/pdf/2208.06174.pdf)] [[code](https://github.com/mgiant/2P-GCN)]
+- Zoom Transformer for Skeleton-Based Group Activity Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9845486)] [[code](https://github.com/Kebii/Zoom-Transformer)]
+- Motion Guided Attention Learning for Self-Supervised 3D Human Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9841515)]
+- Motion-Driven Spatial and Temporal Adaptive High-Resolution Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9931755)]
+- View-Normalized and Subject-Independent Skeleton Generation for Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9940286)]
 
 **TNNLS**
 - Fusing Higher-Order Features in Graph Neural Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2105.01563.pdf)] [[code](https://github.com/ZhenyueQin/Angular-Skeleton-Encoding)]
@@ -156,6 +161,9 @@ This paper list will be continuously updated at the end of each month.
 **Neurocomputing**
 - Forward-reverse adaptive graph convolutional networks for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221018920)] [[code](https://github.com/Nanasaki-Ai/FR-AGCN)]
 - AFE-CNN: 3D Skeleton-based Action Recognition with Action Feature Enhancement [[paper](https://arxiv.org/pdf/2208.03444.pdf)]
+- Hierarchical graph attention network with pseudo-metapath for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222007421)]
+- Skeleton-based similar action recognition through integrating the salient image feature into a center-connected graph convolutional network [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222009560)]
+- PB-GCN: Progressive binary graph convolutional networks for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222008049)]
 
 **arXiv papers**
 - Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2208.10741)] [[code](https://github.com/Jho-Yonsei/HD-GCN)]
@@ -168,7 +176,8 @@ This paper list will be continuously updated at the end of each month.
 - MotionBERT: Unified Pretraining for Human Motion Analysis [[paper](https://arxiv.org/abs/2210.06551)] [[code](https://github.com/Walter0807/MotionBERT)]
 - HAA4D: Few-Shot Human Atomic Action Recognition via 3D Spatio-Temporal Skeletal Alignment [[paper](https://arxiv.org/abs/2202.07308)] [[code](https://github.com/Morris88826/HAA4D)]
 - Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2212.04761)]
-- Skeleton-based Action Recognition Via Temporal-Channel Aggregation [[paper](https://arxiv.org/abs/2205.15936)] 
+- Skeleton-based Action Recognition Via Temporal-Channel Aggregation [[paper](https://arxiv.org/abs/2205.15936)]
+- Cross-Modal Learning with 3D Deformable Attention for Action Recognition [[paper](https://arxiv.org/abs/2212.05638)]
 - A New Spatial Adjacency Matrix of Skeleton Data Based on Self-loop and Adaptive Weights [[paper](https://arxiv.org/abs/2206.14344)]
 - View-Invariant Skeleton-based Action Recognition via Global-Local Contrastive Learning [[paper](https://arxiv.org/abs/2209.11634)]
 - SkeletonMAE: Spatial-Temporal Masked Autoencoders for Self-supervised Skeleton Action Recognition [[paper](https://arxiv.org/abs/2209.02399)]
