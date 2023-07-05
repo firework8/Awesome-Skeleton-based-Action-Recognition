@@ -136,6 +136,7 @@ This paper list will be continuously updated at the end of each month.
 
 **TPAMI**
 - Constructing Stronger and Faster Baselines for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2106.15125.pdf)] [[code](https://gitee.com/yfsong0709/EfficientGCNv1)]
+- Motif-GCNs With Local and Non-Local Temporal Blocks for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9763364)] [[code](https://github.com/wenyh1616/SAMotif-GCN)]
 - Multi-Granularity Anchor-Contrastive Representation Learning for Semi-Supervised Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9954217)] [[code](https://github.com/1xbq1/MAC-Learning)]
 
 **IJCV**
@@ -143,9 +144,12 @@ This paper list will be continuously updated at the end of each month.
 
 **TIP**
 - Contrast-reconstruction Representation Learning for Self-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2111.11051.pdf)] [[code](https://github.com/Picasso-Wang/CRRL)]
+- Multilevel Spatial–Temporal Excited Graph Network for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9997556)]
+- SMAM: Self and Mutual Adaptive Matching for Skeleton-Based Few-Shot Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9975251)]
 - X-Invariant Contrastive Augmentation and Representation Learning for Semi-Supervised Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/9782720)]
 
 **TMM**
+- Skeleton-Based Mutually Assisted Interacted Object Localization and Human Action Recognition [[paper](https://arxiv.org/pdf/2110.14994.pdf)]
 - Joint-bone Fusion Graph Convolutional Network for Semi-supervised Skeleton Action Recognition [[paper](https://arxiv.org/ftp/arxiv/papers/2202/2202.04075.pdf)]
 
 **TCSVT**
