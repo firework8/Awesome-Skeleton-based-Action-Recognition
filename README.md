@@ -38,7 +38,6 @@ This paper list will be continuously updated at the end of each month.
 - Hyperbolic Self-paced Learning for Self-supervised Skeleton-based Action Representations [[paper](https://arxiv.org/pdf/2303.06242.pdf)] [[code](https://github.com/paolomandica/HYSP)]
 
 **AAAI**
-- Language Supervised Training for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2208.05318.pdf)] [[code](https://github.com/MartinXM/LST)]
 - Hierarchical Consistent Contrastive Learning for Skeleton-Based Action Recognition with Growing Augmentations [[paper](https://arxiv.org/abs/2211.13466)] [[code](https://github.com/JHang2020/HiCLR)]
 - Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences [[paper](https://arxiv.org/pdf/2302.09018.pdf)] [[code](https://github.com/YujieOuO/PSTL)]
 - Hierarchical Contrast for Unsupervised Skeleton-based Action Representation Learning [[paper](https://arxiv.org/pdf/2212.02082.pdf)] [[code](https://github.com/HuiGuanLab/HiCo)]
@@ -96,6 +95,8 @@ This paper list will be continuously updated at the end of each month.
 - Skeleton-based action analysis for ADHD diagnosis [[paper](https://arxiv.org/abs/2304.09751)]
 - FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation [[paper](https://arxiv.org/abs/2306.11046)]
 - Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2306.15321)]
+- Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating [[paper](https://arxiv.org/abs/2307.02730)]
+- Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition [[paper](https://arxiv.org/abs/2307.03638)]
 
 
 ### 2022
@@ -178,6 +179,7 @@ This paper list will be continuously updated at the end of each month.
 - PB-GCN: Progressive binary graph convolutional networks for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222008049)]
 
 **arXiv papers**
+- Language Supervised Training for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2208.05318.pdf)] [[code](https://github.com/MartinXM/LST)]
 - Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2208.10741)] [[code](https://github.com/Jho-Yonsei/HD-GCN)]
 - DG-STGCN: Dynamic Spatial-Temporal Modeling for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2210.05895)] [[code](https://github.com/kennymckormick/pyskl)]
 - Hypergraph Transformer for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2211.09590)] [[code](https://github.com/ZhouYuxuanYX/Hypergraph-Transformer-for-Skeleton-based-Action-Recognition)]
@@ -571,6 +573,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jul 6, 2023
+## Last update: Jul 14, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
