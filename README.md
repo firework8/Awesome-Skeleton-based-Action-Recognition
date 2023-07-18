@@ -62,6 +62,9 @@ This paper list will be continuously updated at the end of each month.
 **IROS**
 - Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition [[paper](https://arxiv.org/pdf/2307.07469.pdf)] [[code](https://github.com/Necolizer/ISTA-Net)]
 
+**ICMEW**
+- SkeletonMAE: Spatial-Temporal Masked Autoencoders for Self-supervised Skeleton Action Recognition [[paper](https://arxiv.org/abs/2209.02399)]
+
 **TMM**
 - Delving Deep into One-Shot Skeleton-based Action Recognition with Diverse Occlusions [[paper](https://ieeexplore.ieee.org/abstract/document/10011561)] [[code](https://github.com/KPeng9510/Trans4SOAR)]
 - Temporal Decoupling Graph Convolutional Network for Skeleton-based Gesture Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10113233)] [[code](https://github.com/liujf69/TD-GCN-Gesture)]
@@ -187,7 +190,7 @@ This paper list will be continuously updated at the end of each month.
 - PB-GCN: Progressive binary graph convolutional networks for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222008049)]
 
 **arXiv papers**
-- Language Supervised Training for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2208.05318.pdf)] [[code](https://github.com/MartinXM/LST)]
+- Language Supervised Training for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2208.05318)] [[code](https://github.com/MartinXM/LST)]
 - Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2208.10741)] [[code](https://github.com/Jho-Yonsei/HD-GCN)]
 - DG-STGCN: Dynamic Spatial-Temporal Modeling for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2210.05895)] [[code](https://github.com/kennymckormick/pyskl)]
 - Hypergraph Transformer for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2211.09590)] [[code](https://github.com/ZhouYuxuanYX/Hypergraph-Transformer-for-Skeleton-based-Action-Recognition)]
@@ -201,7 +204,6 @@ This paper list will be continuously updated at the end of each month.
 - Cross-Modal Learning with 3D Deformable Attention for Action Recognition [[paper](https://arxiv.org/abs/2212.05638)]
 - A New Spatial Adjacency Matrix of Skeleton Data Based on Self-loop and Adaptive Weights [[paper](https://arxiv.org/abs/2206.14344)]
 - View-Invariant Skeleton-based Action Recognition via Global-Local Contrastive Learning [[paper](https://arxiv.org/abs/2209.11634)]
-- SkeletonMAE: Spatial-Temporal Masked Autoencoders for Self-supervised Skeleton Action Recognition [[paper](https://arxiv.org/abs/2209.02399)]
 
 
 ### 2021
@@ -236,6 +238,7 @@ This paper list will be continuously updated at the end of each month.
 **BMVC**
 - UNIK: A Unified Framework for Real-world Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2107.08580.pdf)] [[code](https://github.com/YangDi666/UNIK)]
 - Unsupervised Human Action Recognition with Skeletal Graph Laplacian and Self-Supervised Viewpoints Invariance [[paper](https://arxiv.org/pdf/2204.10312.pdf)] [[code](https://github.com/IIT-PAVIS/UHAR_Skeletal_Laplacian)]
+- LSTA-Net: Long short-term Spatio-Temporal Aggregation Network for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2111.00823)]
 
 **WACV**
 - JOLO-GCN: Mining Joint-Centered Light-Weight Information for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Cai_JOLO-GCN_Mining_Joint-Centered_Light-Weight_Information_for_Skeleton-Based_Action_Recognition_WACV_2021_paper.pdf)]
@@ -307,7 +310,6 @@ This paper list will be continuously updated at the end of each month.
 - Self-attention based anchor proposal for skeleton-based action recognition [[paper](https://arxiv.org/abs/2112.09413)] [[code](https://github.com/ideal-idea/SAP)]
 - Multi-Scale Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition [[paper](https://arxiv.org/abs/2111.03993)]
 - 3D Skeleton-based Few-shot Action Recognition with JEANIE is not so Na¨ıve [[paper](https://arxiv.org/abs/2112.12668)]
-- LSTA-Net: Long short-term Spatio-Temporal Aggregation Network for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2111.00823)]
 
 
 ### 2020
