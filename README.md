@@ -33,6 +33,9 @@ This paper list will be continuously updated at the end of each month.
 - Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hachiuma_Unified_Keypoint-Based_Action_Recognition_Framework_via_Structured_Keypoint_Pooling_CVPR_2023_paper.pdf)]
 - Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sato_Prompt-Guided_Zero-Shot_Anomaly_Action_Recognition_Using_Pretrained_Deep_Skeleton_Features_CVPR_2023_paper.pdf)]
 
+**ICCV**
+- FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation [[paper](https://arxiv.org/abs/2306.11046)]
+
 **ICLR**
 - Graph Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2301.10900.pdf)] [[code](https://github.com/OliverHxh/SkeletonGCL)]
 - Hyperbolic Self-paced Learning for Self-supervised Skeleton-based Action Representations [[paper](https://arxiv.org/pdf/2303.06242.pdf)] [[code](https://github.com/paolomandica/HYSP)]
@@ -93,7 +96,6 @@ This paper list will be continuously updated at the end of each month.
 - Spatial-temporal Transformer-guided Diffusion based Data Augmentation for Efficient Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.13434)]
 - Modiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/abs/2301.03949)]
 - Skeleton-based action analysis for ADHD diagnosis [[paper](https://arxiv.org/abs/2304.09751)]
-- FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation [[paper](https://arxiv.org/abs/2306.11046)]
 - Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2306.15321)]
 - Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating [[paper](https://arxiv.org/abs/2307.02730)]
 - Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition [[paper](https://arxiv.org/abs/2307.03638)]
@@ -573,6 +575,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jul 14, 2023
+## Last update: Jul 18, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
