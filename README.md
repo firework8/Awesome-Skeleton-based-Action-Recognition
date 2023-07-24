@@ -136,6 +136,7 @@ This paper list will be continuously updated at the end of each month.
 - PYSKL: Towards Good Practices for Skeleton Action Recognition [[paper](https://arxiv.org/pdf/2205.09443.pdf)] [[code](https://github.com/kennymckormick/pyskl)]
 - Shifting Perspective to See Difference: A Novel Multi-View Method for Skeleton based Action Recognition [[paper](https://arxiv.org/pdf/2209.02986.pdf)] [[code](https://github.com/ideal-idea/SAP)]
 - Skeleton-based Action Recognition via Adaptive Cross-Form Learning [[paper](https://arxiv.org/pdf/2206.15085.pdf)] [[code](https://github.com/stoa-xh91/ACFL)]
+- Global-Local Cross-View Fisher Discrimination for View-Invariant Action Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548280)]
 
 **CVPRW**
 - Bootstrapped Representation Learning for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Moliner_Bootstrapped_Representation_Learning_for_Skeleton-Based_Action_Recognition_CVPRW_2022_paper.pdf)]
@@ -464,6 +465,9 @@ This paper list will be continuously updated at the end of each month.
 **ICIP**
 - Joints Relation Inference Network for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8802912)]
 
+**ICME**
+- Skeleton-Based Human Action Recognition Using Spatial Temporal 3D Convolutional Neural Networks [[paper](https://ieeexplore.ieee.org/abstract/document/8486566)]
+
 **TIP**
 - Beyond Joints: Learning Representations From Primitive Geometries for Skeleton-Based Action Recognition and Detection [[paper](https://ieeexplore.ieee.org/abstract/document/8360391)] [[code](https://github.com/hongsong-wang/Beyond-Joints)]
 - Learning Clip Representations for Skeleton-Based 3D Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/8306456)]
@@ -582,6 +586,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jul 19, 2023
+## Last update: Jul 24, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
