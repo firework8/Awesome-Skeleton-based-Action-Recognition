@@ -52,6 +52,9 @@ This paper list will be continuously updated at the end of each month.
 - Defending Black-box Skeleton-based Human Activity Classifiers [[paper](https://arxiv.org/pdf/2203.04713.pdf)] [[code](https://github.com/realcrane/Defending-Black-box-Skeleton-based-Human-Activity-Classifiers)]
 - Novel Motion Patterns Matter for Practical Skeleton-based Action Recognition [[paper](https://humanperception.github.io/documents/AAAI2023.pdf)]
 
+**ACM MM**
+- Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization [[code](https://github.com/YujieOuO/SMIE)]
+
 **IJCAI**
 - Part Aware Contrastive Learning for Self-Supervised Action Recognition [[paper](https://arxiv.org/pdf/2305.00666.pdf)] [[code](https://github.com/GitHubOfHyl97/SkeAttnCLR)]
 
@@ -586,6 +589,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jul 24, 2023
+## Last update: Jul 28, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
