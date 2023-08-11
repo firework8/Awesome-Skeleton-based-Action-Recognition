@@ -22,6 +22,11 @@ This paper list will be continuously updated at the end of each month.
 
 ### 2023
 
+**ACM MM**
+- Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization [[paper](https://arxiv.org/pdf/2308.03950.pdf)] [[code](https://github.com/YujieOuO/SMIE)]
+- Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning [[paper](https://arxiv.org/pdf/2308.03975.pdf)] [[code](https://jhang2020.github.io/Projects/PCM3/PCM3.html)]
+- Skeleton-MixFormer: Multivariate Topology Representation for Skeleton-based Action Recognition [[code](https://github.com/ElricXin/Skeleton-MixFormer)]
+
 **ICCV**
 - Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2208.10741)] [[code](https://github.com/Jho-Yonsei/HD-GCN)]
 - Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2212.04761)] [[code](https://github.com/Jho-Yonsei/STC-Net)]
@@ -51,9 +56,6 @@ This paper list will be continuously updated at the end of each month.
 - Anonymization for Skeleton Action Recognition [[paper](https://arxiv.org/pdf/2111.15129.pdf)] [[code](https://github.com/ml-postech/Skeleton-anonymization)]
 - Defending Black-box Skeleton-based Human Activity Classifiers [[paper](https://arxiv.org/pdf/2203.04713.pdf)] [[code](https://github.com/realcrane/Defending-Black-box-Skeleton-based-Human-Activity-Classifiers)]
 - Novel Motion Patterns Matter for Practical Skeleton-based Action Recognition [[paper](https://humanperception.github.io/documents/AAAI2023.pdf)]
-
-**ACM MM**
-- Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization [[code](https://github.com/YujieOuO/SMIE)]
 
 **IJCAI**
 - Part Aware Contrastive Learning for Self-Supervised Action Recognition [[paper](https://arxiv.org/pdf/2305.00666.pdf)] [[code](https://github.com/GitHubOfHyl97/SkeAttnCLR)]
@@ -113,6 +115,7 @@ This paper list will be continuously updated at the end of each month.
 - Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2306.15321)]
 - Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating [[paper](https://arxiv.org/abs/2307.02730)]
 - Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition [[paper](https://arxiv.org/abs/2307.03638)]
+- Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient [[paper](https://arxiv.org/abs/2308.05681)]
 
 
 ### 2022
@@ -589,6 +592,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jul 28, 2023
+## Last update: Aug 11, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
