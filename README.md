@@ -34,6 +34,9 @@ This paper list will be continuously updated at the end of each month.
 - SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training [[paper](https://arxiv.org/pdf/2307.08476.pdf)] [[code](https://github.com/HongYan1123/SkeletonMAE)]
 - FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation [[paper](https://arxiv.org/abs/2306.11046)]
 
+**ICML**
+- Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition [[paper](https://arxiv.org/pdf/2308.07571.pdf)] [[code](https://github.com/OSVAI/Ske2Grid)]
+
 **CVPR**
 - Learning Discriminative Representations for Skeleton Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Learning_Discriminative_Representations_for_Skeleton_Based_Action_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/zhysora/FR-Head)]
 - Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Neural_Koopman_Pooling_Control-Inspired_Temporal_Dynamics_Encoding_for_Skeleton-Based_Action_CVPR_2023_paper.pdf)] [[code](https://github.com/Infinitywxh/Neural_Koopman_pooling)]
@@ -397,6 +400,7 @@ This paper list will be continuously updated at the end of each month.
 
 **AAAI**
 - Graph CNNs with Motif and Variable Temporal Block for Skeleton-Based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4929)] [[code](https://github.com/wenyh1616/motif-stgcn)]
+- Spatio-Temporal Graph Routing for Skeleton-Based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4875)]
 
 **CVPRW**
 - Three-Stream Convolutional Neural Network With Multi-Task and Ensemble Learning for 3D Action Recognition [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Liang_Three-Stream_Convolutional_Neural_Network_With_Multi-Task_and_Ensemble_Learning_for_CVPRW_2019_paper.pdf)]
@@ -592,6 +596,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Aug 11, 2023
+## Last update: Aug 16, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
