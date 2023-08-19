@@ -30,8 +30,10 @@ This paper list will be continuously updated at the end of each month.
 **ICCV**
 - Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2208.10741)] [[code](https://github.com/Jho-Yonsei/HD-GCN)]
 - Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2212.04761)] [[code](https://github.com/Jho-Yonsei/STC-Net)]
+- Masked Motion Predictors are Strong 3D Action Representation Learners [[paper](https://arxiv.org/pdf/2308.07092.pdf)] [[code](https://github.com/maoyunyao/MAMP)]
 - MotionBERT: A Unified Perspective on Learning Human Motion Representations [[paper](https://arxiv.org/abs/2210.06551)] [[code](https://github.com/Walter0807/MotionBERT)]
 - SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training [[paper](https://arxiv.org/pdf/2307.08476.pdf)] [[code](https://github.com/HongYan1123/SkeletonMAE)]
+- Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient [[paper](https://arxiv.org/abs/2308.05681)] [[code](https://github.com/luyg45/HardNoBoxAttack)]
 - FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation [[paper](https://arxiv.org/abs/2306.11046)]
 
 **ICML**
@@ -118,7 +120,6 @@ This paper list will be continuously updated at the end of each month.
 - Multi-Dimensional Refinement Graph Convolutional Network with Robust Decouple Loss for Fine-Grained Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2306.15321)]
 - Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating [[paper](https://arxiv.org/abs/2307.02730)]
 - Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition [[paper](https://arxiv.org/abs/2307.03638)]
-- Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient [[paper](https://arxiv.org/abs/2308.05681)]
 
 
 ### 2022
@@ -596,6 +597,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Aug 16, 2023
+## Last update: Aug 19, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
