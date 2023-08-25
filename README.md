@@ -23,18 +23,18 @@ This paper list will be continuously updated at the end of each month.
 ### 2023
 
 **ACM MM**
-- Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization [[paper](https://arxiv.org/pdf/2308.03950.pdf)] [[code](https://github.com/YujieOuO/SMIE)]
 - Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning [[paper](https://arxiv.org/pdf/2308.03975.pdf)] [[code](https://jhang2020.github.io/Projects/PCM3/PCM3.html)]
+- Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization [[paper](https://arxiv.org/pdf/2308.03950.pdf)] [[code](https://github.com/YujieOuO/SMIE)]
 - Skeleton-MixFormer: Multivariate Topology Representation for Skeleton-based Action Recognition [[code](https://github.com/ElricXin/Skeleton-MixFormer)]
 
 **ICCV**
-- Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2208.10741)] [[code](https://github.com/Jho-Yonsei/HD-GCN)]
-- Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2212.04761)] [[code](https://github.com/Jho-Yonsei/STC-Net)]
+- Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2208.10741.pdf)] [[code](https://github.com/Jho-Yonsei/HD-GCN)]
+- Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2212.04761.pdf)] [[code](https://github.com/Jho-Yonsei/STC-Net)]
 - Masked Motion Predictors are Strong 3D Action Representation Learners [[paper](https://arxiv.org/pdf/2308.07092.pdf)] [[code](https://github.com/maoyunyao/MAMP)]
-- MotionBERT: A Unified Perspective on Learning Human Motion Representations [[paper](https://arxiv.org/abs/2210.06551)] [[code](https://github.com/Walter0807/MotionBERT)]
 - SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training [[paper](https://arxiv.org/pdf/2307.08476.pdf)] [[code](https://github.com/HongYan1123/SkeletonMAE)]
-- Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient [[paper](https://arxiv.org/abs/2308.05681)] [[code](https://github.com/luyg45/HardNoBoxAttack)]
-- FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation [[paper](https://arxiv.org/abs/2306.11046)]
+- MotionBERT: A Unified Perspective on Learning Human Motion Representations [[paper](https://arxiv.org/pdf/2210.06551.pdf)] [[code](https://github.com/Walter0807/MotionBERT)]
+- Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient [[paper](https://arxiv.org/pdf/2308.05681.pdf)] [[code](https://github.com/luyg45/HardNoBoxAttack)]
+- FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation [[paper](https://arxiv.org/pdf/2306.11046.pdf)]
 
 **ICML**
 - Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition [[paper](https://arxiv.org/pdf/2308.07571.pdf)] [[code](https://github.com/OSVAI/Ske2Grid)]
@@ -73,6 +73,9 @@ This paper list will be continuously updated at the end of each month.
 
 **IROS**
 - Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition [[paper](https://arxiv.org/pdf/2307.07469.pdf)] [[code](https://github.com/Necolizer/ISTA-Net)]
+
+**ICME**
+- DD-GCN: Directed Diffusion Graph Convolutional Network for Skeleton-based Human Action Recognition [[paper](https://arxiv.org/pdf/2308.12501.pdf)] [[code](https://github.com/shiyin-lc/DD-GCN)]
 
 **ICMEW**
 - SkeletonMAE: Spatial-Temporal Masked Autoencoders for Self-supervised Skeleton Action Recognition [[paper](https://arxiv.org/abs/2209.02399)]
@@ -597,6 +600,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Aug 19, 2023
+## Last update: Aug 25, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
