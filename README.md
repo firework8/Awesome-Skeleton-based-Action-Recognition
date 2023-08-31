@@ -35,7 +35,8 @@ This paper list will be continuously updated at the end of each month.
 - MotionBERT: A Unified Perspective on Learning Human Motion Representations [[paper](https://arxiv.org/pdf/2210.06551.pdf)] [[code](https://github.com/Walter0807/MotionBERT)]
 - Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient [[paper](https://arxiv.org/pdf/2308.05681.pdf)] [[code](https://github.com/luyg45/HardNoBoxAttack)]
 - FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation [[paper](https://arxiv.org/pdf/2306.11046.pdf)]
-- LAC -- Latent Action Composition for Skeleton-based Action Segmentation [[paper](https://arxiv.org/pdf/2308.14500.pdf)]
+- LAC - Latent Action Composition for Skeleton-based Action Segmentation [[paper](https://arxiv.org/pdf/2308.14500.pdf)]
+- Parallel Attention Interaction Network for Few-Shot Skeleton-based Action Recognition [[code](https://github.com/starrycos/PAINet)]
 
 **ICML**
 - Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition [[paper](https://arxiv.org/pdf/2308.07571.pdf)] [[code](https://github.com/OSVAI/Ske2Grid)]
@@ -107,6 +108,7 @@ This paper list will be continuously updated at the end of each month.
 - Language Knowledge-Assisted Representation Learning for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2305.12398)] [[code](https://github.com/damnull/lagcn)]
 - TSGCNeXt: Dynamic-Static Multi-Graph Convolution for Efficient Skeleton-Based Action Recognition with Long-term Learning Potential [[paper](https://arxiv.org/abs/2304.11631)] [[code](https://github.com/vvhj/TSGCNeXt)]
 - Overcoming Topology Agnosticism: Enhancing Skeleton-Based Action Recognition through Redefined Skeletal Topology Awareness [[paper](https://arxiv.org/abs/2305.11468)] [[code](https://github.com/ZhouYuxuanYX/BlockGCN)]
+- Topology-aware MLP for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2308.16018)] [[code](https://github.com/BUPTSJZhang/Ta-MLP)]
 - Balanced Representation Learning for Long-tailed Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2308.14024)] [[code](https://github.com/firework8/BRL)]
 - Joint Adversarial and Collaborative Learning for Self-Supervised Action Recognition [[paper](https://arxiv.org/abs/2307.07791)] [[code](https://github.com/Levigty/ACL)]
 - Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.02327)] [[code](https://github.com/1xbq1/PSP-Learning)]
@@ -604,6 +606,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Aug 29, 2023
+## Last update: Aug 31, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
