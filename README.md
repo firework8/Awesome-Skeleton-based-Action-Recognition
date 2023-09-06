@@ -221,7 +221,6 @@ This paper list will be continuously updated at the end of each month.
 - ViA: View-invariant Skeleton Action Representation Learning via Motion Retargeting [[paper](https://arxiv.org/abs/2209.00065)] [[code](https://github.com/YangDi666/UNIK)]
 - HAA4D: Few-Shot Human Atomic Action Recognition via 3D Spatio-Temporal Skeletal Alignment [[paper](https://arxiv.org/abs/2202.07308)] [[code](https://github.com/Morris88826/HAA4D)]
 - Skeleton-based Action Recognition Via Temporal-Channel Aggregation [[paper](https://arxiv.org/abs/2205.15936)]
-
 - A New Spatial Adjacency Matrix of Skeleton Data Based on Self-loop and Adaptive Weights [[paper](https://arxiv.org/abs/2206.14344)]
 - View-Invariant Skeleton-based Action Recognition via Global-Local Contrastive Learning [[paper](https://arxiv.org/abs/2209.11634)]
 
