@@ -74,6 +74,8 @@ This paper list will be continuously updated at the end of each month.
 
 **ICIP**
 - Temporal-Channel Topology Enhanced Network for Skeleton-Based Action Recognition [[paper](https://arxiv.org/ftp/arxiv/papers/2302/2302.12967.pdf)] [[code](https://github.com/aikuniverse/TCTE-Net)]
+- Part Aware Graph Convolution Network with Temporal Enhancement for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10222714)]
+- Skeleton Action Recognition Based on Spatio-Temporal Features [[paper](https://ieeexplore.ieee.org/abstract/document/10223086)]
 
 **ICME**
 - DD-GCN: Directed Diffusion Graph Convolutional Network for Skeleton-based Human Action Recognition [[paper](https://arxiv.org/pdf/2308.12501.pdf)] [[code](https://github.com/shiyin-lc/DD-GCN)]
@@ -97,6 +99,7 @@ This paper list will be continuously updated at the end of each month.
 **TNNLS**
 - Spatiotemporal Decouple-and-Squeeze Contrastive Learning for Semi-Supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2302.02316.pdf)]
 - Learning Heterogeneous Spatial–Temporal Context for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10081331)]
+- Self-Adaptive Graph With Nonlocal Attention Network for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10250900)]
 
 **PR**
 - Continual spatio-temporal graph convolutional networks [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323002285)] [[code](https://github.com/LukasHedegaard/continual-skeletons)]
@@ -131,7 +134,7 @@ This paper list will be continuously updated at the end of each month.
 - Fine-grained Action Analysis: A Multi-modality and Multi-task Dataset of Figure Skating [[paper](https://arxiv.org/abs/2307.02730)]
 - Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition [[paper](https://arxiv.org/abs/2307.03638)]
 - Improving Video Violence Recognition with Human Interaction Learning on 3D Skeleton Point Clouds [[paper](https://arxiv.org/abs/2308.13866)]
-
+- SCD-Net: Spatiotemporal Clues Disentanglement Network for Self-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2309.05834)]
 
 ### 2022
 
@@ -612,6 +615,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Sep 6, 2023
+## Last update: Sep 17, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
