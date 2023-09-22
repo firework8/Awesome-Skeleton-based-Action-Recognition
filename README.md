@@ -35,6 +35,7 @@ This paper list will be continuously updated at the end of each month.
 - SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training [[paper](https://arxiv.org/pdf/2307.08476.pdf)] [[code](https://github.com/HongYan1123/SkeletonMAE)]
 - MotionBERT: A Unified Perspective on Learning Human Motion Representations [[paper](https://arxiv.org/pdf/2210.06551.pdf)] [[code](https://github.com/Walter0807/MotionBERT)]
 - Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient [[paper](https://arxiv.org/pdf/2308.05681.pdf)] [[code](https://github.com/luyg45/HardNoBoxAttack)]
+- SkeleTR: Towrads Skeleton-based Action Recognition in the Wild [[paper](https://arxiv.org/pdf/2309.11445.pdf)]
 - Cross-Modal Learning with 3D Deformable Attention for Action Recognition [[paper](https://arxiv.org/abs/2212.05638)]
 - FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation [[paper](https://arxiv.org/pdf/2306.11046.pdf)]
 - LAC - Latent Action Composition for Skeleton-based Action Segmentation [[paper](https://arxiv.org/pdf/2308.14500.pdf)]
@@ -117,6 +118,8 @@ This paper list will be continuously updated at the end of each month.
 - Topology-aware MLP for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2308.16018)] [[code](https://github.com/BUPTSJZhang/Ta-MLP)]
 - Balanced Representation Learning for Long-tailed Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2308.14024)] [[code](https://github.com/firework8/BRL)]
 - Joint Adversarial and Collaborative Learning for Self-Supervised Action Recognition [[paper](https://arxiv.org/abs/2307.07791)] [[code](https://github.com/Levigty/ACL)]
+- Unveiling the Hidden Realm: Self-supervised Skeleton-based Action Recognition in Occluded Environments [[paper](https://arxiv.org/abs/2309.12029)] [[code](https://github.com/cyfml/OPSTL)]
+- Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision [[paper](https://arxiv.org/abs/2309.12009)] [[code](https://github.com/desehuileng0o0/IKEM)]
 - Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.02327)] [[code](https://github.com/1xbq1/PSP-Learning)]
 - Fourier Analysis on Robustness of Graph Convolutional Neural Networks for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2305.17939)] [[code](https://github.com/nntanaka/Fourier-Analysis-for-Skeleton-based-Action-Recognition)]
 - High-Performance Inference Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2305.18710)]
@@ -135,6 +138,7 @@ This paper list will be continuously updated at the end of each month.
 - Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition [[paper](https://arxiv.org/abs/2307.03638)]
 - Improving Video Violence Recognition with Human Interaction Learning on 3D Skeleton Point Clouds [[paper](https://arxiv.org/abs/2308.13866)]
 - SCD-Net: Spatiotemporal Clues Disentanglement Network for Self-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2309.05834)]
+
 
 ### 2022
 
@@ -615,6 +619,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Sep 17, 2023
+## Last update: Sep 22, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
