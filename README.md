@@ -92,6 +92,7 @@ This paper list will be continuously updated at the end of each month.
 - Temporal Decoupling Graph Convolutional Network for Skeleton-based Gesture Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10113233)] [[code](https://github.com/liujf69/TD-GCN-Gesture)]
 - Skeleton-based Action Recognition through Contrasting Two-Stream Spatial-Temporal Networks [[paper](https://arxiv.org/pdf/2301.11495.pdf)]
 - Learning Representations by Contrastive Spatio-temporal Clustering for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10227565)]
+- Skeleton-Based Gesture Recognition With Learnable Paths and Signature Features [[paper](https://ieeexplore.ieee.org/abstract/document/10261439)]
 
 **TCSVT**
 - Motion Complement and Temporal Multifocusing for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10015806)] [[code](https://github.com/cong-wu/MCMT-Net)]
@@ -619,6 +620,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Sep 22, 2023
+## Last update: Oct 1, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
