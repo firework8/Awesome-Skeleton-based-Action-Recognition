@@ -36,11 +36,11 @@ This paper list will be continuously updated at the end of each month.
 - MotionBERT: A Unified Perspective on Learning Human Motion Representations [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_MotionBERT_A_Unified_Perspective_on_Learning_Human_Motion_Representations_ICCV_2023_paper.pdf)] [[code](https://github.com/Walter0807/MotionBERT)]
 - Parallel Attention Interaction Network for Few-Shot Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Parallel_Attention_Interaction_Network_for_Few-Shot_Skeleton-Based_Action_Recognition_ICCV_2023_paper.pdf)] [[code](https://github.com/starrycos/PAINet)]
 - Modeling the Relative Visual Tempo for Self-supervised Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Modeling_the_Relative_Visual_Tempo_for_Self-supervised_Skeleton-based_Action_Recognition_ICCV_2023_paper.pdf)] [[code](https://github.com/Zhuysheng/RVTCLR)]
+- FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_FSAR_Federated_Skeleton-based_Action_Recognition_with_Adaptive_Topology_Structure_and_ICCV_2023_paper.pdf)] [[code](https://github.com/DivyaGuo/FSAR)]
 - Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Hard_No-Box_Adversarial_Attack_on_Skeleton-Based_Human_Action_Recognition_with_ICCV_2023_paper.pdf)] [[code](https://github.com/luyg45/HardNoBoxAttack)]
 - LAC - Latent Action Composition for Skeleton-based Action Segmentation [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_LAC_-_Latent_Action_Composition_for_Skeleton-based_Action_Segmentation_ICCV_2023_paper.pdf)] [[code](https://github.com/walker1126/Latent_Action_Composition)]
 - SkeleTR: Towards Skeleton-based Action Recognition in the Wild [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Duan_SkeleTR_Towards_Skeleton-based_Action_Recognition_in_the_Wild_ICCV_2023_paper.pdf)]
 - Cross-Modal Learning with 3D Deformable Attention for Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Cross-Modal_Learning_with_3D_Deformable_Attention_for_Action_Recognition_ICCV_2023_paper.pdf)]
-- FSAR: Federated Skeleton-based Action Recognition with Adaptive Topology Structure and Knowledge Distillation [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_FSAR_Federated_Skeleton-based_Action_Recognition_with_Adaptive_Topology_Structure_and_ICCV_2023_paper.pdf)]
 
 **ICML**
 - Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition [[paper](https://arxiv.org/pdf/2308.07571.pdf)] [[code](https://github.com/OSVAI/Ske2Grid)]
@@ -70,6 +70,9 @@ This paper list will be continuously updated at the end of each month.
 
 **IJCAI**
 - Part Aware Contrastive Learning for Self-Supervised Action Recognition [[paper](https://arxiv.org/pdf/2305.00666.pdf)] [[code](https://github.com/GitHubOfHyl97/SkeAttnCLR)]
+
+**ICCVW**
+- A Lightweight Skeleton-Based 3D-CNN for Real-Time Fall Detection and Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2023W/JRDB/papers/Noor_A_Lightweight_Skeleton-Based_3D-CNN_for_Real-Time_Fall_Detection_and_Action_ICCVW_2023_paper.pdf)]
 
 **WACV**
 - Adaptive Local-Component-aware Graph Convolutional Network for One-shot Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Zhu_Adaptive_Local-Component-Aware_Graph_Convolutional_Network_for_One-Shot_Skeleton-Based_Action_Recognition_WACV_2023_paper.pdf)]
@@ -622,6 +625,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Oct 6, 2023
+## Last update: Oct 13, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
