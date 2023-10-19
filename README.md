@@ -116,6 +116,8 @@ This paper list will be continuously updated at the end of each month.
 **Neurocomputing**
 - Focalized Contrastive View-invariant Learning for Self-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2304.00858)]
 - Spatio-temporal segments attention for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222013716)]
+- SPAR: An efficient self-attention network using Switching Partition Strategy for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S092523122301038X)]
+- STDM-transformer: Space-time dual multi-scale transformer network for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231223010263)]
 
 **arXiv papers**
 - Language Knowledge-Assisted Representation Learning for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2305.12398)] [[code](https://github.com/damnull/lagcn)]
@@ -128,6 +130,7 @@ This paper list will be continuously updated at the end of each month.
 - Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision [[paper](https://arxiv.org/abs/2309.12009)] [[code](https://github.com/desehuileng0o0/IKEM)]
 - Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.02327)] [[code](https://github.com/1xbq1/PSP-Learning)]
 - Fourier Analysis on Robustness of Graph Convolutional Neural Networks for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2305.17939)] [[code](https://github.com/nntanaka/Fourier-Analysis-for-Skeleton-based-Action-Recognition)]
+- InfoGCN++: Learning Representation by Predicting the Future for Online Human Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2310.10547)] [[code](https://github.com/stnoah1/infogcn2)]
 - High-Performance Inference Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2305.18710)]
 - Dynamic Spatial-temporal Hypergraph Convolutional Network for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.08689)]
 - Skeleton-based Human Action Recognition via Convolutional Neural Networks (CNN) [[paper](https://arxiv.org/abs/2301.13360)]
@@ -625,6 +628,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Oct 13, 2023
+## Last update: Oct 19, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
