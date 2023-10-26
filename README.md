@@ -7,8 +7,6 @@ We collect existing papers on skeleton-based action recognition published in pro
 
 This paper list will be continuously updated at the end of each month. 
 
-For better overview, please click on [Table of Contents](#table-of-contents),  you can go back to the contents directly after clicking.
-
 
 ## Table of Contents
 
@@ -39,7 +37,7 @@ For better overview, please click on [Table of Contents](#table-of-contents),  y
 
 ## Papers
 
-Statistics: :fire: highly cited | :star: code is available and star > 100
+Statistics: :fire: relatively highly cited | :star: code is available and star > 100
 
 ### 2023
 
@@ -503,9 +501,9 @@ Statistics: :fire: highly cited | :star: code is available and star > 100
 
 **CVPR**
 - Recognizing Human Actions as the Evolution of Pose Estimation Maps [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Recognizing_Human_Actions_CVPR_2018_paper.pdf)] [[code](https://github.com/nkliuyifang/Skeleton-based-Human-Action-Recognition)]
-- Independently Recurrent Neural Network (IndRNN): Building a Longer and Deeper RNN [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Independently_Recurrent_Neural_CVPR_2018_paper.pdf)] [[code](https://github.com/Sunnydreamrain/IndRNN_pytorch)]
-- 2D/3D Pose Estimation and Action Recognition Using Multitask Deep Learning [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luvizon_2D3D_Pose_Estimation_CVPR_2018_paper.pdf)] [[code](https://github.com/dluvizon/deephar)]
-- Deep Progressive Reinforcement Learning for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.pdf)]
+- Independently Recurrent Neural Network (IndRNN): Building a Longer and Deeper RNN [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Independently_Recurrent_Neural_CVPR_2018_paper.pdf)] [[code](https://github.com/Sunnydreamrain/IndRNN_pytorch)] [:fire:]
+- 2D/3D Pose Estimation and Action Recognition Using Multitask Deep Learning [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luvizon_2D3D_Pose_Estimation_CVPR_2018_paper.pdf)] [[code](https://github.com/dluvizon/deephar)] [:fire:]
+- Deep Progressive Reinforcement Learning for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.pdf)] [:fire:]
 
 **ECCV**
 - Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Chenyang_Si_Skeleton-Based_Action_Recognition_ECCV_2018_paper.pdf)]
@@ -521,7 +519,7 @@ Statistics: :fire: highly cited | :star: code is available and star > 100
 - A Large-scale Varying-view RGB-D Action Dataset for Arbitrary-view Human Action Recognition [[paper](https://arxiv.org/pdf/1904.10681.pdf)]
 
 **IJCAI**
-- Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation [[paper](https://arxiv.org/pdf/1804.06055.pdf)] [[code](https://github.com/huguyuehuhu/HCN-pytorch)]
+- Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation [[paper](https://arxiv.org/pdf/1804.06055.pdf)] [[code](https://github.com/huguyuehuhu/HCN-pytorch)] [:fire:]
 - Memory Attention Networks for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/1804.08254.pdf)] [[code](https://github.com/memory-attention-networks/MANs)]
 
 **BMVC**
@@ -555,19 +553,19 @@ Statistics: :fire: highly cited | :star: code is available and star > 100
 **CVPR**
 - Deep Learning on Lie Groups for Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Deep_Learning_on_CVPR_2017_paper.pdf)] [[code](https://github.com/zhiwu-huang/LieNet)]
 - Modeling Temporal Dynamics and Spatial Configurations of Actions Using Two-Stream Recurrent Neural Networks [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Modeling_Temporal_Dynamics_CVPR_2017_paper.pdf)] 
-- Global Context-Aware Attention LSTM Networks for 3D Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Global_Context-Aware_Attention_CVPR_2017_paper.pdf)]
-- A New Representation of Skeleton Sequences for 3D Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ke_A_New_Representation_CVPR_2017_paper.pdf)]
+- Global Context-Aware Attention LSTM Networks for 3D Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Global_Context-Aware_Attention_CVPR_2017_paper.pdf)] [:fire:]
+- A New Representation of Skeleton Sequences for 3D Action Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ke_A_New_Representation_CVPR_2017_paper.pdf)] [:fire:]
 
 **ICCV**
-- View Adaptive Recurrent Neural Networks for High Performance Human Action Recognition from Skeleton Data [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.pdf)] [[code](https://github.com/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition)]
+- View Adaptive Recurrent Neural Networks for High Performance Human Action Recognition from Skeleton Data [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.pdf)] [[code](https://github.com/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition)] [:fire:]
 - Ensemble Deep Learning for Skeleton-Based Action Recognition Using Temporal Sliding LSTM Networks [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lee_Ensemble_Deep_Learning_ICCV_2017_paper.pdf)] [[code](https://github.com/InwoongLee/TS-LSTM)]
 - Learning Action Recognition Model From Depth and Skeleton Videos [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rahmani_Learning_Action_Recognition_ICCV_2017_paper.pdf)]
 
 **AAAI**
-- An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11212)]
+- An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11212)] [:fire:]
 
 **CVPRW**
-- Interpretable 3D Human Action Analysis with Temporal Convolutional Networks [[paper](https://arxiv.org/pdf/1704.04516.pdf)] [[code](https://github.com/TaeSoo-Kim/TCNActionRecognition)]
+- Interpretable 3D Human Action Analysis with Temporal Convolutional Networks [[paper](https://arxiv.org/pdf/1704.04516.pdf)] [[code](https://github.com/TaeSoo-Kim/TCNActionRecognition)] [:fire:]
 
 **ICMEW**
 - Skeleton based action recognition using translation-scale invariant image mapping and multi-scale deep CNN [[paper](https://arxiv.org/pdf/1704.05645.pdf)]
@@ -578,11 +576,11 @@ Statistics: :fire: highly cited | :star: code is available and star > 100
 - Skeleton-Based Action Recognition Using Spatio-Temporal LSTM Network with Trust Gates [[paper](https://arxiv.org/pdf/1706.08276.pdf)] [[code](https://github.com/chungyin383/STLSTM)]
 
 **TIP**
-- Skeleton-Based Human Action Recognition With Global Context-Aware Attention LSTM Networks [[paper](https://arxiv.org/pdf/1707.05740.pdf)]
+- Skeleton-Based Human Action Recognition With Global Context-Aware Attention LSTM Networks [[paper](https://arxiv.org/pdf/1707.05740.pdf)] [:fire:]
 
 **PR**
 - Learning discriminative trajectorylet detector sets for accurate skeleton-based action recognition [[paper](https://arxiv.org/pdf/1504.04923.pdf)]
-- Enhanced skeleton visualization for view invariant human action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320317300936)]
+- Enhanced skeleton visualization for view invariant human action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320317300936)] [:fire:]
 
 
 ### 2016
@@ -615,7 +613,7 @@ Statistics: :fire: highly cited | :star: code is available and star > 100
 
 **CVPR**
 - Hierarchical Recurrent Neural Network for Skeleton Based Action Recognition [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Du_Hierarchical_Recurrent_Neural_2015_CVPR_paper.pdf)] [:fire:]
-- Jointly learning heterogeneous features for RGB-D activity recognition [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hu_Jointly_Learning_Heterogeneous_2015_CVPR_paper.pdf)]
+- Jointly learning heterogeneous features for RGB-D activity recognition [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hu_Jointly_Learning_Heterogeneous_2015_CVPR_paper.pdf)] [:fire:]
 
 **ICCV**
 - Learning Spatiotemporal Features with 3D Convolutional Networks [[paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)] [[code](https://vlg.cs.dartmouth.edu/c3d/)] [:fire:]
