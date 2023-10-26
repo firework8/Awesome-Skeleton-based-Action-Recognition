@@ -8,6 +8,22 @@ We collect existing papers on skeleton-based action recognition published in pro
 This paper list will be continuously updated at the end of each month. 
 
 
+## Table of Contents
+
+- [Survey](#survey)
+- [Papers](#papers)
+  - [2023](#2023)
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [2016](#2016)
+  - [2015](#2015)
+  - [2014](#2014)
+- [Other Resources](#other-resources)
+
 ## Survey
 
 - Human Action Recognition from Various Data Modalities: A Review (**TPAMI 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9795869)]
@@ -19,6 +35,8 @@ This paper list will be continuously updated at the end of each month.
 - A Comparative Review of Recent Kinect-based Action Recognition Algorithms (**TIP 2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8753686)]
 
 ## Papers
+
+Statistics: :fire: highly cited | :star: code is available and star > 100
 
 ### 2023
 
@@ -491,7 +509,7 @@ This paper list will be continuously updated at the end of each month.
 - Adding Attentiveness to the Neurons in Recurrent Neural Networks [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Pengfei_Zhang_Adding_Attentiveness_to_ECCV_2018_paper.pdf)]
 
 **AAAI**
-- Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://ojs.aaai.org/index.php/aaai/article/view/12328) [[code](https://github.com/yysijie/st-gcn/blob/master/OLD_README.md)]
+- Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://ojs.aaai.org/index.php/aaai/article/view/12328) [[code](https://github.com/yysijie/st-gcn/blob/master/OLD_README.md)] [:fire:] [:star:]
 - Unsupervised Representation Learning With Long-Term Dynamics for Skeleton Based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11853)] [[code](https://github.com/jungel2star/Unsupervised-Representation-Learning-with-Long-Term-Dynamics-for-Skeleton-Based-Action-Recognition)]
 - Spatio-Temporal Graph Convolution for Skeleton Based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11776)]
 
