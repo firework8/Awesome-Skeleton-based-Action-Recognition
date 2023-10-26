@@ -7,8 +7,11 @@ We collect existing papers on skeleton-based action recognition published in pro
 
 This paper list will be continuously updated at the end of each month. 
 
+For better overview, please click on [Table of Contents](#table-of-contents),  you can go back to the contents directly after clicking.
+
 
 ## Table of Contents
+
 
 - [Survey](#survey)
 - [Papers](#papers)
@@ -585,15 +588,15 @@ Statistics: :fire: highly cited | :star: code is available and star > 100
 ### 2016
 
 **CVPR**
-- NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf)] [[code](https://github.com/shahroudy/NTURGB-D)]
+- NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf)] [[code](https://github.com/shahroudy/NTURGB-D)] [:fire:]
 - Rolling Rotations for Recognizing Human Actions from 3D Skeletal Data [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vemulapalli_Rolling_Rotations_for_CVPR_2016_paper.pdf)]
 
 **ECCV**
-- Temporal segment networks: Towards good practices for deep action recognition [[paper](https://arxiv.org/pdf/1608.00859.pdf%EF%BC%89)] [[code](https://github.com/yjxiong/temporal-segment-networks)]
-- Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_50)]
+- Temporal segment networks: Towards good practices for deep action recognition [[paper](https://arxiv.org/pdf/1608.00859.pdf%EF%BC%89)] [[code](https://github.com/yjxiong/temporal-segment-networks)] [:fire:]
+- Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_50)] [:fire:]
 
 **AAAI**
-- Co-occurrence Feature Learning for Skeleton based Action Recognition using Regularized Deep LSTM Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/10451)]
+- Co-occurrence Feature Learning for Skeleton based Action Recognition using Regularized Deep LSTM Networks [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/10451)] [:fire:]
 
 **ACM MM**
 - Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks [[paper](https://arxiv.org/pdf/1611.02447.pdf)]
@@ -611,11 +614,11 @@ Statistics: :fire: highly cited | :star: code is available and star > 100
 ### 2015
 
 **CVPR**
-- Hierarchical Recurrent Neural Network for Skeleton Based Action Recognition [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Du_Hierarchical_Recurrent_Neural_2015_CVPR_paper.pdf)]
+- Hierarchical Recurrent Neural Network for Skeleton Based Action Recognition [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Du_Hierarchical_Recurrent_Neural_2015_CVPR_paper.pdf)] [:fire:]
 - Jointly learning heterogeneous features for RGB-D activity recognition [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Hu_Jointly_Learning_Heterogeneous_2015_CVPR_paper.pdf)]
 
 **ICCV**
-- Learning Spatiotemporal Features with 3D Convolutional Networks [[paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)] [[code](https://vlg.cs.dartmouth.edu/c3d/)]
+- Learning Spatiotemporal Features with 3D Convolutional Networks [[paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)] [[code](https://vlg.cs.dartmouth.edu/c3d/)] [:fire:]
 
 **TPAMI**
 - Multimodal Multipart Learning for Action Recognition in Depth Videos [[paper](https://arxiv.org/pdf/1507.08761.pdf)] 
@@ -629,11 +632,11 @@ Statistics: :fire: highly cited | :star: code is available and star > 100
 ### 2014
 
 **CVPR**  
-- Cross-view Action Modeling, Learning and Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Wang_Cross-view_Action_Modeling_2014_CVPR_paper.pdf)]
-- Human Action Recognition by Representing 3D Skeletons as Points in a Lie Group [[paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Vemulapalli_Human_Action_Recognition_2014_CVPR_paper.pdf)]
+- Cross-view Action Modeling, Learning and Recognition [[paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Wang_Cross-view_Action_Modeling_2014_CVPR_paper.pdf)] [:fire:]
+- Human Action Recognition by Representing 3D Skeletons as Points in a Lie Group [[paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Vemulapalli_Human_Action_Recognition_2014_CVPR_paper.pdf)] [:fire:]
 
 **NeurIPS** 
-- Two-Stream Convolutional Networks for Action Recognition in Videos [[paper](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)]
+- Two-Stream Convolutional Networks for Action Recognition in Videos [[paper](https://proceedings.neurips.cc/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf)] [:fire:]
 
 ## Other Resources
 With all the resources available on the github website, this paper list is comprehensive and recently updated.
