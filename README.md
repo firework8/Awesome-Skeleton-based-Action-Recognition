@@ -43,7 +43,7 @@ This paper list will be continuously updated at the end of each month.
 - Cross-Modal Learning with 3D Deformable Attention for Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Cross-Modal_Learning_with_3D_Deformable_Attention_for_Action_Recognition_ICCV_2023_paper.pdf)]
 
 **ICML**
-- Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition [[paper](https://arxiv.org/pdf/2308.07571.pdf)] [[code](https://github.com/OSVAI/Ske2Grid)]
+- Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition [[paper](http://proceedings.mlr.press/v202/cai23c/cai23c.pdf)] [[code](https://github.com/OSVAI/Ske2Grid)]
 
 **CVPR**
 - Learning Discriminative Representations for Skeleton Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Learning_Discriminative_Representations_for_Skeleton_Based_Action_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/zhysora/FR-Head)]
@@ -61,15 +61,18 @@ This paper list will be continuously updated at the end of each month.
 - Hyperbolic Self-paced Learning for Self-supervised Skeleton-based Action Representations [[paper](https://arxiv.org/pdf/2303.06242.pdf)] [[code](https://github.com/paolomandica/HYSP)]
 
 **AAAI**
-- Hierarchical Consistent Contrastive Learning for Skeleton-Based Action Recognition with Growing Augmentations [[paper](https://arxiv.org/abs/2211.13466)] [[code](https://github.com/JHang2020/HiCLR)]
-- Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences [[paper](https://arxiv.org/pdf/2302.09018.pdf)] [[code](https://github.com/YujieOuO/PSTL)]
-- Hierarchical Contrast for Unsupervised Skeleton-based Action Representation Learning [[paper](https://arxiv.org/pdf/2212.02082.pdf)] [[code](https://github.com/HuiGuanLab/HiCo)]
-- Anonymization for Skeleton Action Recognition [[paper](https://arxiv.org/pdf/2111.15129.pdf)] [[code](https://github.com/ml-postech/Skeleton-anonymization)]
-- Defending Black-box Skeleton-based Human Activity Classifiers [[paper](https://arxiv.org/pdf/2203.04713.pdf)] [[code](https://github.com/realcrane/Defending-Black-box-Skeleton-based-Human-Activity-Classifiers)]
+- Hierarchical Consistent Contrastive Learning for Skeleton-Based Action Recognition with Growing Augmentations [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25451)] [[code](https://github.com/JHang2020/HiCLR)]
+- Self-supervised Action Representation Learning from Partial Spatio-Temporal Skeleton Sequences [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25495)] [[code](https://github.com/YujieOuO/PSTL)]
+- Frame-Level Label Refinement for Skeleton-Based Weakly-Supervised Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25439)] [[code](https://github.com/line/Skeleton-Temporal-Action-Localization)]
+- Hierarchical Contrast for Unsupervised Skeleton-based Action Representation Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25127)] [[code](https://github.com/HuiGuanLab/HiCo)]
+- Anonymization for Skeleton Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26754)] [[code](https://github.com/ml-postech/Skeleton-anonymization)]
+- Defending Black-box Skeleton-based Human Activity Classifiers [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25352)] [[code](https://github.com/realcrane/Defending-Black-box-Skeleton-based-Human-Activity-Classifiers)]
 - Novel Motion Patterns Matter for Practical Skeleton-based Action Recognition [[paper](https://humanperception.github.io/documents/AAAI2023.pdf)]
+- Self-Supervised Learning for Multilevel Skeleton-Based Forgery Detection via Temporal-Causal Consistency of Actions [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25163)]
 
 **IJCAI**
-- Part Aware Contrastive Learning for Self-Supervised Action Recognition [[paper](https://arxiv.org/pdf/2305.00666.pdf)] [[code](https://github.com/GitHubOfHyl97/SkeAttnCLR)]
+- Part Aware Contrastive Learning for Self-Supervised Action Recognition [[paper](https://www.ijcai.org/proceedings/2023/0095.pdf)] [[code](https://github.com/GitHubOfHyl97/SkeAttnCLR)]
+- Action Recognition with Multi-stream Motion Modeling and Mutual Information Maximization [[paper](https://www.ijcai.org/proceedings/2023/0184.pdf)]
 
 **ICCVW**
 - A Lightweight Skeleton-Based 3D-CNN for Real-Time Fall Detection and Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2023W/JRDB/papers/Noor_A_Lightweight_Skeleton-Based_3D-CNN_for_Real-Time_Fall_Detection_and_Action_ICCVW_2023_paper.pdf)]
@@ -90,6 +93,9 @@ This paper list will be continuously updated at the end of each month.
 
 **IROS**
 - Interactive Spatiotemporal Token Attention Network for Skeleton-based General Interactive Action Recognition [[paper](https://arxiv.org/pdf/2307.07469.pdf)] [[code](https://github.com/Necolizer/ISTA-Net)]
+
+**TPAMI**
+- Self-Supervised 3D Action Representation Learning with Skeleton Cloud Colorization [[paper](https://arxiv.org/pdf/2304.08799.pdf)]
 
 **TMM**
 - Delving Deep into One-Shot Skeleton-based Action Recognition with Diverse Occlusions [[paper](https://ieeexplore.ieee.org/abstract/document/10011561)] [[code](https://github.com/KPeng9510/Trans4SOAR)]
@@ -135,8 +141,6 @@ This paper list will be continuously updated at the end of each month.
 - Dynamic Spatial-temporal Hypergraph Convolutional Network for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.08689)]
 - Skeleton-based Human Action Recognition via Convolutional Neural Networks (CNN) [[paper](https://arxiv.org/abs/2301.13360)]
 - Cross-view Action Recognition via Contrastive View-invariant Representation [[paper](https://arxiv.org/abs/2305.01733)]
-- Action Recognition with Multi-stream Motion Modeling and Mutual Information Maximization [[paper](https://arxiv.org/abs/2306.07576)]
-- Self-Supervised 3D Action Representation Learning with Skeleton Cloud Colorization [[paper](https://arxiv.org/abs/2304.08799)]
 - Attack is Good Augmentation: Towards Skeleton-Contrastive Representation Learning [[paper](https://arxiv.org/abs/2304.04023)]
 - SCD-Net: Spatiotemporal Clues Disentanglement Network for Self-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2309.05834)]
 - DMMG: Dual Min-Max Games for Self-Supervised Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2302.12007)]
@@ -628,6 +632,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Oct 19, 2023
+## Last update: Oct 26, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
