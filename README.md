@@ -176,6 +176,7 @@ Statistics: :fire: relatively highly cited | :star: code is available and star >
 - Physical-aware Cross-modal Adversarial Network for Wearable Sensor-based Human Action Recognition [[paper](https://arxiv.org/abs/2307.03638)]
 - Improving Video Violence Recognition with Human Interaction Learning on 3D Skeleton Point Clouds [[paper](https://arxiv.org/abs/2308.13866)]
 - I2MD: 3D Action Representation Learning with Inter- and Intra-modal Mutual Distillation [[paper](https://arxiv.org/abs/2310.15568)]
+- Challenges in Video-Based Infant Action Recognition: A Critical Examination of the State of the Art [[paper](https://arxiv.org/abs/2311.12300)]
 
 
 ### 2022
@@ -657,6 +658,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Nov 3, 2023
+## Last update: Nov 26, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
