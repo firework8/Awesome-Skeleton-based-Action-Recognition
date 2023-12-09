@@ -43,7 +43,7 @@ Statistics: :fire: relatively highly cited | :star: code is available and star >
 
 **ACM MM**
 - Skeleton MixFormer: Multivariate Topology Representation for Skeleton-based Action Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611900)] [[code](https://github.com/ElricXin/Skeleton-MixFormer)]
-- Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611774)] [[code](https://jhang2020.github.io/Projects/PCM3/PCM3.html)]
+- Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611774)] [[code](https://github.com/JHang2020/PCM3)]
 - Unified Multi-modal Unsupervised Representation Learning for Skeleton-based Action Understanding [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612449)] [[code](https://github.com/HuiGuanLab/UmURL)]
 - Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611888)] [[code](https://github.com/YujieOuO/SMIE)]
 - Self-Relational Graph Convolution Network for Skeleton-Based Action Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612280)]
@@ -99,6 +99,9 @@ Statistics: :fire: relatively highly cited | :star: code is available and star >
 
 **ICCVW**
 - A Lightweight Skeleton-Based 3D-CNN for Real-Time Fall Detection and Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2023W/JRDB/papers/Noor_A_Lightweight_Skeleton-Based_3D-CNN_for_Real-Time_Fall_Detection_and_Action_ICCVW_2023_paper.pdf)]
+
+**BMVC**
+- STEP CATFormer: Spatial-Temporal Effective Body-Part Cross Attention Transformer for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2312.03288.pdf)] [[code](https://github.com/maclong01/STEP-CATFormer)]
 
 **WACV**
 - Adaptive Local-Component-aware Graph Convolutional Network for One-shot Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Zhu_Adaptive_Local-Component-Aware_Graph_Convolutional_Network_for_One-Shot_Skeleton-Based_Action_Recognition_WACV_2023_paper.pdf)]
@@ -177,6 +180,8 @@ Statistics: :fire: relatively highly cited | :star: code is available and star >
 - Improving Video Violence Recognition with Human Interaction Learning on 3D Skeleton Point Clouds [[paper](https://arxiv.org/abs/2308.13866)]
 - I2MD: 3D Action Representation Learning with Inter- and Intra-modal Mutual Distillation [[paper](https://arxiv.org/abs/2310.15568)]
 - Challenges in Video-Based Infant Action Recognition: A Critical Examination of the State of the Art [[paper](https://arxiv.org/abs/2311.12300)]
+- READS-V: Real-time Automated Detection of Epileptic Seizures from Surveillance Videos via Skeleton-based Spatiotemporal ViG [[paper](https://arxiv.org/abs/2311.14775)]
+- Hulk: A Universal Knowledge Translator for Human-Centric Tasks [[paper](https://arxiv.org/abs/2312.01697)]
 
 
 ### 2022
@@ -658,6 +663,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Nov 26, 2023
+## Last update: Dec 9, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
