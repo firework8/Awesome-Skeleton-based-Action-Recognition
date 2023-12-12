@@ -13,6 +13,7 @@ This paper list will be continuously updated at the end of each month.
 
 - [Survey](#survey)
 - [Papers](#papers)
+  - [2024](#2024)
   - [2023](#2023)
   - [2022](#2022)
   - [2021](#2021)
