@@ -152,6 +152,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Continual spatio-temporal graph convolutional networks [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323002285)] [[code](https://github.com/LukasHedegaard/continual-skeletons)]
 - Relation-mining self-attention network for skeleton-based human action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323001553)] [[code](https://github.com/GedamuA/RSA-Net)]
 - SpatioTemporal Focus for Skeleton-based Action Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322007105)]
+- Multi-grained clip focus for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323008853)]
 
 **Neurocomputing**
 - Focalized Contrastive View-invariant Learning for Self-supervised Skeleton-based Action Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231223003211)]
@@ -189,6 +190,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Challenges in Video-Based Infant Action Recognition: A Critical Examination of the State of the Art [[paper](https://arxiv.org/abs/2311.12300)]
 - READS-V: Real-time Automated Detection of Epileptic Seizures from Surveillance Videos via Skeleton-based Spatiotemporal ViG [[paper](https://arxiv.org/abs/2311.14775)]
 - Hulk: A Universal Knowledge Translator for Human-Centric Tasks [[paper](https://arxiv.org/abs/2312.01697)]
+- Towards a geometric understanding of Spatio Temporal Graph Convolution Networks [[paper](https://arxiv.org/abs/2312.07777)]
 
 
 ### 2022
@@ -670,6 +672,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Dec 12, 2023
+## Last update: Dec 22, 2023
 
 ## Feel free to contact me if you find any interesting paper is missing.
