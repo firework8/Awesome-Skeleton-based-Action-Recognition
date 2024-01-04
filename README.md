@@ -45,6 +45,10 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **AAAI**
 - Navigating Open Set Scenarios for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2312.06330.pdf)] [[code](https://github.com/KPeng9510/OS-SAR)]
 
+**arXiv papers**
+- A Two-stream Hybrid CNN-Transformer Network for Skeleton-based Human Interaction Recognition [[paper](https://arxiv.org/abs/2401.00409)]
+- Skeleton2vec: A Self-supervised Learning Framework with Contextualized Target Representations for Skeleton Sequence [[paper](https://arxiv.org/abs/2401.00921)]
+
 
 ### 2023
 
@@ -673,6 +677,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Dec 27, 2023
+## Last update: Jan 4, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
