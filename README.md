@@ -56,6 +56,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **PR**
 - Spatiotemporal Progressive Inward-Outward Aggregation Network for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S003132032400013X)]
+- Improving self-supervised action recognition from extremely augmented skeleton sequences [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000840)]
 
 **arXiv papers**
 - A Two-stream Hybrid CNN-Transformer Network for Skeleton-based Human Interaction Recognition [[paper](https://arxiv.org/abs/2401.00409)]
@@ -68,14 +69,16 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 ### 2023
 
-**ACM MM**
-- Skeleton MixFormer: Multivariate Topology Representation for Skeleton-based Action Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611900)] [[code](https://github.com/ElricXin/Skeleton-MixFormer)]
-- Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611774)] [[code](https://github.com/JHang2020/PCM3)]
-- Unified Multi-modal Unsupervised Representation Learning for Skeleton-based Action Understanding [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612449)] [[code](https://github.com/HuiGuanLab/UmURL)]
-- Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611888)] [[code](https://github.com/YujieOuO/SMIE)]
-- Self-Relational Graph Convolution Network for Skeleton-Based Action Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612280)]
-- Skeletal Spatial-Temporal Semantics Guided Homogeneous-Heterogeneous Multimodal Network for Action Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612560)]
-- Occluded Skeleton-Based Human Action Recognition with Dual Inhibition Training [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612170)]
+**CVPR**
+- Learning Discriminative Representations for Skeleton Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Learning_Discriminative_Representations_for_Skeleton_Based_Action_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/zhysora/FR-Head)]
+- Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Neural_Koopman_Pooling_Control-Inspired_Temporal_Dynamics_Encoding_for_Skeleton-Based_Action_CVPR_2023_paper.pdf)] [[code](https://github.com/Infinitywxh/Neural_Koopman_pooling)]
+- Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Actionlet-Dependent_Contrastive_Learning_for_Unsupervised_Skeleton-Based_Action_Recognition_CVPR_2023_paper.pdf)] [[code](https://langlandslin.github.io/projects/ActCLR/)]
+- HaLP: Hallucinating Latent Positives for Skeleton-based Self-Supervised Learning of Actions [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shah_HaLP_Hallucinating_Latent_Positives_for_Skeleton-Based_Self-Supervised_Learning_of_Actions_CVPR_2023_paper.pdf)] [[code](https://github.com/anshulbshah/HaLP)]
+- STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_STMT_A_Spatial-Temporal_Mesh_Transformer_for_MoCap-Based_Action_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/zgzxy001/STMT)]
+- 3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.pdf)]
+- Unified Pose Sequence Modeling [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Foo_Unified_Pose_Sequence_Modeling_CVPR_2023_paper.pdf)]
+- Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hachiuma_Unified_Keypoint-Based_Action_Recognition_Framework_via_Structured_Keypoint_Pooling_CVPR_2023_paper.pdf)]
+- Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sato_Prompt-Guided_Zero-Shot_Anomaly_Action_Recognition_Using_Pretrained_Deep_Skeleton_Features_CVPR_2023_paper.pdf)]
 
 **ICCV**
 - Hierarchically Decomposed Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Hierarchically_Decomposed_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_ICCV_2023_paper.pdf)] [[code](https://github.com/Jho-Yonsei/HD-GCN)]
@@ -95,17 +98,6 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **ICML**
 - Ske2Grid: Skeleton-to-Grid Representation Learning for Action Recognition [[paper](http://proceedings.mlr.press/v202/cai23c/cai23c.pdf)] [[code](https://github.com/OSVAI/Ske2Grid)]
 
-**CVPR**
-- Learning Discriminative Representations for Skeleton Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Learning_Discriminative_Representations_for_Skeleton_Based_Action_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/zhysora/FR-Head)]
-- Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Neural_Koopman_Pooling_Control-Inspired_Temporal_Dynamics_Encoding_for_Skeleton-Based_Action_CVPR_2023_paper.pdf)] [[code](https://github.com/Infinitywxh/Neural_Koopman_pooling)]
-- Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Actionlet-Dependent_Contrastive_Learning_for_Unsupervised_Skeleton-Based_Action_Recognition_CVPR_2023_paper.pdf)] [[code](https://langlandslin.github.io/projects/ActCLR/)]
-- HaLP: Hallucinating Latent Positives for Skeleton-based Self-Supervised Learning of Actions [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shah_HaLP_Hallucinating_Latent_Positives_for_Skeleton-Based_Self-Supervised_Learning_of_Actions_CVPR_2023_paper.pdf)] [[code](https://github.com/anshulbshah/HaLP)]
-- STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_STMT_A_Spatial-Temporal_Mesh_Transformer_for_MoCap-Based_Action_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/zgzxy001/STMT)]
-- 3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.pdf)]
-- Unified Pose Sequence Modeling [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Foo_Unified_Pose_Sequence_Modeling_CVPR_2023_paper.pdf)]
-- Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hachiuma_Unified_Keypoint-Based_Action_Recognition_Framework_via_Structured_Keypoint_Pooling_CVPR_2023_paper.pdf)]
-- Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sato_Prompt-Guided_Zero-Shot_Anomaly_Action_Recognition_Using_Pretrained_Deep_Skeleton_Features_CVPR_2023_paper.pdf)]
-
 **ICLR**
 - Graph Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2301.10900.pdf)] [[code](https://github.com/OliverHxh/SkeletonGCL)]
 - Hyperbolic Self-paced Learning for Self-supervised Skeleton-based Action Representations [[paper](https://arxiv.org/pdf/2303.06242.pdf)] [[code](https://github.com/paolomandica/HYSP)]
@@ -119,6 +111,15 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Defending Black-box Skeleton-based Human Activity Classifiers [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25352)] [[code](https://github.com/realcrane/Defending-Black-box-Skeleton-based-Human-Activity-Classifiers)]
 - Novel Motion Patterns Matter for Practical Skeleton-based Action Recognition [[paper](https://humanperception.github.io/documents/AAAI2023.pdf)]
 - Self-Supervised Learning for Multilevel Skeleton-Based Forgery Detection via Temporal-Causal Consistency of Actions [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25163)]
+
+**ACM MM**
+- Skeleton MixFormer: Multivariate Topology Representation for Skeleton-based Action Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611900)] [[code](https://github.com/ElricXin/Skeleton-MixFormer)]
+- Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611774)] [[code](https://github.com/JHang2020/PCM3)]
+- Unified Multi-modal Unsupervised Representation Learning for Skeleton-based Action Understanding [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612449)] [[code](https://github.com/HuiGuanLab/UmURL)]
+- Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611888)] [[code](https://github.com/YujieOuO/SMIE)]
+- Self-Relational Graph Convolution Network for Skeleton-Based Action Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612280)]
+- Skeletal Spatial-Temporal Semantics Guided Homogeneous-Heterogeneous Multimodal Network for Action Recognition [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612560)]
+- Occluded Skeleton-Based Human Action Recognition with Dual Inhibition Training [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612170)]
 
 **IJCAI**
 - Part Aware Contrastive Learning for Self-Supervised Action Recognition [[paper](https://www.ijcai.org/proceedings/2023/0095.pdf)] [[code](https://github.com/GitHubOfHyl97/SkeAttnCLR)]
@@ -693,6 +694,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Feb 17, 2024
+## Last update: Feb 24, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
