@@ -51,6 +51,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **IJCV**
 - View-invariant Skeleton Action Representation Learning via Motion Retargeting [[paper](https://link.springer.com/article/10.1007/s11263-023-01967-8)] [[code](https://github.com/YangDi666/UNIK)]
 
+**TIP**
+- Mutual Information Driven Equivariant Contrastive Learning for 3D Action Representation Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10462918)]
+
 **TCSVT**
 - Glimpse and Zoom: Spatio-Temporal Focused Dynamic Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10415064)]
 
@@ -61,6 +64,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Spatiotemporal Progressive Inward-Outward Aggregation Network for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S003132032400013X)]
 - Improving self-supervised action recognition from extremely augmented skeleton sequences [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000840)]
 
+**Neurocomputing**
+- Independent Dual Graph Attention Convolutional Network for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002674)]
+
 **arXiv papers**
 - A Two-stream Hybrid CNN-Transformer Network for Skeleton-based Human Interaction Recognition [[paper](https://arxiv.org/abs/2401.00409)]
 - Skeleton2vec: A Self-supervised Learning Framework with Contextualized Target Representations for Skeleton Sequence [[paper](https://arxiv.org/abs/2401.00921)]
@@ -68,6 +74,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Active Generation Network of Human Skeleton for Action Recognition [[paper](https://arxiv.org/abs/2401.17086)]
 - AutoGCN - Towards Generic Human Activity Recognition with Neural Architecture Search [[paper](https://arxiv.org/abs/2402.01313)]
 - Learning Mutual Excitation for Hand-to-Hand and Human-to-Human Interaction Recognition [[paper](https://arxiv.org/abs/2402.02431)]
+- SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://arxiv.org/abs/2403.09508)]
 
 
 ### 2023
@@ -232,6 +239,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Hierarchically Self-Supervised Transformer for Human Skeleton Representation Learning [[paper](https://arxiv.org/pdf/2207.09644.pdf)] [[code](https://github.com/yuxiaochen1103/Hi-TRS)]
 - Collaborating Domain-shared and Target-specific Feature Clustering for Cross-domain 3D Action Recognition [[paper](https://arxiv.org/pdf/2207.09767.pdf)] [[code](https://github.com/canbaoburen/CoDT)]
 - Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning [[paper](https://arxiv.org/pdf/2207.06101.pdf)] [[code](https://github.com/Boeun-Kim/GL-Transformer)]
+- IGFormer: Interaction Graph Transformer for Skeleton-Based Human Interaction Recognition [[paper](https://arxiv.org/pdf/2207.12100.pdf)]
 - Contrastive Positive Mining for Unsupervised 3D Action Representation Learning [[paper](https://arxiv.org/pdf/2208.03497.pdf)]
 - Learning Spatial-Preserved Skeleton Representations for Few-Shot Action Recognition [[paper](https://openreview.net/pdf?id=qIlLNOJsKxJ)]
 - Uncertainty-DTW for Time Series and Sequences [[paper](https://arxiv.org/pdf/2211.00005.pdf)]
@@ -436,6 +444,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **ECCV**
 - Decoupling GCN with DropGraph Module for Skeleton-Based Action Recognition [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_32)] [[code](https://github.com/kchengiva/DecoupleGCN-DropGraph)] [🔥]
 - Unsupervised 3D Human Pose Representation with Viewpoint and Pose Disentanglement [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_7)] [[code](https://github.com/NIEQiang001/unsupervised-human-pose)]
+- DDGCN: A Dynamic Directed Graph Convolutional Network for Action Recognition [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_45)]
 - Adversarial Self-supervised Learning for Semi-supervised 3D Action Recognition [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58571-6_3)]
 
 **AAAI**
@@ -698,6 +707,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Mar 11, 2024
+## Last update: Mar 15, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
