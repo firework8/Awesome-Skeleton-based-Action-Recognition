@@ -56,6 +56,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **TCSVT**
 - Glimpse and Zoom: Spatio-Temporal Focused Dynamic Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10415064)]
+- Multi-scale Structural Graph Convolutional Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10464339)]
 
 **TNNLS**
 - GRA: Graph Representation Alignment for Semi-Supervised Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10398229)]
@@ -66,6 +67,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **Neurocomputing**
 - Independent Dual Graph Attention Convolutional Network for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002674)]
+- A motion-aware and temporal-enhanced Spatial–Temporal Graph Convolutional Network for skeleton-based human action segmentation [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224002534)]
 
 **arXiv papers**
 - A Two-stream Hybrid CNN-Transformer Network for Skeleton-based Human Interaction Recognition [[paper](https://arxiv.org/abs/2401.00409)]
@@ -75,6 +77,8 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - AutoGCN - Towards Generic Human Activity Recognition with Neural Architecture Search [[paper](https://arxiv.org/abs/2402.01313)]
 - Learning Mutual Excitation for Hand-to-Hand and Human-to-Human Interaction Recognition [[paper](https://arxiv.org/abs/2402.02431)]
 - SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://arxiv.org/abs/2403.09508)]
+- Skeleton-Based Human Action Recognition with Noisy Labels [[paper](https://arxiv.org/abs/2403.09975)]
+- CrossGLG: LLM Guides One-shot Skeleton-based 3D Action Recognition in a Cross-level Manner [[paper](https://arxiv.org/abs/2403.10082)]
 
 
 ### 2023
@@ -707,6 +711,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Mar 15, 2024
+## Last update: Mar 18, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
