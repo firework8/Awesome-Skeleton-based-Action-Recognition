@@ -43,8 +43,11 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 ### 2024
 
 **AAAI**
-- SCD-Net: Spatiotemporal Clues Disentanglement Network for Self-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2309.05834.pdf)] [[code](https://github.com/cong-wu/SCD-Net)]
-- Navigating Open Set Scenarios for Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2312.06330.pdf)] [[code](https://github.com/KPeng9510/OS-SAR)]
+- Dynamic Semantic-Based Spatial Graph Convolution Network for Skeleton-Based Human Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28440)] [[code](https://github.com/davelailai/DS-GCN)]
+- SCD-Net: Spatiotemporal Clues Disentanglement Network for Self-supervised Skeleton-based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28409)] [[code](https://github.com/cong-wu/SCD-Net)]
+- Navigating Open Set Scenarios for Skeleton-based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28247)] [[code](https://github.com/KPeng9510/OS-SAR)]
+- Behavioral Recognition of Skeletal Data Based on Targeted Dual Fusion Strategy [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28517)]
+- Spatio-Temporal Fusion for Human Action Recognition via Joint Trajectory Graph [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28590)]
 
 **ICASSP**
 - Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision [[paper](https://arxiv.org/pdf/2309.12009.pdf)] [[code](https://github.com/desehuileng0o0/IKEM)]
@@ -76,7 +79,8 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Representation modeling learning with multi-domain decoupling for unsupervised skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224002662)]
 
 **arXiv papers**
-- SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://arxiv.org/abs/2403.09508)]
+- SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://arxiv.org/abs/2403.09508)] [[code](https://github.com/KAIST-VICLab/SkateFormer)]
+- GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2403.15212)] [[code](https://github.com/DeepIntoStreams/GCN-DevLSTM)]
 - AutoGCN - Towards Generic Human Activity Recognition with Neural Architecture Search [[paper](https://arxiv.org/abs/2402.01313)]
 - A Two-stream Hybrid CNN-Transformer Network for Skeleton-based Human Interaction Recognition [[paper](https://arxiv.org/abs/2401.00409)]
 - Learning Mutual Excitation for Hand-to-Hand and Human-to-Human Interaction Recognition [[paper](https://arxiv.org/abs/2402.02431)]
@@ -716,6 +720,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Mar 24, 2024
+## Last update: Mar 28, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
