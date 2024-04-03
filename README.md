@@ -42,6 +42,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 ### 2024
 
+**CVPR**
+- LLM-AR: When Large Language Model Meets Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2404.00532.pdf)]
+
 **AAAI**
 - Dynamic Semantic-Based Spatial Graph Convolution Network for Skeleton-Based Human Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28440)] [[code](https://github.com/davelailai/DS-GCN)]
 - SCD-Net: Spatiotemporal Clues Disentanglement Network for Self-supervised Skeleton-based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28409)] [[code](https://github.com/cong-wu/SCD-Net)]
@@ -52,6 +55,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **ICASSP**
 - Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision [[paper](https://arxiv.org/pdf/2309.12009.pdf)] [[code](https://github.com/desehuileng0o0/IKEM)]
 - Wavelet-Decoupling Contrastive Enhancement Network for Fine-Grained Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2402.02210.pdf)]
+- A Novel Contrastive Diffusion Graph Convolutional Network for Few-Shot Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10447668)]
 
 **TPAMI**
 - One-Shot Action Recognition via Multi-Scale Spatial-Temporal Skeleton Matching [[paper](https://ieeexplore.ieee.org/abstract/document/10428035)]
@@ -60,6 +64,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - View-invariant Skeleton Action Representation Learning via Motion Retargeting [[paper](https://link.springer.com/article/10.1007/s11263-023-01967-8)] [[code](https://github.com/YangDi666/UNIK)]
 
 **TIP**
+- DeGCN: Deformable Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10478824)] [[code](https://github.com/WoominM/DeGCN_pytorch)]
 - Mutual Information Driven Equivariant Contrastive Learning for 3D Action Representation Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10462918)]
 
 **TCSVT**
@@ -720,6 +725,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Mar 28, 2024
+## Last update: Apr 3, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
