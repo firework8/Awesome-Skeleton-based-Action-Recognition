@@ -57,6 +57,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Wavelet-Decoupling Contrastive Enhancement Network for Fine-Grained Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2402.02210.pdf)]
 - A Novel Contrastive Diffusion Graph Convolutional Network for Few-Shot Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10447668)]
 
+**ICMEW**
+- HDBN: A Novel Hybrid Dual-branch Network for Robust Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2404.15719.pdf)] [[code](https://github.com/liujf69/ICMEW2024-Track10)]
+
 **TPAMI**
 - One-Shot Action Recognition via Multi-Scale Spatial-Temporal Skeleton Matching [[paper](https://ieeexplore.ieee.org/abstract/document/10428035)]
 
@@ -729,6 +732,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Apr 17, 2024
+## Last update: Apr 25, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
