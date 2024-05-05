@@ -102,6 +102,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition [[paper](https://arxiv.org/abs/2404.07487)]
 - Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [[paper](https://arxiv.org/abs/2404.07645)]
 - MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2404.10210)]
+- An Improved Graph Pooling Network for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2404.16359)]
 
 
 ### 2023
@@ -732,6 +733,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Apr 25, 2024
+## Last update: May 5, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
