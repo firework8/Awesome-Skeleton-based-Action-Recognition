@@ -76,6 +76,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10495051)] [[code](https://github.com/Eezekiel/SiT-MLP)]
 - Glimpse and Zoom: Spatio-Temporal Focused Dynamic Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10415064)]
 - Multi-scale Structural Graph Convolutional Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10464339)]
+- Decoupled Knowledge Embedded Graph Convolutional Network for Skeleton-based Human Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10526294)]
 
 **TNNLS**
 - GRA: Graph Representation Alignment for Semi-Supervised Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10398229)]
@@ -734,6 +735,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: May 9, 2024
+## Last update: May 19, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
