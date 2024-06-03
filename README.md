@@ -72,6 +72,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Mutual Information Driven Equivariant Contrastive Learning for 3D Action Representation Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10462918)]
 - Multi-View Time-Series Hypergraph Neural Network for Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10517892)]
 
+**TMM**
+- Localized Linear Temporal Dynamics for Self-supervised Skeleton Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10539295)]
+
 **TCSVT**
 - SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10495051)] [[code](https://github.com/Eezekiel/SiT-MLP)]
 - Glimpse and Zoom: Spatio-Temporal Focused Dynamic Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10415064)]
@@ -106,6 +109,8 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [[paper](https://arxiv.org/abs/2404.07645)]
 - MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2404.10210)]
 - An Improved Graph Pooling Network for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2404.16359)]
+- Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning [[paper](https://arxiv.org/abs/2405.20606)]
+- Action-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection [[paper](https://arxiv.org/abs/2405.20633)]
 
 
 ### 2023
@@ -735,6 +740,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: May 19, 2024
+## Last update: Jun 3, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
