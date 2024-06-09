@@ -32,9 +32,10 @@ This paper list will be continuously updated at the end of each month.
 - Human action recognition and prediction: A survey (**IJCV 2022**) [[paper](https://link.springer.com/article/10.1007/s11263-022-01594-9)]
 - Transformer for Skeleton-based action recognition: A review of recent advances (**Neurocomputing 2023**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231223002217)]
 - Action recognition based on RGB and skeleton data sets: A survey (**Neurocomputing 2022**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222011596)]
+- A Comparative Review of Recent Kinect-based Action Recognition Algorithms (**TIP 2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8753686)]
+- Self-Supervised Skeleton Action Representation Learning: A Benchmark and Beyond (**2024 arXiv paper**) [[paper](https://arxiv.org/abs/2406.02978)]
 - ANUBIS: Review and Benchmark Skeleton-Based Action Recognition Methods with a New Dataset (**2022 arXiv paper**) [[paper](https://arxiv.org/abs/2205.02071)]
 - A Survey on 3D Skeleton-Based Action Recognition Using Learning Method (**2020 arXiv paper**) [[paper](https://arxiv.org/abs/2002.05907)]
-- A Comparative Review of Recent Kinect-based Action Recognition Algorithms (**TIP 2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8753686)]
 
 ## Papers
 
@@ -43,7 +44,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 ### 2024
 
 **CVPR**
-- BlockGCN: Redefine Topology Awareness for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2305.11468)] [[code](https://github.com/ZhouYuxuanYX/BlockGCN)]
+- BlockGCN: Redefine Topology Awareness for Skeleton-Based Action Recognition [[paper](https://www.researchgate.net/publication/379411619_BlockGCN_Redefining_Topology_Awareness_for_Skeleton-Based_Action_Recognition)] [[code](https://github.com/ZhouYuxuanYX/BlockGCN)]
 - LLM-AR: When Large Language Model Meets Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2404.00532.pdf)]
 
 **AAAI**
@@ -111,6 +112,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - An Improved Graph Pooling Network for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2404.16359)]
 - Vision-Language Meets the Skeleton: Progressively Distillation with Cross-Modal Knowledge for 3D Action Representation Learning [[paper](https://arxiv.org/abs/2405.20606)]
 - Action-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection [[paper](https://arxiv.org/abs/2405.20633)]
+- An Information Compensation Framework for Zero-Shot Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2406.00639)]
 
 
 ### 2023
@@ -740,6 +742,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jun 3, 2024
+## Last update: Jun 9, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
