@@ -44,9 +44,11 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 ### 2024
 
 **CVPR**
-- BlockGCN: Redefine Topology Awareness for Skeleton-Based Action Recognition [[paper](https://www.researchgate.net/publication/379411619_BlockGCN_Redefining_Topology_Awareness_for_Skeleton-Based_Action_Recognition)] [[code](https://github.com/ZhouYuxuanYX/BlockGCN)]
-- LLM-AR: When Large Language Model Meets Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2404.00532.pdf)]
-- Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition [[code](https://github.com/azzh1/PURLS)]
+- BlockGCN: Redefine Topology Awareness for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_BlockGCN_Redefine_Topology_Awareness_for_Skeleton-Based_Action_Recognition_CVPR_2024_paper.pdf)] [[code](https://github.com/ZhouYuxuanYX/BlockGCN)]
+- Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Part-aware_Unified_Representation_of_Language_and_Skeleton_for_Zero-shot_Action_CVPR_2024_paper.pdf)] [[code](https://github.com/azzh1/PURLS)]
+- Skeleton-in-Context: Unified Skeleton Sequence Modeling with In-Context Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Skeleton-in-Context_Unified_Skeleton_Sequence_Modeling_with_In-Context_Learning_CVPR_2024_paper.pdf)] [[code](https://github.com/fanglaosi/Skeleton-in-Context)]
+- LLMs are Good Action Recognizers [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Qu_LLMs_are_Good_Action_Recognizers_CVPR_2024_paper.pdf)]
+- MaskCLR: Attention-Guided Contrastive Learning for Robust Action Representation Learning [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Abdelfattah_MaskCLR_Attention-Guided_Contrastive_Learning_for_Robust_Action_Representation_Learning_CVPR_2024_paper.pdf)]
 
 **AAAI**
 - Dynamic Semantic-Based Spatial Graph Convolution Network for Skeleton-Based Human Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28440)] [[code](https://github.com/davelailai/DS-GCN)]
@@ -54,6 +56,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Navigating Open Set Scenarios for Skeleton-based Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28247)] [[code](https://github.com/KPeng9510/OS-SAR)]
 - Behavioral Recognition of Skeletal Data Based on Targeted Dual Fusion Strategy [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28517)]
 - Spatio-Temporal Fusion for Human Action Recognition via Joint Trajectory Graph [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28590)]
+
+**CVPRW**
+- Efficient Skeleton-Based Action Recognition for Real-Time Embedded Systems [[paper](https://openaccess.thecvf.com/content/CVPR2024W/MAI/papers/Noor_Efficient_Skeleton-Based_Action_Recognition_for_Real-Time_Embedded_Systems_CVPRW_2024_paper.pdf)]
 
 **ICASSP**
 - Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision [[paper](https://arxiv.org/pdf/2309.12009.pdf)] [[code](https://github.com/desehuileng0o0/IKEM)]
@@ -744,6 +749,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jun 14, 2024
+## Last update: Jun 15, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
