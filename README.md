@@ -90,6 +90,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Global and Local Contrastive Learning for Self-supervised Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10551297)]
 
 **TNNLS**
+- Language-Guided 3-D Action Feature Learning Without Ground-Truth Sample Class Label [[paper](https://ieeexplore.ieee.org/abstract/document/10555120)] [[code](https://github.com/tangent-T/W3AMT)]
 - GRA: Graph Representation Alignment for Semi-Supervised Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10398229)]
 
 **PR**
@@ -103,6 +104,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **arXiv papers**
 - SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://arxiv.org/abs/2403.09508)] [[code](https://github.com/KAIST-VICLab/SkateFormer)]
+- Expressive Keypoints for Skeleton-based Action Recognition via Skeleton Transformation [[paper](https://arxiv.org/abs/2406.18011)] [[code](https://github.com/YijieYang23/SkeleT-GCN)]
 - AutoGCN - Towards Generic Human Activity Recognition with Neural Architecture Search [[paper](https://arxiv.org/abs/2402.01313)] [[code](https://github.com/DeepInMotion/AutoGCN)]
 - GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2403.15212)] [[code](https://github.com/DeepIntoStreams/GCN-DevLSTM)]
 - Skeleton-Based Human Action Recognition with Noisy Labels [[paper](https://arxiv.org/abs/2403.09975)] [[code](https://github.com/xuyizdby/NoiseEraSAR)]
@@ -749,6 +751,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jun 15, 2024
+## Last update: Jun 27, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
