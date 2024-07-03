@@ -60,6 +60,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **CVPRW**
 - Efficient Skeleton-Based Action Recognition for Real-Time Embedded Systems [[paper](https://openaccess.thecvf.com/content/CVPR2024W/MAI/papers/Noor_Efficient_Skeleton-Based_Action_Recognition_for_Real-Time_Embedded_Systems_CVPRW_2024_paper.pdf)]
 
+**ICPR**
+- Mask and Compress: Efficient Skeleton-based Action Recognition in Continual Learning [[paper](https://arxiv.org/pdf/2407.01397)] [[code](https://github.com/Sperimental3/CHARON)]
+
 **ICASSP**
 - Elevating Skeleton-Based Action Recognition with Efficient Multi-Modality Self-Supervision [[paper](https://arxiv.org/pdf/2309.12009.pdf)] [[code](https://github.com/desehuileng0o0/IKEM)]
 - Wavelet-Decoupling Contrastive Enhancement Network for Fine-Grained Skeleton-Based Action Recognition [[paper](https://arxiv.org/pdf/2402.02210.pdf)]
@@ -88,6 +91,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Multi-scale Structural Graph Convolutional Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10464339)]
 - Decoupled Knowledge Embedded Graph Convolutional Network for Skeleton-based Human Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10526294)]
 - Global and Local Contrastive Learning for Self-supervised Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10551297)]
+- Motion-Aware Mask Feature Reconstruction for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10562342)]
 
 **TNNLS**
 - Language-Guided 3-D Action Feature Learning Without Ground-Truth Sample Class Label [[paper](https://ieeexplore.ieee.org/abstract/document/10555120)] [[code](https://github.com/tangent-T/W3AMT)]
@@ -101,10 +105,12 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - A motion-aware and temporal-enhanced Spatial–Temporal Graph Convolutional Network for skeleton-based human action segmentation [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224002534)] [[code](https://github.com/11yxk/openpack)]
 - Independent Dual Graph Attention Convolutional Network for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002674)]
 - Representation modeling learning with multi-domain decoupling for unsupervised skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224002662)]
+- Multi-scale sampling attention graph convolutional networks for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224008579)]
 
 **arXiv papers**
 - SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://arxiv.org/abs/2403.09508)] [[code](https://github.com/KAIST-VICLab/SkateFormer)]
 - Expressive Keypoints for Skeleton-based Action Recognition via Skeleton Transformation [[paper](https://arxiv.org/abs/2406.18011)] [[code](https://github.com/YijieYang23/SkeleT-GCN)]
+- Graph in Graph Neural Network [[paper](https://arxiv.org/abs/2407.00696)] [[code](https://github.com/wangjs96/Graph-in-Graph-Neural-Network)]
 - AutoGCN - Towards Generic Human Activity Recognition with Neural Architecture Search [[paper](https://arxiv.org/abs/2402.01313)] [[code](https://github.com/DeepInMotion/AutoGCN)]
 - GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2403.15212)] [[code](https://github.com/DeepIntoStreams/GCN-DevLSTM)]
 - Skeleton-Based Human Action Recognition with Noisy Labels [[paper](https://arxiv.org/abs/2403.09975)] [[code](https://github.com/xuyizdby/NoiseEraSAR)]
@@ -751,6 +757,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jun 27, 2024
+## Last update: Jul 3, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
