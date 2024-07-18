@@ -43,9 +43,16 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 ### 2024
 
+**ACM MM**
+- Frequency Guidance Matters: Skeletal Action Recognition by Frequency-Aware Mixed Transformer [[paper](https://arxiv.org/pdf/2407.12322)]
+- Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition [[code](https://github.com/liujf69/MMCL-Action)]
+
 **ECCV**
 - SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://arxiv.org/abs/2403.09508)] [[code](https://github.com/KAIST-VICLab/SkateFormer)]
 - SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders [[code](https://github.com/pha123661/SA-DVAE)]
+
+**IJCAI**
+- Shap-Mix: Shapley Value Guided Mixing for Long-Tailed Skeleton Based Action Recognition [[paper](https://arxiv.org/pdf/2407.12312)] [[code](https://jhang2020.github.io/Projects/Shap-Mix/Shap-Mix.html)]
 
 **CVPR**
 - BlockGCN: Redefine Topology Awareness for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_BlockGCN_Redefine_Topology_Awareness_for_Skeleton-Based_Action_Recognition_CVPR_2024_paper.pdf)] [[code](https://github.com/ZhouYuxuanYX/BlockGCN)]
@@ -117,6 +124,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Graph in Graph Neural Network [[paper](https://arxiv.org/abs/2407.00696)] [[code](https://github.com/wangjs96/Graph-in-Graph-Neural-Network)]
 - AutoGCN - Towards Generic Human Activity Recognition with Neural Architecture Search [[paper](https://arxiv.org/abs/2402.01313)] [[code](https://github.com/DeepInMotion/AutoGCN)]
 - GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2403.15212)] [[code](https://github.com/DeepIntoStreams/GCN-DevLSTM)]
+- STARS: Self-supervised Tuning for 3D Action Recognition in Skeleton Sequences [[paper](https://arxiv.org/abs/2407.10935)] [[code](https://github.com/TaatiTeam/STARS)]
 - CrossGLG: LLM Guides One-shot Skeleton-based 3D Action Recognition in a Cross-level Manner [[paper](https://arxiv.org/abs/2403.10082)] [[code](https://github.com/Baron-sanmen/CrossGLG)]
 - Skeleton-Based Human Action Recognition with Noisy Labels [[paper](https://arxiv.org/abs/2403.09975)] [[code](https://github.com/xuyizdby/NoiseEraSAR)]
 - A Two-stream Hybrid CNN-Transformer Network for Skeleton-based Human Interaction Recognition [[paper](https://arxiv.org/abs/2401.00409)]
@@ -760,6 +768,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jul 12, 2024
+## Last update: Jul 18, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
