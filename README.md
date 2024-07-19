@@ -48,8 +48,8 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition [[code](https://github.com/liujf69/MMCL-Action)]
 
 **ECCV**
-- SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://arxiv.org/abs/2403.09508)] [[code](https://github.com/KAIST-VICLab/SkateFormer)]
-- SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders [[code](https://github.com/pha123661/SA-DVAE)]
+- SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://arxiv.org/pdf/2403.09508)] [[code](https://github.com/KAIST-VICLab/SkateFormer)]
+- SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders [[paper](https://arxiv.org/pdf/2407.13460)] [[code](https://github.com/pha123661/SA-DVAE)]
 
 **IJCAI**
 - Shap-Mix: Shapley Value Guided Mixing for Long-Tailed Skeleton Based Action Recognition [[paper](https://arxiv.org/pdf/2407.12312)] [[code](https://jhang2020.github.io/Projects/Shap-Mix/Shap-Mix.html)]
@@ -768,6 +768,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jul 18, 2024
+## Last update: Jul 19, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
