@@ -44,15 +44,15 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 ### 2024
 
 **ACM MM**
+- Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2407.15706)] [[code](https://github.com/liujf69/MMCL-Action)]
 - Frequency Guidance Matters: Skeletal Action Recognition by Frequency-Aware Mixed Transformer [[paper](https://arxiv.org/pdf/2407.12322)]
-- Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition [[code](https://github.com/liujf69/MMCL-Action)]
 
 **ECCV**
 - SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://arxiv.org/pdf/2403.09508)] [[code](https://github.com/KAIST-VICLab/SkateFormer)]
 - SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders [[paper](https://arxiv.org/pdf/2407.13460)] [[code](https://github.com/pha123661/SA-DVAE)]
 
 **IJCAI**
-- Shap-Mix: Shapley Value Guided Mixing for Long-Tailed Skeleton Based Action Recognition [[paper](https://arxiv.org/pdf/2407.12312)] [[code](https://jhang2020.github.io/Projects/Shap-Mix/Shap-Mix.html)]
+- Shap-Mix: Shapley Value Guided Mixing for Long-Tailed Skeleton Based Action Recognition [[paper](https://arxiv.org/pdf/2407.12312)] [[code](https://github.com/JHang2020/Shap-Mix)]
 
 **CVPR**
 - BlockGCN: Redefine Topology Awareness for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_BlockGCN_Redefine_Topology_Awareness_for_Skeleton-Based_Action_Recognition_CVPR_2024_paper.pdf)] [[code](https://github.com/ZhouYuxuanYX/BlockGCN)]
@@ -95,6 +95,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **TMM**
 - Localized Linear Temporal Dynamics for Self-supervised Skeleton Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10539295)]
+- Hierarchical Aggregated Graph Neural Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10598383)]
 
 **TCSVT**
 - SiT-MLP: A Simple MLP with Point-wise Topology Feature Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10495051)] [[code](https://github.com/Eezekiel/SiT-MLP)]
@@ -141,6 +142,8 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Action-OOD: An End-to-End Skeleton-Based Model for Robust Out-of-Distribution Human Action Detection [[paper](https://arxiv.org/abs/2405.20633)]
 - An Information Compensation Framework for Zero-Shot Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2406.00639)]
 - Boosting Adversarial Transferability for Skeleton-based Action Recognition via Exploring the Model Posterior Space [[paper](https://arxiv.org/abs/2407.08572)]
+- LORTSAR: Low-Rank Transformer for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2407.14655)]
+- Skeleton-Based Action Recognition with Spatial-Structural Graph Convolution [[paper](https://arxiv.org/abs/2407.21525)]
 
 
 ### 2023
@@ -768,6 +771,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jul 19, 2024
+## Last update: Aug 1, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
