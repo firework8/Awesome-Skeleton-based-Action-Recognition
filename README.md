@@ -90,6 +90,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **TIP**
 - DeGCN: Deformable Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10478824)] [[code](https://github.com/WoominM/DeGCN_pytorch)]
+- SelfGCN: Graph Convolution Network With Self-Attention for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10618962)] [[code](https://github.com/SunPengP/SelfGCN)]
 - Mutual Information Driven Equivariant Contrastive Learning for 3D Action Representation Learning [[paper](https://ieeexplore.ieee.org/abstract/document/10462918)]
 - Multi-View Time-Series Hypergraph Neural Network for Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10517892)]
 
@@ -123,8 +124,10 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **arXiv papers**
 - Expressive Keypoints for Skeleton-based Action Recognition via Skeleton Transformation [[paper](https://arxiv.org/abs/2406.18011)] [[code](https://github.com/YijieYang23/SkeleT-GCN)]
 - Graph in Graph Neural Network [[paper](https://arxiv.org/abs/2407.00696)] [[code](https://github.com/wangjs96/Graph-in-Graph-Neural-Network)]
+- EPAM-Net: An Efficient Pose-driven Attention-guided Multimodal Network for Video Action Recognition [[paper](https://arxiv.org/abs/2408.05421)] [[code](https://github.com/ahmed-nady/Multimodal-Action-Recognition)]
 - AutoGCN - Towards Generic Human Activity Recognition with Neural Architecture Search [[paper](https://arxiv.org/abs/2402.01313)] [[code](https://github.com/DeepInMotion/AutoGCN)]
 - GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2403.15212)] [[code](https://github.com/DeepIntoStreams/GCN-DevLSTM)]
+- Active Generation Network of Human Skeleton for Action Recognition [[paper](https://arxiv.org/abs/2401.17086)] [[code](https://github.com/imustwangxin/active-generation-network)]
 - STARS: Self-supervised Tuning for 3D Action Recognition in Skeleton Sequences [[paper](https://arxiv.org/abs/2407.10935)] [[code](https://github.com/TaatiTeam/STARS)]
 - CrossGLG: LLM Guides One-shot Skeleton-based 3D Action Recognition in a Cross-level Manner [[paper](https://arxiv.org/abs/2403.10082)] [[code](https://github.com/Baron-sanmen/CrossGLG)]
 - Skeleton-Based Human Action Recognition with Noisy Labels [[paper](https://arxiv.org/abs/2403.09975)] [[code](https://github.com/xuyizdby/NoiseEraSAR)]
@@ -132,7 +135,6 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Learning Mutual Excitation for Hand-to-Hand and Human-to-Human Interaction Recognition [[paper](https://arxiv.org/abs/2402.02431)]
 - Skeleton2vec: A Self-supervised Learning Framework with Contextualized Target Representations for Skeleton Sequence [[paper](https://arxiv.org/abs/2401.00921)]
 - Unsupervised Spatial-Temporal Feature Enrichment and Fidelity Preservation Network for Skeleton based Action Recognition [[paper](https://arxiv.org/abs/2401.14034)]
-- Active Generation Network of Human Skeleton for Action Recognition [[paper](https://arxiv.org/abs/2401.17086)]
 - Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2404.02624)]
 - Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition [[paper](https://arxiv.org/abs/2404.07487)]
 - Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [[paper](https://arxiv.org/abs/2404.07645)]
@@ -144,6 +146,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Boosting Adversarial Transferability for Skeleton-based Action Recognition via Exploring the Model Posterior Space [[paper](https://arxiv.org/abs/2407.08572)]
 - LORTSAR: Low-Rank Transformer for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2407.14655)]
 - Skeleton-Based Action Recognition with Spatial-Structural Graph Convolution [[paper](https://arxiv.org/abs/2407.21525)]
+- Signal-SGN: A Spiking Graph Convolutional Network for Skeletal Action Recognition via Learning Temporal-Frequency Dynamics [[paper](https://arxiv.org/abs/2408.01701)]
 
 
 ### 2023
@@ -771,6 +774,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Aug 1, 2024
+## Last update: Aug 17, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
