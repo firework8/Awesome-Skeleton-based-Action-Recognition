@@ -149,6 +149,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - LORTSAR: Low-Rank Transformer for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2407.14655)]
 - Skeleton-Based Action Recognition with Spatial-Structural Graph Convolution [[paper](https://arxiv.org/abs/2407.21525)]
 - Signal-SGN: A Spiking Graph Convolutional Network for Skeletal Action Recognition via Learning Temporal-Frequency Dynamics [[paper](https://arxiv.org/abs/2408.01701)]
+- TASAR: Transferable Attack on Skeletal Action Recognition [[paper](https://arxiv.org/abs/2409.02483)]
 
 
 ### 2023
@@ -216,6 +217,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **WACV**
 - Adaptive Local-Component-aware Graph Convolutional Network for One-shot Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Zhu_Adaptive_Local-Component-Aware_Graph_Convolutional_Network_for_One-Shot_Skeleton-Based_Action_Recognition_WACV_2023_paper.pdf)]
+- STAR-Transformer: A Spatio-Temporal Cross Attention Transformer for Human Action Recognition [[paper](https://openaccess.thecvf.com/content/WACV2023/html/Ahn_STAR-Transformer_A_Spatio-Temporal_Cross_Attention_Transformer_for_Human_Action_Recognition_WACV_2023_paper.html)]
 
 **ICIP**
 - Temporal-Channel Topology Enhanced Network for Skeleton-Based Action Recognition [[paper](https://arxiv.org/ftp/arxiv/papers/2302/2302.12967.pdf)] [[code](https://github.com/aikuniverse/TCTE-Net)]
@@ -776,6 +778,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Sep 2, 2024
+## Last update: Sep 14, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
