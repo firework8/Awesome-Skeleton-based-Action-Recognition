@@ -50,6 +50,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **ECCV**
 - SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://arxiv.org/pdf/2403.09508)] [[code](https://github.com/KAIST-VICLab/SkateFormer)]
 - SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders [[paper](https://arxiv.org/pdf/2407.13460)] [[code](https://github.com/pha123661/SA-DVAE)]
+- On the Utility of 3D Hand Poses for Action Recognition [[paper](https://arxiv.org/pdf/2403.09805)] [[code](https://github.com/s-shamil/HandFormer)]
 - Towards Physical World Backdoor Attacks against Skeleton Action Recognition [[paper](https://arxiv.org/pdf/2408.08671)]
 
 **IJCAI**
@@ -778,6 +779,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Sep 14, 2024
+## Last update: Sep 16, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
