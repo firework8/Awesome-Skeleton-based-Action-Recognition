@@ -44,17 +44,26 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 ### 2024
 
+**NeurIPS** 
+- CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition [[code](https://github.com/Necolizer/CHASE)]
+
 **ACM MM**
 - Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2407.15706)] [[code](https://github.com/liujf69/MMCL-Action)]
 - Fine-Grained Side Information Guided Dual-Prompts for Zero-Shot Skeleton Action Recognition [[paper](https://arxiv.org/pdf/2404.07487)] [[code](https://github.com/cseeyangchen/STAR)]
 - Frequency Guidance Matters: Skeletal Action Recognition by Frequency-Aware Mixed Transformer [[paper](https://arxiv.org/pdf/2407.12322)]
 
 **ECCV**
-- SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://arxiv.org/pdf/2403.09508)] [[code](https://github.com/KAIST-VICLab/SkateFormer)]
-- SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders [[paper](https://arxiv.org/pdf/2407.13460)] [[code](https://github.com/pha123661/SA-DVAE)]
-- MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion [[paper](https://arxiv.org/pdf/2409.10473)] [[code](https://github.com/LehongWu/MacDiff)]
-- On the Utility of 3D Hand Poses for Action Recognition [[paper](https://arxiv.org/pdf/2403.09805)] [[code](https://github.com/s-shamil/HandFormer)]
-- Towards Physical World Backdoor Attacks against Skeleton Action Recognition [[paper](https://arxiv.org/pdf/2408.08671)]
+- SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05796.pdf)] [[code](https://github.com/KAIST-VICLab/SkateFormer)]
+- MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03727.pdf)] [[code](https://github.com/LehongWu/MacDiff)]
+- Idempotent Unsupervised Representation Learning for Skeleton-Based Action Recognition [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03717.pdf)] [[code](https://github.com/LanglandsLin/IGM)]
+- SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02508.pdf)] [[code](https://github.com/pha123661/SA-DVAE)]
+- CrossGLG: LLM Guides One-shot Skeleton-based 3D Action Recognition in a Cross-level Manner [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03008.pdf)] [[code](https://github.com/Baron-sanmen/CrossGLG)]
+- On the Utility of 3D Hand Poses for Action Recognition [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01025.pdf)] [[code](https://github.com/s-shamil/HandFormer)]
+- Skeleton-based Group Activity Recognition via Spatial-Temporal Panoramic Graph [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07657.pdf)] [[code](https://github.com/mgiant/MP-GCN)]
+- VSViG: Real-time Video-based Seizure Detection via Skeleton-based Spatiotemporal ViG [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10768.pdf)] [[code](https://github.com/xuyankun/VSViG)]
+- Language-Assisted Skeleton Action Understanding for Skeleton-Based Temporal Action Segmentation [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07145.pdf)] [[code](https://github.com/HaoyuJi/LaSA)]
+- S-JEPA: A Joint Embedding Predictive Architecture for Skeletal Action Recognition [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04755.pdf)]
+- Towards Physical World Backdoor Attacks against Skeleton Action Recognition [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06445.pdf)]
 
 **IJCAI**
 - Shap-Mix: Shapley Value Guided Mixing for Long-Tailed Skeleton Based Action Recognition [[paper](https://arxiv.org/pdf/2407.12312)] [[code](https://github.com/JHang2020/Shap-Mix)]
@@ -142,7 +151,6 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2403.15212)] [[code](https://github.com/DeepIntoStreams/GCN-DevLSTM)]
 - Active Generation Network of Human Skeleton for Action Recognition [[paper](https://arxiv.org/abs/2401.17086)] [[code](https://github.com/imustwangxin/active-generation-network)]
 - STARS: Self-supervised Tuning for 3D Action Recognition in Skeleton Sequences [[paper](https://arxiv.org/abs/2407.10935)] [[code](https://github.com/TaatiTeam/STARS)]
-- CrossGLG: LLM Guides One-shot Skeleton-based 3D Action Recognition in a Cross-level Manner [[paper](https://arxiv.org/abs/2403.10082)] [[code](https://github.com/Baron-sanmen/CrossGLG)]
 - Spatial Hierarchy and Temporal Attention Guided Cross Masking for Self-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2409.17951)] [[code](https://github.com/YinxPeng/HA-CM-main)]
 - A Two-stream Hybrid CNN-Transformer Network for Skeleton-based Human Interaction Recognition [[paper](https://arxiv.org/abs/2401.00409)]
 - Learning Mutual Excitation for Hand-to-Hand and Human-to-Human Interaction Recognition [[paper](https://arxiv.org/abs/2402.02431)]
