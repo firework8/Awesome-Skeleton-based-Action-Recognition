@@ -46,6 +46,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **NeurIPS** 
 - CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition [[paper](https://arxiv.org/pdf/2410.07153)] [[code](https://github.com/Necolizer/CHASE)]
+- Recovering Complete Actions for Cross-dataset Skeleton Action Recognition [[paper](https://arxiv.org/pdf/2410.23641)]
 
 **ACM MM**
 - Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition [[paper](https://arxiv.org/pdf/2407.15706)] [[code](https://github.com/liujf69/MMCL-Action)]
@@ -801,6 +802,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Oct 11, 2024
+## Last update: Nov 1, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
