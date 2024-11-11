@@ -131,6 +131,8 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Global and Local Contrastive Learning for Self-supervised Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10551297)]
 - Motion-Aware Mask Feature Reconstruction for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10562342)]
 - Asynchronous Joint-based Temporal Pooling for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10685538)]
+- Enhancing Skeleton-Based Action Recognition with Language Descriptions from Pre-trained Large Multimodal Models [[paper](https://ieeexplore.ieee.org/abstract/document/10742343)]
+- DSDC-GCN: Decoupled Static-Dynamic Co-occurrence Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10742428)]
 
 **TNNLS**
 - Language-Guided 3-D Action Feature Learning Without Ground-Truth Sample Class Label [[paper](https://ieeexplore.ieee.org/abstract/document/10555120)] [[code](https://github.com/tangent-T/W3AMT)]
@@ -152,6 +154,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **arXiv papers**
 - Expressive Keypoints for Skeleton-based Action Recognition via Skeleton Transformation [[paper](https://arxiv.org/abs/2406.18011)] [[code](https://github.com/YijieYang23/SkeleT-GCN)]
+- Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition [[paper](https://arxiv.org/abs/2411.05692)] [[code](https://github.com/rayabhisek123/AutoregAd-HGformer)]
 - Graph in Graph Neural Network [[paper](https://arxiv.org/abs/2407.00696)] [[code](https://github.com/wangjs96/Graph-in-Graph-Neural-Network)]
 - EPAM-Net: An Efficient Pose-driven Attention-guided Multimodal Network for Video Action Recognition [[paper](https://arxiv.org/abs/2408.05421)] [[code](https://github.com/ahmed-nady/Multimodal-Action-Recognition)]
 - Language Supervised Human Action Recognition with Salient Fusion: Construction Worker Action Recognition as a Use Case [[paper](https://arxiv.org/abs/2410.01962)] [[code](https://github.com/VCEET/ConstAct_HAR_SFU)]
@@ -176,6 +179,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - TASAR: Transferable Attack on Skeletal Action Recognition [[paper](https://arxiv.org/abs/2409.02483)]
 - Zero-Shot Skeleton-based Action Recognition with Dual Visual-Text Alignment [[paper](https://arxiv.org/abs/2409.14336)]
 - Language-Assisted Human Part Motion Learning for Skeleton-Based Temporal Action Segmentation [[paper](https://arxiv.org/abs/2410.06353)]
+- Explaining Human Activity Recognition with SHAP: Validating Insights with Perturbation and Quantitative Measures [[paper](https://arxiv.org/abs/2411.03714)]
 
 
 ### 2023
@@ -802,6 +806,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Nov 1, 2024
+## Last update: Nov 11, 2024
 
 ## Feel free to contact me if you find any interesting paper is missing.
