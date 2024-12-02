@@ -154,6 +154,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Language-guided temporal primitive modeling for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224014073)]
 
 **arXiv papers**
+- Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2411.18941)] [[code](https://github.com/firework8/ProtoGCN)]
 - Topological Symmetry Enhanced Graph Convolution for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2411.12560)] [[code](https://github.com/Sfadingz/TSE_GCN)]
 - Expressive Keypoints for Skeleton-based Action Recognition via Skeleton Transformation [[paper](https://arxiv.org/abs/2406.18011)] [[code](https://github.com/YijieYang23/SkeleT-GCN)]
 - Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition [[paper](https://arxiv.org/abs/2411.05692)] [[code](https://github.com/rayabhisek123/AutoregAd-HGformer)]
@@ -185,6 +186,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Language-Assisted Human Part Motion Learning for Skeleton-Based Temporal Action Segmentation [[paper](https://arxiv.org/abs/2410.06353)]
 - Explaining Human Activity Recognition with SHAP: Validating Insights with Perturbation and Quantitative Measures [[paper](https://arxiv.org/abs/2411.03714)]
 - Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections [[paper](https://arxiv.org/abs/2411.14796)]
+- SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders [[paper](https://arxiv.org/abs/2411.19544)]
 
 
 ### 2023
