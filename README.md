@@ -10,7 +10,6 @@ This paper list will be continuously updated at the end of each month.
 
 ## Table of Contents
 
-
 - [Survey](#survey)
 - [Papers](#papers)
   - [2025](#2025)
@@ -46,6 +45,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 ### 2025
 
+**ICLR**
+- TASAR: Transfer-based Attack on Skeletal Action Recognition [[paper](https://arxiv.org/pdf/2409.02483)] [[code](https://github.com/qkicen/Skeleton-Robustness-Benchmark)]
+
 **AAAI**
 - USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation [[paper](https://arxiv.org/abs/2412.09220)] [[code](https://github.com/wengwanjiang/USDRL)]
 - Stitch Contrast and Segment: Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos [[paper](https://arxiv.org/abs/2412.14988)] [[code](https://github.com/htian026/Stitch_Contrast_Seg)]
@@ -56,8 +58,22 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **TIP**
 - Momentum Contrastive Teacher for Semi-Supervised Skeleton Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10820022)]
 
+**TMM**
+- Contrastive Feedback Vision-Language for 3D Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10855504)]
+
+**TCSVT**
+- Asymmetric Context-guided Adaptive Alignment Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10843295)]
+
+**Neurocomputing**
+- A robust two-stage framework for human skeleton action recognition with GAIN and masked autoencoder [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225001055)] [[code](https://github.com/GD1201/A-two-stage-network-for-action-recognition)]
+
 **arXiv papers**
+- Improving Skeleton-based Action Recognition with Interactive Object Information [[paper](https://arxiv.org/abs/2501.05066)] [[code](https://github.com/moonlight52137/ST-VGCN)]
+- DSTSA-GCN: Advancing Skeleton-Based Gesture Recognition with Semantic-Aware Spatio-Temporal Topology Modeling [[paper](https://arxiv.org/abs/2501.12086)] [[code](https://github.com/HuCui2022/DSTSA-GCN_Gesture)]
 - Evolving Skeletons: Motion Dynamics in Action Recognition [[paper](https://arxiv.org/abs/2501.02593)]
+- HFGCN: Hypergraph Fusion Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2501.11007)]
+- Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems [[paper](https://arxiv.org/abs/2501.16843)]
+
 
 ### 2024
 
@@ -204,7 +220,6 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - LORTSAR: Low-Rank Transformer for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2407.14655)]
 - Skeleton-Based Action Recognition with Spatial-Structural Graph Convolution [[paper](https://arxiv.org/abs/2407.21525)]
 - Signal-SGN: A Spiking Graph Convolutional Network for Skeletal Action Recognition via Learning Temporal-Frequency Dynamics [[paper](https://arxiv.org/abs/2408.01701)]
-- TASAR: Transferable Attack on Skeletal Action Recognition [[paper](https://arxiv.org/abs/2409.02483)]
 - Zero-Shot Skeleton-based Action Recognition with Dual Visual-Text Alignment [[paper](https://arxiv.org/abs/2409.14336)]
 - Language-Assisted Human Part Motion Learning for Skeleton-Based Temporal Action Segmentation [[paper](https://arxiv.org/abs/2410.06353)]
 - Explaining Human Activity Recognition with SHAP: Validating Insights with Perturbation and Quantitative Measures [[paper](https://arxiv.org/abs/2411.03714)]
@@ -837,6 +852,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jan 9, 2025
+## Last update: Feb 6, 2025
 
 ## Feel free to contact me if you find any interesting paper is missing.
