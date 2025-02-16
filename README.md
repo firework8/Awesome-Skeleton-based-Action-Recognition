@@ -51,6 +51,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **AAAI**
 - USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation [[paper](https://arxiv.org/abs/2412.09220)] [[code](https://github.com/wengwanjiang/USDRL)]
 - Stitch Contrast and Segment: Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos [[paper](https://arxiv.org/abs/2412.14988)] [[code](https://github.com/htian026/Stitch_Contrast_Seg)]
+- SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living [[paper](https://arxiv.org/abs/2502.03459)] [[code](https://github.com/thearkaprava/SKI-Models)]
 
 **WACV**
 - Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition [[paper](https://arxiv.org/abs/2411.05692)] [[code](https://github.com/rayabhisek123/AutoregAd-HGformer)]
@@ -63,6 +64,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **TCSVT**
 - Asymmetric Context-guided Adaptive Alignment Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10843295)]
+- Unsupervised Feature Enrichment and Fidelity Preservation Learning Framework for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10879058)]
 
 **Neurocomputing**
 - A robust two-stage framework for human skeleton action recognition with GAIN and masked autoencoder [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225001055)] [[code](https://github.com/GD1201/A-two-stage-network-for-action-recognition)]
@@ -73,6 +75,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Evolving Skeletons: Motion Dynamics in Action Recognition [[paper](https://arxiv.org/abs/2501.02593)]
 - HFGCN: Hypergraph Fusion Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2501.11007)]
 - Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems [[paper](https://arxiv.org/abs/2501.16843)]
+- HyLiFormer: Hyperbolic Linear Attention for Skeleton-based Human Action Recognition [[paper](https://arxiv.org/abs/2502.05869)]
 
 
 ### 2024
@@ -211,7 +214,6 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - A Two-stream Hybrid CNN-Transformer Network for Skeleton-based Human Interaction Recognition [[paper](https://arxiv.org/abs/2401.00409)]
 - Learning Mutual Excitation for Hand-to-Hand and Human-to-Human Interaction Recognition [[paper](https://arxiv.org/abs/2402.02431)]
 - Skeleton2vec: A Self-supervised Learning Framework with Contextualized Target Representations for Skeleton Sequence [[paper](https://arxiv.org/abs/2401.00921)]
-- Unsupervised Spatial-Temporal Feature Enrichment and Fidelity Preservation Network for Skeleton based Action Recognition [[paper](https://arxiv.org/abs/2401.14034)]
 - Multi-Scale Spatial-Temporal Self-Attention Graph Convolutional Networks for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2404.02624)]
 - Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [[paper](https://arxiv.org/abs/2404.07645)]
 - MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2404.10210)]
@@ -852,6 +854,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Feb 6, 2025
+## Last update: Feb 16, 2025
 
 ## Feel free to contact me if you find any interesting paper is missing.
