@@ -52,9 +52,12 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - TASAR: Transfer-based Attack on Skeletal Action Recognition [[paper](https://arxiv.org/pdf/2409.02483)] [[code](https://github.com/qkicen/Skeleton-Robustness-Benchmark)]
 
 **AAAI**
-- USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation [[paper](https://arxiv.org/abs/2412.09220)] [[code](https://github.com/wengwanjiang/USDRL)]
-- Stitch Contrast and Segment: Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos [[paper](https://arxiv.org/abs/2412.14988)] [[code](https://github.com/htian026/Stitch_Contrast_Seg)]
-- SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living [[paper](https://arxiv.org/abs/2502.03459)] [[code](https://github.com/thearkaprava/SKI-Models)]
+- VA-AR: Learning Velocity-Aware Action Representations with Mixture of Window Attention [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32894)] [[code](https://github.com/TrinityNeo99/VA-AR_official)]
+- USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32899)] [[code](https://github.com/wengwanjiang/USDRL)]
+- SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32744)] [[code](https://github.com/thearkaprava/SKI-Models)]
+- Stitch, Contrast, and Segment: Learning a Human Action Segmentation Model Using Trimmed Skeleton Videos [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32792)] [[code](https://github.com/htian026/Stitch_Contrast_Seg)]
+- Skeleton-based Action Recognition with Non-linear Dependency Modeling and Hilbert-Schmidt Independence Criterion [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32201)]
+- Rethinking Masked Data Reconstruction Pretraining for Strong 3D Action Representation Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32324)]
 
 **WACV**
 - Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition [[paper](https://arxiv.org/abs/2411.05692)] [[code](https://github.com/rayabhisek123/AutoregAd-HGformer)]
@@ -76,6 +79,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Language Knowledge-Assisted Representation Learning for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10891636)] [[code](https://github.com/damnull/lagcn)]
 - Contrastive Feedback Vision-Language for 3D Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10855504)]
 - An Information Compensation Framework for Zero-Shot Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10891402)]
+- SkeletonX: Data-Efficient Skeleton-based Action Recognition via Cross-sample Feature Aggregation [[code](https://github.com/zzysteve/SkeletonX)]
 
 **TCSVT**
 - Asymmetric Context-guided Adaptive Alignment Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10843295)]
@@ -222,6 +226,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **arXiv papers**
 - Expressive Keypoints for Skeleton-based Action Recognition via Skeleton Transformation [[paper](https://arxiv.org/abs/2406.18011)] [[code](https://github.com/YijieYang23/SkeleT-GCN)]
 - Topological Symmetry Enhanced Graph Convolution for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2411.12560)] [[code](https://github.com/Sfadingz/TSE_GCN)]
+- AutoGCN-Toward Generic Human Activity Recognition With Neural Architecture Search [[paper](https://arxiv.org/abs/2402.01313)] [[code](https://github.com/DeepInMotion/AutoGCN)]
 - Graph in Graph Neural Network [[paper](https://arxiv.org/abs/2407.00696)] [[code](https://github.com/wangjs96/Graph-in-Graph-Neural-Network)]
 - Language Supervised Human Action Recognition with Salient Fusion: Construction Worker Action Recognition as a Use Case [[paper](https://arxiv.org/abs/2410.01962)] [[code](https://github.com/VCEET/ConstAct_HAR_SFU)]
 - GCN-DevLSTM: Path Development for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2403.15212)] [[code](https://github.com/DeepIntoStreams/GCN-DevLSTM)]
@@ -241,7 +246,6 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Language-Assisted Human Part Motion Learning for Skeleton-Based Temporal Action Segmentation [[paper](https://arxiv.org/abs/2410.06353)]
 - Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections [[paper](https://arxiv.org/abs/2411.14796)]
 - SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders [[paper](https://arxiv.org/abs/2411.19544)]
-- Skeleton-based Action Recognition with Non-linear Dependency Modeling and Hilbert-Schmidt Independence Criterion [[paper](https://arxiv.org/abs/2412.18780)]
 
 
 ### 2023
@@ -867,6 +871,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Mar 25, 2025
+## Last update: Apr 15, 2025
 
 ## Feel free to contact me if you find any interesting paper is missing.
