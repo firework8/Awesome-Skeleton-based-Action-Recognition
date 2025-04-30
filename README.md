@@ -77,13 +77,14 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **TMM**
 - Language Knowledge-Assisted Representation Learning for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10891636)] [[code](https://github.com/damnull/lagcn)]
+- SkeletonX: Data-Efficient Skeleton-based Action Recognition via Cross-sample Feature Aggregation [[paper](https://arxiv.org/pdf/2504.11749)] [[code](https://github.com/zzysteve/SkeletonX)]
 - Contrastive Feedback Vision-Language for 3D Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10855504)]
 - An Information Compensation Framework for Zero-Shot Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10891402)]
-- SkeletonX: Data-Efficient Skeleton-based Action Recognition via Cross-sample Feature Aggregation [[code](https://github.com/zzysteve/SkeletonX)]
 
 **TCSVT**
 - Asymmetric Context-guided Adaptive Alignment Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10843295)]
 - Unsupervised Feature Enrichment and Fidelity Preservation Learning Framework for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10879058)]
+- Robust 2D Skeleton Action Recognition via Decoupling and Distilling 3D Latent Features [[paper](https://ieeexplore.ieee.org/abstract/document/10972084)]
 
 **Neurocomputing**
 - A robust two-stage framework for human skeleton action recognition with GAIN and masked autoencoder [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225001055)] [[code](https://github.com/GD1201/A-two-stage-network-for-action-recognition)]
@@ -91,6 +92,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - SHoTGCN: Spatial high-order temporal GCN for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225003698)]
 - Local and Global Spatial-Temporal Transformer for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225004928)]
 - Exploring interaction: Inner-outer spatial–temporal transformer for skeleton-based mutual action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225006794)]
+- Skeleton-based action recognition through dual-granularity feature fusion with self-adapting graph convolution and multi-scale temporal convolution [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225009336)]
 
 **arXiv papers**
 - DSTSA-GCN: Advancing Skeleton-Based Gesture Recognition with Semantic-Aware Spatio-Temporal Topology Modeling [[paper](https://arxiv.org/abs/2501.12086)] [[code](https://github.com/HuCui2022/DSTSA-GCN_Gesture)]
@@ -871,6 +873,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Apr 15, 2025
+## Last update: Apr 30, 2025
 
 ## Feel free to contact me if you find any interesting paper is missing.
