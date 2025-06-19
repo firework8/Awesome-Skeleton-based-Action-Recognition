@@ -93,6 +93,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **PR**
 - SAM-Net: Semantic-assisted multimodal network for action recognition in RGB-D videos [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325003851)]
+- Skeleton-prompt: A cross-dataset transfer learning approach for skeleton action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S003132032500545X)]
 
 **Neurocomputing**
 - A robust two-stage framework for human skeleton action recognition with GAIN and masked autoencoder [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225001055)] [[code](https://github.com/GD1201/A-two-stage-network-for-action-recognition)]
@@ -106,6 +107,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - DSTSA-GCN: Advancing Skeleton-Based Gesture Recognition with Semantic-Aware Spatio-Temporal Topology Modeling [[paper](https://arxiv.org/abs/2501.12086)] [[code](https://github.com/HuCui2022/DSTSA-GCN_Gesture)]
 - BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports [[paper](https://arxiv.org/abs/2502.21085)] [[code](https://github.com/Va6lue/BST-Badminton-Stroke-type-Transformer)]
 - Text-Derived Relational Graph-Enhanced Network for Skeleton-Based Action Segmentation [[paper](https://arxiv.org/abs/2503.15126)] [[code](https://github.com/HaoyuJi/TRG-Net)]
+- Spatio-Temporal Joint Density Driven Learning for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2505.23012)] [[code](https://github.com/ShanakaRG/STJD-Spatio-Temporal-Joint-Density-Driven-Learning-for-Skeleton-Based-Action-Recognition)]
 - Evolving Skeletons: Motion Dynamics in Action Recognition [[paper](https://arxiv.org/abs/2501.02593)]
 - HFGCN: Hypergraph Fusion Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2501.11007)]
 - Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems [[paper](https://arxiv.org/abs/2501.16843)]
@@ -885,6 +887,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jun 4, 2025
+## Last update: Jun 19, 2025
 
 ## Feel free to contact me if you find any interesting paper is missing.
