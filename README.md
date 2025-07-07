@@ -46,6 +46,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 ### 2025
 
+**ICCV**
+- Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2506.22179)] [[code](https://github.com/wenhanwu95/FS-VAE)]
+
 **CVPR**
 - Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Revealing_Key_Details_to_See_Differences_A_Novel_Prototypical_Perspective_CVPR_2025_paper.pdf)] [[code](https://github.com/firework8/ProtoGCN)]
 - Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized? [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xie_Are_Spatial-Temporal_Graph_Convolution_Networks_for_Human_Action_Recognition_Over-Parameterized_CVPR_2025_paper.pdf)] [[code](https://github.com/davelailai/Sparse-ST-GCN)]
@@ -78,6 +81,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - PASTD: Progressive Augmentation and Spatiotemporal Decoupling Contrastive Learning for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10890079)]
 
 **TIP**
+- Zero-shot Skeleton-based Action Recognition with Prototype-guided Feature Alignment [[paper](https://arxiv.org/abs/2507.00566)] [[code](https://github.com/kaai520/PGFA)]
 - Momentum Contrastive Teacher for Semi-Supervised Skeleton Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10820022)]
 
 **TMM**
@@ -115,6 +119,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - SNN-Driven Multimodal Human Action Recognition via Event Camera and Skeleton Data Fusion [[paper](https://arxiv.org/abs/2502.13385)]
 - Body-Hand Modality Expertized Networks with Cross-attention for Fine-grained Skeleton Action Recognition [[paper](https://arxiv.org/abs/2503.14960)]
 - CoCoDiff: Diversifying Skeleton Action Features via Coarse-Fine Text-Co-Guided Latent Diffusion [[paper](https://arxiv.org/abs/2504.21266)]
+- Variational Graph Convolutional Neural Networks [[paper](https://arxiv.org/abs/2507.01699)]
 
 
 ### 2024
@@ -887,6 +892,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jun 19, 2025
+## Last update: Jul 7, 2025
 
 ## Feel free to contact me if you find any interesting paper is missing.
