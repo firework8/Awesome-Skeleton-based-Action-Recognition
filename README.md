@@ -47,7 +47,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 ### 2025
 
 **ICCV**
+- Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections [[paper](https://arxiv.org/abs/2411.14796)] [[code](https://github.com/6UOOON9/Hyper-GCN)]
 - Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2506.22179)] [[code](https://github.com/wenhanwu95/FS-VAE)]
+- Bridging Class Imbalance and Partial Labeling via Spectral-Balanced Energy Propagation for Skeleton-based Action Recognition [[paper](https://github.com/ydanwang/SpeLER/tree/main/paper)] [[code](https://github.com/ydanwang/SpeLER)]
 
 **CVPR**
 - Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Revealing_Key_Details_to_See_Differences_A_Novel_Prototypical_Perspective_CVPR_2025_paper.pdf)] [[code](https://github.com/firework8/ProtoGCN)]
@@ -83,6 +85,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **TIP**
 - Zero-shot Skeleton-based Action Recognition with Prototype-guided Feature Alignment [[paper](https://arxiv.org/abs/2507.00566)] [[code](https://github.com/kaai520/PGFA)]
 - Momentum Contrastive Teacher for Semi-Supervised Skeleton Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10820022)]
+- Client-Unbiased Skeletal Action Recognizer in Federated Learning [[paper](https://ieeexplore.ieee.org/abstract/document/11079817)]
 
 **TMM**
 - Language Knowledge-Assisted Representation Learning for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10891636)] [[code](https://github.com/damnull/lagcn)]
@@ -98,6 +101,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **PR**
 - SAM-Net: Semantic-assisted multimodal network for action recognition in RGB-D videos [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325003851)]
 - Skeleton-prompt: A cross-dataset transfer learning approach for skeleton action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S003132032500545X)]
+- THTFormer: Topology-adaptive hypergraph transformer network for skeleton-based action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S003132032500785X)]
 
 **Neurocomputing**
 - A robust two-stage framework for human skeleton action recognition with GAIN and masked autoencoder [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225001055)] [[code](https://github.com/GD1201/A-two-stage-network-for-action-recognition)]
@@ -265,7 +269,6 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Signal-SGN: A Spiking Graph Convolutional Network for Skeletal Action Recognition via Learning Temporal-Frequency Dynamics [[paper](https://arxiv.org/abs/2408.01701)]
 - Zero-Shot Skeleton-based Action Recognition with Dual Visual-Text Alignment [[paper](https://arxiv.org/abs/2409.14336)]
 - Language-Assisted Human Part Motion Learning for Skeleton-Based Temporal Action Segmentation [[paper](https://arxiv.org/abs/2410.06353)]
-- Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections [[paper](https://arxiv.org/abs/2411.14796)]
 - SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders [[paper](https://arxiv.org/abs/2411.19544)]
 
 
@@ -892,6 +895,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jul 7, 2025
+## Last update: Jul 21, 2025
 
 ## Feel free to contact me if you find any interesting paper is missing.
