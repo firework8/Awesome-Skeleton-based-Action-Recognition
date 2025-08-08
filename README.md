@@ -46,10 +46,14 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 ### 2025
 
+**ACM MM**
+- Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition [[paper](https://arxiv.org/abs/2507.21977)]
+
 **ICCV**
 - Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections [[paper](https://arxiv.org/abs/2411.14796)] [[code](https://github.com/6UOOON9/Hyper-GCN)]
 - Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2506.22179)] [[code](https://github.com/wenhanwu95/FS-VAE)]
 - Bridging Class Imbalance and Partial Labeling via Spectral-Balanced Energy Propagation for Skeleton-based Action Recognition [[paper](https://github.com/ydanwang/SpeLER/tree/main/paper)] [[code](https://github.com/ydanwang/SpeLER)]
+- Skeleton Motion Words for Unsupervised Skeleton-Based Temporal Action Segmentation [[paper](https://arxiv.org/abs/2508.04513)] [[code](https://github.com/bachlab/SMQ)]
 
 **CVPR**
 - Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Revealing_Key_Details_to_See_Differences_A_Novel_Prototypical_Perspective_CVPR_2025_paper.pdf)] [[code](https://github.com/firework8/ProtoGCN)]
@@ -92,6 +96,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - SkeletonX: Data-Efficient Skeleton-based Action Recognition via Cross-sample Feature Aggregation [[paper](https://arxiv.org/pdf/2504.11749)] [[code](https://github.com/zzysteve/SkeletonX)]
 - Contrastive Feedback Vision-Language for 3D Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10855504)]
 - An Information Compensation Framework for Zero-Shot Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10891402)]
+- Prompt-Guided Prototype-Aware Commonality and Discrimination Learning for Zero-Shot Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11086379)]
 
 **TCSVT**
 - Asymmetric Context-guided Adaptive Alignment Network for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10843295)]
@@ -895,6 +900,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jul 21, 2025
+## Last update: Aug 8, 2025
 
 ## Feel free to contact me if you find any interesting paper is missing.
