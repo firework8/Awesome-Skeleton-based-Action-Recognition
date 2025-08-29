@@ -33,12 +33,11 @@ This paper list will be continuously updated at the end of each month.
 - Transformer for Skeleton-based action recognition: A review of recent advances (**Neurocomputing 2023**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231223002217)]
 - Action recognition based on RGB and skeleton data sets: A survey (**Neurocomputing 2022**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222011596)]
 - A Comparative Review of Recent Kinect-based Action Recognition Algorithms (**TIP 2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8753686)]
+- Representation-Centric Survey of Skeletal Action Recognition and the ANUBIS Benchmark (**2025 arXiv paper**) [[paper](https://www.researchgate.net/publication/394518696_Representation-Centric_Survey_of_Skeletal_Action_Recognition_and_the_ANUBIS_Benchmark)]
 - 3D Skeleton-Based Action Recognition: A Review (**2025 arXiv paper**) [[paper](https://arxiv.org/abs/2506.00915)]
 - The Journey of Action Recognition (**2025 arXiv paper**) [[paper](https://www.researchgate.net/profile/Lei-Wang-358/publication/387707420_The_Journey_of_Action_Recognition/links/677880dee74ca64e1f4b7bc9/The-Journey-of-Action-Recognition.pdf)]
 - Self-Supervised Skeleton Action Representation Learning: A Benchmark and Beyond (**2024 arXiv paper**) [[paper](https://arxiv.org/abs/2406.02978)]
 - A Comprehensive Methodological Survey of Human Activity Recognition Across Divers Data Modalities (**2024 arXiv paper**) [[paper](https://arxiv.org/abs/2409.09678)]
-- ANUBIS: Review and Benchmark Skeleton-Based Action Recognition Methods with a New Dataset (**2022 arXiv paper**) [[paper](https://arxiv.org/abs/2205.02071)]
-- A Survey on 3D Skeleton-Based Action Recognition Using Learning Method (**2020 arXiv paper**) [[paper](https://arxiv.org/abs/2002.05907)]
 
 ## Papers
 
@@ -52,6 +51,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **ICCV**
 - Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections [[paper](https://arxiv.org/abs/2411.14796)] [[code](https://github.com/6UOOON9/Hyper-GCN)]
 - Frequency-Semantic Enhanced Variational Autoencoder for Zero-Shot Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2506.22179)] [[code](https://github.com/wenhanwu95/FS-VAE)]
+- Bridging the Skeleton-Text Modality Gap: Diffusion-Powered Modality Alignment for Zero-shot Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2411.10745)] [[code](https://github.com/KAIST-VICLab/TDSM)]
 - Bridging Class Imbalance and Partial Labeling via Spectral-Balanced Energy Propagation for Skeleton-based Action Recognition [[paper](https://github.com/ydanwang/SpeLER/tree/main/paper)] [[code](https://github.com/ydanwang/SpeLER)]
 - Skeleton Motion Words for Unsupervised Skeleton-Based Temporal Action Segmentation [[paper](https://arxiv.org/abs/2508.04513)] [[code](https://github.com/bachlab/SMQ)]
 
@@ -76,6 +76,10 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **WACV**
 - Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition [[paper](https://arxiv.org/abs/2411.05692)] [[code](https://github.com/rayabhisek123/AutoregAd-HGformer)]
 
+**ICIP**
+- MFA-Net: Motion Field Adaptive Network for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11084688)]
+- Stable-Invertible Graph Convolutional Networks for Label-Efficient Skeleton-Based Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11084667)]
+
 **ICASSP**
 - Auxiliary Tasks Benefit Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10887882)]
 - Hybrid Spatial-Frequency Attention Network For Fine-Grained Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10890541)]
@@ -85,6 +89,13 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Multi-scale Graph Convolution with Corrective Contrastive Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10890514)]
 - Reenvisioning Skeleton-based Action Recognition Through the Lens of NLP [[paper](https://ieeexplore.ieee.org/abstract/document/10888571)]
 - PASTD: Progressive Augmentation and Spatiotemporal Decoupling Contrastive Learning for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/10890079)]
+
+**IROS**
+- MaskSem: Semantic-Guided Masking for Learning 3D Hybrid High-Order Motion Representation [[paper](https://arxiv.org/abs/2508.12948)]  [[code](https://github.com/JayEason66/MaskSem)]
+
+**TPAMI**
+- Foundation Model for Skeleton-Based Human Action Understanding [[paper](https://ieeexplore.ieee.org/abstract/document/11130651)]  [[code](https://github.com/wengwanjiang/FoundSkelModel)]
+- Self-Supervised Skeleton Representation Learning via Actionlet Contrast and Reconstruct [[paper](https://ieeexplore.ieee.org/abstract/document/11123705)]  [[code](https://github.com/LanglandsLin/ActCLR)]
 
 **TIP**
 - Zero-shot Skeleton-based Action Recognition with Prototype-guided Feature Alignment [[paper](https://arxiv.org/abs/2507.00566)] [[code](https://github.com/kaai520/PGFA)]
@@ -121,6 +132,8 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports [[paper](https://arxiv.org/abs/2502.21085)] [[code](https://github.com/Va6lue/BST-Badminton-Stroke-type-Transformer)]
 - Text-Derived Relational Graph-Enhanced Network for Skeleton-Based Action Segmentation [[paper](https://arxiv.org/abs/2503.15126)] [[code](https://github.com/HaoyuJi/TRG-Net)]
 - Spatio-Temporal Joint Density Driven Learning for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2505.23012)] [[code](https://github.com/ShanakaRG/STJD-Spatio-Temporal-Joint-Density-Driven-Learning-for-Skeleton-Based-Action-Recognition)]
+- UniSTFormer: Unified Spatio-Temporal Lightweight Transformer for Efficient Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2508.08944)] [[code](https://github.com/wenhanwu95/FreqMixFormer/tree/main/UniSTFormer)]
+- MS-CLR: Multi-Skeleton Contrastive Learning for Human Action Recognition [[paper](https://arxiv.org/abs/2508.14889)] [[code](https://github.com/3Dwe-ai/ms-clr)]
 - Evolving Skeletons: Motion Dynamics in Action Recognition [[paper](https://arxiv.org/abs/2501.02593)]
 - HFGCN: Hypergraph Fusion Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2501.11007)]
 - Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems [[paper](https://arxiv.org/abs/2501.16843)]
@@ -282,7 +295,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **CVPR**
 - Learning Discriminative Representations for Skeleton Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Learning_Discriminative_Representations_for_Skeleton_Based_Action_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/zhysora/FR-Head)] [🔥] [⭐]
 - Neural Koopman Pooling: Control-Inspired Temporal Dynamics Encoding for Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Neural_Koopman_Pooling_Control-Inspired_Temporal_Dynamics_Encoding_for_Skeleton-Based_Action_CVPR_2023_paper.pdf)] [[code](https://github.com/Infinitywxh/Neural_Koopman_pooling)]
-- Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Actionlet-Dependent_Contrastive_Learning_for_Unsupervised_Skeleton-Based_Action_Recognition_CVPR_2023_paper.pdf)] [[code](https://langlandslin.github.io/projects/ActCLR/)]
+- Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Actionlet-Dependent_Contrastive_Learning_for_Unsupervised_Skeleton-Based_Action_Recognition_CVPR_2023_paper.pdf)] [[code](https://github.com/LanglandsLin/ActCLR)]
 - HaLP: Hallucinating Latent Positives for Skeleton-based Self-Supervised Learning of Actions [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shah_HaLP_Hallucinating_Latent_Positives_for_Skeleton-Based_Self-Supervised_Learning_of_Actions_CVPR_2023_paper.pdf)] [[code](https://github.com/anshulbshah/HaLP)]
 - 3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.pdf)]
 - Unified Pose Sequence Modeling [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Foo_Unified_Pose_Sequence_Modeling_CVPR_2023_paper.pdf)]
@@ -900,6 +913,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Aug 8, 2025
+## Last update: Aug 29, 2025
 
 ## Feel free to contact me if you find any interesting paper is missing.
