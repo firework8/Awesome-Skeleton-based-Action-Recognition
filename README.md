@@ -46,7 +46,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 ### 2025
 
 **ACM MM**
-- Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition [[paper](https://arxiv.org/abs/2507.21977)]
+- Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition [[paper](https://arxiv.org/abs/2507.21977)] [[code](https://github.com/momiji-bit/MMN)]
 
 **ICCV**
 - Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections [[paper](https://arxiv.org/abs/2411.14796)] [[code](https://github.com/6UOOON9/Hyper-GCN)]
