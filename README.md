@@ -31,6 +31,7 @@ This paper list will be continuously updated at the end of each month.
 
 - Human Action Recognition from Various Data Modalities: A Review (**TPAMI 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9795869)]
 - Human action recognition and prediction: A survey (**IJCV 2022**) [[paper](https://link.springer.com/article/10.1007/s11263-022-01594-9)]
+- A Systematic Review of Skeleton-Based Action Recognition: Methods, Challenges, and Future Directions (**TNNLS 2025**) [[paper](https://ieeexplore.ieee.org/document/11282488)]
 - Transformer for Skeleton-based action recognition: A review of recent advances (**Neurocomputing 2023**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231223002217)]
 - Action recognition based on RGB and skeleton data sets: A survey (**Neurocomputing 2022**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222011596)]
 - A Comparative Review of Recent Kinect-based Action Recognition Algorithms (**TIP 2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8753686)]
@@ -47,7 +48,12 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 ### 2026
 
 **AAAI**
+- Few-Shot Precise Event Spotting via Unified Multi-Entity Graph and Distillation [[paper](https://arxiv.org/abs/2511.14186)] [[code](https://github.com/LZYAndy/UMEG-Net)]
 - SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition [[paper](https://arxiv.org/abs/2511.10091)]
+- FineTec: Fine-Grained Action Recognition under Temporal Corruption via Skeleton Decomposition and Sequence Completion [[code](https://github.com/Lozumi/FineTec)]
+
+**TPAMI**
+- Heatmap Pooling Network for Action Recognition from RGB Videos [[paper](https://arxiv.org/abs/2512.03837)] [[code](https://github.com/liujf69/HPNet-Action)]
 
 
 ### 2025
@@ -185,6 +191,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - CascadeFormer: A Family of Two-stage Cascading Transformers for Skeleton-based Human Action Recognition [[paper](https://arxiv.org/abs/2509.00692)] [[code](https://github.com/Yusen-Peng/CascadeFormer)]
 - LSTC-MDA: A Unified Framework for Long-Short Term Temporal Convolution and Mixed Data Augmentation in Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2509.14619)] [[code](https://github.com/xiaobaoxia/LSTC-MDA)]
 - Learning by Neighbor-Aware Semantics, Deciding by Open-form Flows: Towards Robust Zero-Shot Skeleton Action Recognition [[paper](https://arxiv.org/abs/2511.09388)] [[code](https://github.com/cseeyangchen/Flora)]
+- DoGCLR: Dominance-Game Contrastive Learning Network for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2511.14179)] [[code](https://github.com/Ixiaohuihuihui/DoGCLR)]
+- TSkel-Mamba: Temporal Dynamic Modeling via State Space Model for Human Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2512.11503)] [[code](https://github.com/ryannus2025-ai/TSkel-Mamba)]
+- DynaPURLS: Dynamic Refinement of Part-aware Representations for Skeleton-based Zero-Shot Action Recognition [[paper](https://arxiv.org/abs/2512.11941)] [[code](https://github.com/Alchemist0754/DynaPURLS)]
 - Evolving Skeletons: Motion Dynamics in Action Recognition [[paper](https://arxiv.org/abs/2501.02593)]
 - HFGCN: Hypergraph Fusion Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2501.11007)]
 - Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems [[paper](https://arxiv.org/abs/2501.16843)]
@@ -194,10 +203,12 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - CoCoDiff: Diversifying Skeleton Action Features via Coarse-Fine Text-Co-Guided Latent Diffusion [[paper](https://arxiv.org/abs/2504.21266)]
 - Variational Graph Convolutional Neural Networks [[paper](https://arxiv.org/abs/2507.01699)]
 - Action Hints: Semantic Typicality and Context Uniqueness for Generalizable Skeleton-based Video Anomaly Detection [[paper](https://arxiv.org/abs/2509.11058)]
-- DoGCLR: Dominance-Game Contrastive Learning Network for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2511.14179)]
 - Parts-Mamba: Augmenting Joint Context with Part-Level Scanning for Occluded Human Skeleton [[paper](https://arxiv.org/abs/2511.16860)]
 - Label-Efficient Skeleton-based Recognition with Stable-Invertible Graph Convolutional Networks [[paper](https://arxiv.org/abs/2511.17345)]
 - Active Learning for GCN-based Action Recognition [[paper](https://arxiv.org/abs/2511.21625)]
+- Skeleton-Snippet Contrastive Learning with Multiscale Feature Fusion for Action Localization [[paper](https://arxiv.org/abs/2512.16504)]
+- OMG-Bench: A New Challenging Benchmark for Skeleton-based Online Micro Hand Gesture Recognition [[paper](https://arxiv.org/abs/2512.16727)]
+- Multimodal Skeleton-Based Action Representation Learning via Decomposition and Composition [[paper](https://arxiv.org/abs/2512.21064)]
 
 
 ### 2024
@@ -963,6 +974,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Dec 2, 2025
+## Last update: Dec 26, 2025
 
 ## Feel free to contact me if you find any interesting paper is missing.
