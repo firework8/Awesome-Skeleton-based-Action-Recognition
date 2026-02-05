@@ -31,6 +31,7 @@ This paper list will be continuously updated at the end of each month.
 
 - Human Action Recognition from Various Data Modalities: A Review (**TPAMI 2022**) [[paper](https://ieeexplore.ieee.org/abstract/document/9795869)]
 - Human action recognition and prediction: A survey (**IJCV 2022**) [[paper](https://link.springer.com/article/10.1007/s11263-022-01594-9)]
+- Self-Supervised Skeleton-Based Action Representation Learning: A Benchmark and Beyond (**IJCV 2026**) [[paper](https://link.springer.com/article/10.1007/s11263-025-02644-8)]
 - A Systematic Review of Skeleton-Based Action Recognition: Methods, Challenges, and Future Directions (**TNNLS 2025**) [[paper](https://ieeexplore.ieee.org/document/11282488)]
 - Transformer for Skeleton-based action recognition: A review of recent advances (**Neurocomputing 2023**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231223002217)]
 - Action recognition based on RGB and skeleton data sets: A survey (**Neurocomputing 2022**) [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222011596)]
@@ -38,7 +39,6 @@ This paper list will be continuously updated at the end of each month.
 - Representation-Centric Survey of Skeletal Action Recognition and the ANUBIS Benchmark (**2025 arXiv paper**) [[paper](https://www.researchgate.net/publication/394518696_Representation-Centric_Survey_of_Skeletal_Action_Recognition_and_the_ANUBIS_Benchmark)]
 - 3D Skeleton-Based Action Recognition: A Review (**2025 arXiv paper**) [[paper](https://arxiv.org/abs/2506.00915)]
 - The Journey of Action Recognition (**2025 arXiv paper**) [[paper](https://www.researchgate.net/profile/Lei-Wang-358/publication/387707420_The_Journey_of_Action_Recognition/links/677880dee74ca64e1f4b7bc9/The-Journey-of-Action-Recognition.pdf)]
-- Self-Supervised Skeleton Action Representation Learning: A Benchmark and Beyond (**2024 arXiv paper**) [[paper](https://arxiv.org/abs/2406.02978)]
 - A Comprehensive Methodological Survey of Human Activity Recognition Across Divers Data Modalities (**2024 arXiv paper**) [[paper](https://arxiv.org/abs/2409.09678)]
 
 ## Papers
@@ -46,6 +46,9 @@ This paper list will be continuously updated at the end of each month.
 Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 ### 2026
+
+**ICLR**
+- Curvature-Guided Task Synergy for Skeleton based Temporal Action Segmentation [[paper](https://openreview.net/forum?id=Vgh30npuN3)]
 
 **AAAI**
 - FineTec: Fine-Grained Action Recognition under Temporal Corruption via Skeleton Decomposition and Sequence Completion [[paper](https://arxiv.org/abs/2512.25067)] [[code](https://github.com/SmartDianLab/FineTec)]
@@ -55,8 +58,22 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **TIFS**
 - Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems [[paper](https://arxiv.org/abs/2501.16843)]
 
+**TMM**
+- Ranking-based Self-Supervised Representation Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11353928)]
+
+**TCSVT**
+- STAR++: Region-aware Conditional Semantics via Interpretable Side Information for Zero-Shot Skeleton Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11339971)] [[code](https://github.com/cseeyangchen/STAR_pp)]
+- Dynamic Prompting Spatial Temporal Actor Transformer for Fine-grained Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11328855)]
+
+**PR**
+- Frequency-Aware Spatio-Temporal Topology Learning for Skeleton-Based Human Activity Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001093)]
+- ST-VA-AR: Learning velocity-aware action representations with mixture of spatiotemporal attention [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001652)]
+
 **arXiv papers**
+- Affinity Contrastive Learning for Skeleton-based Human Activity Understanding [[paper](https://arxiv.org/abs/2601.16694)] [[code](https://github.com/firework8/ACLNet)]
 - BHaRNet: Reliability-Aware Body-Hand Modality Expertized Networks for Fine-grained Skeleton Action Recognition [[paper](https://arxiv.org/abs/2601.00369)] [[code](https://github.com/VinnyCSY/BHaRNet)]
+- SkeFi: Cross-Modal Knowledge Transfer for Wireless Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2601.12432)] [[code](https://github.com/Huang0035/Skefi)]
+- Variational Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2601.07666)]
 
 
 ### 2025
@@ -980,6 +997,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Jan 6, 2026
+## Last update: Feb 5, 2026
 
 ## Feel free to contact me if you find any interesting paper is missing.
