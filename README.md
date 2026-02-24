@@ -55,6 +55,9 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Few-Shot Precise Event Spotting via Unified Multi-Entity Graph and Distillation [[paper](https://arxiv.org/abs/2511.14186)] [[code](https://github.com/LZYAndy/UMEG-Net)]
 - SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition [[paper](https://arxiv.org/abs/2511.10091)]
 
+**TIP**
+- Attack-Augmented Mixing-Contrastive Skeletal Representation Learning [[paper](https://ieeexplore.ieee.org/abstract/document/11372607)] [[code](https://github.com/1xbq1/A2MC)]
+
 **TIFS**
 - Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems [[paper](https://arxiv.org/abs/2501.16843)]
 
@@ -66,14 +69,19 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Dynamic Prompting Spatial Temporal Actor Transformer for Fine-grained Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11328855)]
 
 **PR**
+- RelPosGAR: Hierarchical relative position-aware interaction modeling for weakly supervised skeleton-based group activity recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326002165)] [[code](https://github.com/li-lindong/RelPosGAR)]
 - Frequency-Aware Spatio-Temporal Topology Learning for Skeleton-Based Human Activity Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001093)]
 - ST-VA-AR: Learning velocity-aware action representations with mixture of spatiotemporal attention [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001652)]
+
+**Neurocomputing**
+- FMFNet: A Faster Multimodal Fusion Network for action recognition via efficient modality compensation [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226004881)]
 
 **arXiv papers**
 - Affinity Contrastive Learning for Skeleton-based Human Activity Understanding [[paper](https://arxiv.org/abs/2601.16694)] [[code](https://github.com/firework8/ACLNet)]
 - BHaRNet: Reliability-Aware Body-Hand Modality Expertized Networks for Fine-grained Skeleton Action Recognition [[paper](https://arxiv.org/abs/2601.00369)] [[code](https://github.com/VinnyCSY/BHaRNet)]
 - SkeFi: Cross-Modal Knowledge Transfer for Wireless Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2601.12432)] [[code](https://github.com/Huang0035/Skefi)]
 - Variational Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2601.07666)]
+- ASMa: Asymmetric Spatio-temporal Masking for Skeleton Action Representation Learning [[paper](https://arxiv.org/abs/2602.06251)]
 
 
 ### 2025
@@ -509,7 +517,6 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.02327)] [[code](https://github.com/1xbq1/PSP-Learning)]
 - Skeleton-based Human Action Recognition via Convolutional Neural Networks (CNN) [[paper](https://arxiv.org/abs/2301.13360)]
 - Cross-view Action Recognition via Contrastive View-invariant Representation [[paper](https://arxiv.org/abs/2305.01733)]
-- Attack is Good Augmentation: Towards Skeleton-Contrastive Representation Learning [[paper](https://arxiv.org/abs/2304.04023)]
 - Spatial-temporal Transformer-guided Diffusion based Data Augmentation for Efficient Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2302.13434)]
 - Modiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models [[paper](https://arxiv.org/abs/2301.03949)]
 - Skeleton-based action analysis for ADHD diagnosis [[paper](https://arxiv.org/abs/2304.09751)]
@@ -997,6 +1004,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Feb 5, 2026
+## Last update: Feb 24, 2026
 
 ## Feel free to contact me if you find any interesting paper is missing.
