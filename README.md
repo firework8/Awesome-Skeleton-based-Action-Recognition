@@ -67,6 +67,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **TCSVT**
 - STAR++: Region-aware Conditional Semantics via Interpretable Side Information for Zero-Shot Skeleton Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11339971)] [[code](https://github.com/cseeyangchen/STAR_pp)]
 - Dynamic Prompting Spatial Temporal Actor Transformer for Fine-grained Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11328855)]
+- Constant-invariant Information Guided Augmented Spatiotemporal Networks for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11422982)]
 
 **PR**
 - RelPosGAR: Hierarchical relative position-aware interaction modeling for weakly supervised skeleton-based group activity recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326002165)] [[code](https://github.com/li-lindong/RelPosGAR)]
@@ -80,8 +81,17 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Affinity Contrastive Learning for Skeleton-based Human Activity Understanding [[paper](https://arxiv.org/abs/2601.16694)] [[code](https://github.com/firework8/ACLNet)]
 - BHaRNet: Reliability-Aware Body-Hand Modality Expertized Networks for Fine-grained Skeleton Action Recognition [[paper](https://arxiv.org/abs/2601.00369)] [[code](https://github.com/VinnyCSY/BHaRNet)]
 - SkeFi: Cross-Modal Knowledge Transfer for Wireless Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2601.12432)] [[code](https://github.com/Huang0035/Skefi)]
+- E2E-GNet: An End-to-End Skeleton-based Geometric Deep Neural Network for Human Motion Recognition [[paper](https://arxiv.org/abs/2603.02477)] [[code](https://github.com/ayodejimb/E2E-GNet)]
+- Less is More: Decoder-Free Masked Modeling for Efficient Skeleton Representation Learning [[paper](https://arxiv.org/abs/2603.10648)] [[code](https://github.com/KAIST-VICLab/SLiM)]
 - Variational Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2601.07666)]
 - ASMa: Asymmetric Spatio-temporal Masking for Skeleton Action Representation Learning [[paper](https://arxiv.org/abs/2602.06251)]
+- Skarimva: Skeleton-based Action Recognition is a Multi-view Application [[paper](https://arxiv.org/abs/2602.23231)]
+- Skeleton-to-Image Encoding: Enabling Skeleton Representation Learning via Vision-Pretrained Models [[paper](https://arxiv.org/abs/2603.05963)]
+- Point-Supervised Skeleton-Based Human Action Segmentation [[paper](https://arxiv.org/abs/2603.06201)]
+- M3GCLR: Multi-View Mini-Max Infinite Skeleton-Data Game Contrastive Learning For Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2603.09367)]
+- Severe Domain Shift in Skeleton-Based Action Recognition:A Study of Uncertainty Failure in Real-World Gym Environments [[paper](https://arxiv.org/abs/2603.15574)]
+- KGS-GCN: Enhancing Sparse Skeleton Sensing via Kinematics-Driven Gaussian Splatting and Probabilistic Topology for Action Recognition [[paper](https://arxiv.org/abs/2603.16943)]
+- S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition [[paper](https://arxiv.org/abs/2603.18062)]
 
 
 ### 2025
@@ -627,6 +637,8 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - AdaSGN: Adapting Joint Number and Model Size for Efficient Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Shi_AdaSGN_Adapting_Joint_Number_and_Model_Size_for_Efficient_Skeleton-Based_ICCV_2021_paper.pdf)] [[code](https://github.com/lshiwjx/AdaSGN)]
 - Skeleton Cloud Colorization for Unsupervised 3D Action Representation Learning [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Skeleton_Cloud_Colorization_for_Unsupervised_3D_Action_Representation_Learning_ICCV_2021_paper.pdf)]
 - Self-supervised 3D Skeleton Action Representation Learning with Motion Consistency and Continuity [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Su_Self-Supervised_3D_Skeleton_Action_Representation_Learning_With_Motion_Consistency_and_ICCV_2021_paper.pdf)]
+- Geometric Deep Neural Network Using Rigid and Non-Rigid Transformations for Human Action Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Friji_Geometric_Deep_Neural_Network_Using_Rigid_and_Non-Rigid_Transformations_for_ICCV_2021_paper.pdf)]
+- GeomNet: A Neural Network Based on Riemannian Geometries of SPD Matrix Space and Cholesky Space for 3D Skeleton-Based Interaction Recognition [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Nguyen_GeomNet_A_Neural_Network_Based_on_Riemannian_Geometries_of_SPD_ICCV_2021_paper.pdf)]
 
 **NeurIPS** 
 - Unsupervised Motion Representation Learning with Capsule Autoencoders [[paper](https://proceedings.neurips.cc/paper/2021/file/19ca14e7ea6328a42e0eb13d585e4c22-Paper.pdf)] [[code](https://github.com/ZiweiXU/CapsuleMotion)]
@@ -1004,6 +1016,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Feb 24, 2026
+## Last update: Mar 20, 2026
 
 ## Feel free to contact me if you find any interesting paper is missing.
