@@ -89,6 +89,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **TIFS**
 - Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems [[paper](https://arxiv.org/abs/2501.16843)]
+- Federated Unsupervised Skeletal Action Recognition From Condensation to Expansion [[paper](https://ieeexplore.ieee.org/abstract/document/11500519)]
 
 **TMM**
 - Ranking-based Self-Supervised Representation Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11353928)]
@@ -118,6 +119,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Towards Universal Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2604.17013)] [[code](https://github.com/jidongkuang/Universal-Skeleton)]
 - Marrying Text-to-Motion Generation with Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2604.17090)] [[code](https://github.com/jidongkuang/CoAMD)]
 - Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors [[paper](https://arxiv.org/abs/2604.17914)] [[code](https://github.com/Philchieh/TranCLR)]
+- SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction [[paper](https://arxiv.org/abs/2604.27508)] [[code](https://anonymous.4open.science/r/SASI/README.md)]
 - Variational Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2601.07666)]
 - ASMa: Asymmetric Spatio-temporal Masking for Skeleton Action Representation Learning [[paper](https://arxiv.org/abs/2602.06251)]
 - Skarimva: Skeleton-based Action Recognition is a Multi-view Application [[paper](https://arxiv.org/abs/2602.23231)]
@@ -304,6 +306,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Skeleton-based Group Activity Recognition via Spatial-Temporal Panoramic Graph [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07657.pdf)] [[code](https://github.com/mgiant/MP-GCN)]
 - VSViG: Real-time Video-based Seizure Detection via Skeleton-based Spatiotemporal ViG [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10768.pdf)] [[code](https://github.com/xuyankun/VSViG)]
 - Language-Assisted Skeleton Action Understanding for Skeleton-Based Temporal Action Segmentation [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07145.pdf)] [[code](https://github.com/HaoyuJi/LaSA)]
+- Learning by Aligning 2D Skeleton Sequences and Multi-Modality Fusion [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06656.pdf)] [[code](https://github.com/trquhuytin/LA2DS-ECCV24)]
 - Idempotent Unsupervised Representation Learning for Skeleton-Based Action Recognition [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03717.pdf)]
 - S-JEPA: A Joint Embedding Predictive Architecture for Skeletal Action Recognition [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04755.pdf)]
 - CrossGLG: LLM Guides One-shot Skeleton-based 3D Action Recognition in a Cross-level Manner [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03008.pdf)]
@@ -1051,6 +1054,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Apr 26, 2026
+## Last update: May 5, 2026
 
 ## Feel free to contact me if you find any interesting paper is missing.
