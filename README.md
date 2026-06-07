@@ -48,14 +48,22 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 ### 2026
 
 **CVPR**
-- SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2603.29692)] [[code](https://github.com/NingWang2049/skeletoncontext)]
-- LaDy: Lagrangian-Dynamic Informed Network for Skeleton-based Action Segmentation via Spatial-Temporal Modulation [[paper](https://arxiv.org/abs/2603.24097)] [[code](https://github.com/HaoyuJi/LaDy)]
-- Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation [[paper](https://arxiv.org/abs/2603.24134)] [[code](https://github.com/HaoyuJi/SpecScalpel)]
-- OMG-Bench: A New Challenging Benchmark for Skeleton-based Online Micro Hand Gesture Recognition [[paper](https://arxiv.org/abs/2512.16727)]
+- SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_SkeletonContext_Skeleton-side_Context_Prompt_Learning_for_Zero-Shot_Skeleton-based_Action_Recognition_CVPR_2026_paper.pdf)] [[code](https://github.com/NingWang2049/skeletoncontext)]
+- Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Feng_Beyond_Binary_Contrast_Modeling_Continuous_Skeleton_Action_Spaces_with_Transitional_CVPR_2026_paper.pdf)] [[code](https://github.com/Philchieh/TranCLR)]
+- Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Superman_Unifying_Skeleton_and_Vision_for_Human_Motion_Perception_and_CVPR_2026_paper.pdf)] [[code](https://github.com/BradleyWang0416/Superman)]
+- LaDy: Lagrangian-Dynamic Informed Network for Skeleton-based Action Segmentation via Spatial-Temporal Modulation [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_LaDy_Lagrangian-Dynamic_Informed_Network_for_Skeleton-based_Action_Segmentation_via_Spatial-Temporal_CVPR_2026_paper.pdf)] [[code](https://github.com/HaoyuJi/LaDy)]
+- Spectral Scalpel: Amplifying Adjacent Action Discrepancy via Frequency-Selective Filtering for Skeleton-Based Action Segmentation [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_Spectral_Scalpel_Amplifying_Adjacent_Action_Discrepancy_via_Frequency-Selective_Filtering_for_CVPR_2026_paper.pdf)] [[code](https://github.com/HaoyuJi/SpecScalpel)]
+- PRISM: Learning a Shared Primitive Space for Transferable Skeleton Action Representation [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_PRISM_Learning_a_Shared_Primitive_Space_for_Transferable_Skeleton_Action_CVPR_2026_paper.pdf)]
+- Exploring Adaptive Masked Reconstruction for Self-Supervised Skeleton-Based Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_Exploring_Adaptive_Masked_Reconstruction_for_Self-Supervised_Skeleton-Based_Action_Recognition_CVPR_2026_paper.pdf)]
+- Gamba: Mamba-based graph convolutional network with dynamic graph topology learning for action recognition [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Gamba_Mamba-based_graph_convolutional_network_with_dynamic_graph_topology_learning_CVPR_2026_paper.pdf)]
+- OMG-Bench: A New Challenging Benchmark for Skeleton-based Online Micro Hand Gesture Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Chang_OMG-Bench_A_New_Challenging_Benchmark_for_Skeleton-based_Online_Micro_Hand_CVPR_2026_paper.pdf)]
 
 **ICLR**
 - Curvature-Guided Task Synergy for Skeleton based Temporal Action Segmentation [[paper](https://openreview.net/forum?id=Vgh30npuN3)]
 - Subspace Kernel Learning on Tensor Sequences [[paper](https://openreview.net/forum?id=kv22NbU2T2)]
+
+**ICML**
+- SkelHCC: A Hyperbolic CLIP-Driven Cache Adaptation Framework for Skeleton-based One-Shot Action Recognition [[paper](https://arxiv.org/pdf/2606.03610)] [[code](https://github.com/lya19971103/SkelHCC)]
 
 **AAAI**
 - FineTec: Fine-Grained Action Recognition under Temporal Corruption via Skeleton Decomposition and Sequence Completion [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37838)] [[code](https://github.com/SmartDianLab/FineTec)]
@@ -64,15 +72,21 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38852)]
 - Decomposing Prompts, Composing Actions: A Multi-Granularity Prompting Approach for Incremental Action Learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37326)]
 
+**IJCAI**
+- Neurosymbolic Framework for Concept-Driven Logical Reasoning in Skeleton-Based Human Action Recognition [[paper](https://arxiv.org/pdf/2605.07140)] [[code](https://github.com/Mr-TalhaIlyas/REASON)]
+
 **CVPRF**
 - Learning by Neighbor-Aware Semantics, Deciding by Open-form Flows: Towards Robust Zero-Shot Skeleton Action Recognition [[paper](https://arxiv.org/abs/2511.09388)] [[code](https://github.com/cseeyangchen/Flora)]
 
 **CVPRW**
-- BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports [[paper](https://arxiv.org/abs/2502.21085)] [[code](https://github.com/Va6lue/BST-Badminton-Stroke-type-Transformer)]
-- SBF: An Effective Representation to Augment Skeleton for Video-based Human Action Recognition [[paper](https://arxiv.org/abs/2604.03590)]
+- BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports [[paper](https://openaccess.thecvf.com/content/CVPR2026W/CVsports/papers/Chang_BST_Badminton_Stroke-type_Transformer_for_Skeleton-based_Action_Recognition_in_Racket_CVPRW_2026_paper.pdf)] [[code](https://github.com/Va6lue/BST-Badminton-Stroke-type-Transformer)]
+- SBF: An Effective Representation to Augment Skeleton for Video-based Human Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2026W/ABAW/papers/Peng_SBF_Augmenting_Skeleton_for_Effective_Video-based_Human_Action_Recognition_CVPRW_2026_paper.pdf)]
+- Transition-Constrained Sequence Modeling for Fine-Grained Skating Action Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2026W/CVsports/papers/Koshkina_Transition-Constrained_Sequence_Modeling_for_Fine-Grained_Skating_Action_Recognition_CVPRW_2026_paper.pdf)]
+- DUAL-Pose: Efficient Dual-Branch Graph Networks for Skeleton-Based Yoga Pose Recognition [[paper](https://openaccess.thecvf.com/content/CVPR2026W/SAUAFG/papers/P_DUAL-Pose_Efficient_Dual-Branch_Graph_Networks_for_Skeleton-Based_Yoga_Pose_Recognition_CVPRW_2026_paper.pdf)]
 
 **ICPR**
 - CascadeFormer: A Family of Two-stage Cascading Transformers for Skeleton-based Human Action Recognition [[paper](https://arxiv.org/abs/2509.00692)] [[code](https://github.com/Yusen-Peng/CascadeFormer)]
+- Cross-Domain Human Action Recognition from Multiview Motion and Textual Descriptions [[paper](https://arxiv.org/abs/2605.22697)] [[code](https://github.com/yanik-porto/OrientationAware-HAR)]
 - SCALE: Semantic- and Confidence-Aware Conditional Variational Autoencoder for Zero-shot Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2604.02222)]
 
 **ICASSP**
@@ -86,6 +100,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Attack-Augmented Mixing-Contrastive Skeletal Representation Learning [[paper](https://ieeexplore.ieee.org/abstract/document/11372607)] [[code](https://github.com/1xbq1/A2MC)]
 - Local Dimension Enhancement Representation Learning for Skeleton-Based Action Segmentation [[paper](https://ieeexplore.ieee.org/abstract/document/11481594)] [[code](https://github.com/CarefreeSun/LoDE_TAS)]
 - Star-shaped Multi-person Interaction Graph Model for Group Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11489293)]
+- Spatial-Temporal Self-Compensating Graph Convolutional Network for Skeleton-Based Action Recognition Under Data Constraints [[paper](https://ieeexplore.ieee.org/abstract/document/11538388)]
 
 **TIFS**
 - Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems [[paper](https://arxiv.org/abs/2501.16843)]
@@ -104,6 +119,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - RelPosGAR: Hierarchical relative position-aware interaction modeling for weakly supervised skeleton-based group activity recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326002165)] [[code](https://github.com/li-lindong/RelPosGAR)]
 - Frequency-Aware Spatio-Temporal Topology Learning for Skeleton-Based Human Activity Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001093)]
 - ST-VA-AR: Learning velocity-aware action representations with mixture of spatiotemporal attention [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001652)]
+- Lightweight adaptive pseudo-augmented graph convolutional network for skeleton-based gesture and action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326009829)]
 
 **Neurocomputing**
 - FMFNet: A Faster Multimodal Fusion Network for action recognition via efficient modality compensation [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226004881)]
@@ -118,8 +134,8 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Generative Data Augmentation for Skeleton Action Recognition [[paper](https://arxiv.org/abs/2604.14933)] [[code](https://github.com/dx199771/Generative-Data-Augmentation-for-Skeleton-Action-Recognition)]
 - Towards Universal Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2604.17013)] [[code](https://github.com/jidongkuang/Universal-Skeleton)]
 - Marrying Text-to-Motion Generation with Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2604.17090)] [[code](https://github.com/jidongkuang/CoAMD)]
-- Beyond Binary Contrast: Modeling Continuous Skeleton Action Spaces with Transitional Anchors [[paper](https://arxiv.org/abs/2604.17914)] [[code](https://github.com/Philchieh/TranCLR)]
 - SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction [[paper](https://arxiv.org/abs/2604.27508)] [[code](https://anonymous.4open.science/r/SASI/README.md)]
+- iPay: Integrated Payment Action Recognition via Multimodal Networks and Adaptive Spatial Prior Learning [[paper](https://arxiv.org/abs/2605.10732)] [[code](https://github.com/ccoopq/iPay)]
 - Variational Contrastive Learning for Skeleton-based Action Recognition [[paper](https://arxiv.org/abs/2601.07666)]
 - ASMa: Asymmetric Spatio-temporal Masking for Skeleton Action Representation Learning [[paper](https://arxiv.org/abs/2602.06251)]
 - Skarimva: Skeleton-based Action Recognition is a Multi-view Application [[paper](https://arxiv.org/abs/2602.23231)]
@@ -133,6 +149,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - LLM Enhanced Action Recognition via Hierarchical Global-Local Skeleton-Language Model [[paper](https://arxiv.org/abs/2603.27103)]
 - Explainable Fall Detection for Elderly Care via Temporally Stable SHAP in Skeleton-Based Human Activity Recognition [[paper](https://arxiv.org/abs/2604.13279)]
 - Unsupervised Skeleton-Based Action Segmentation via Hierarchical Spatiotemporal Vector Quantization [[paper](https://arxiv.org/abs/2604.15196)]
+- PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2605.11497)]
 
 
 ### 2025
@@ -1054,6 +1071,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: May 5, 2026
+## Last update: Jun 7, 2026
 
 ## Feel free to contact me if you find any interesting paper is missing.
