@@ -128,6 +128,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 **TIFS**
 - Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems [[paper](https://arxiv.org/abs/2501.16843)]
 - Federated Unsupervised Skeletal Action Recognition From Condensation to Expansion [[paper](https://ieeexplore.ieee.org/abstract/document/11500519)]
+- Spatial-Temporal Decoupled Invertible Neural Networks for Skeleton-Based Video Anomaly Detection [[paper](https://ieeexplore.ieee.org/abstract/document/11660755)]
 
 **TMM**
 - Ranking-based Self-Supervised Representation Learning for Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11353928)]
@@ -136,6 +137,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Region Correlation Refinement Hypergraph Convolution for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11610652)]
 - Multi-Connection Contrastive Zero-Shot Learning for 3D Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11631633)]
 - FedIGA: Improving Global Model Aggregation for Federated Self-Supervised Skeletal Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11645021)]
+- Multi-modality Progressive Prompt Learning for Enhancing Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11661679)]
 
 **TCSVT**
 - STAR++: Region-aware Conditional Semantics via Interpretable Side Information for Zero-Shot Skeleton Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11339971)] [[code](https://github.com/cseeyangchen/STAR_pp)]
@@ -143,19 +145,21 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Quality-Preserving Imperceptible Adversarial Attack on Skeleton-based Human Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11560959)] [[code](https://github.com/mrzzy2021/QualityPreservingAttack)]
 - Dynamic Prompting Spatial Temporal Actor Transformer for Fine-grained Skeleton-based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11328855)]
 - Constant-invariant Information Guided Augmented Spatiotemporal Networks for Skeleton-Based Action Recognition [[paper](https://ieeexplore.ieee.org/abstract/document/11422982)]
+- Do Skeleton Parts Have a Voice? Unlocking Semantic Cues in Action Understanding Through Multimodal Alignment [[paper](https://ieeexplore.ieee.org/abstract/document/11664513)]
 
 **PR**
 - RelPosGAR: Hierarchical relative position-aware interaction modeling for weakly supervised skeleton-based group activity recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326002165)] [[code](https://github.com/li-lindong/RelPosGAR)]
+- NeuroPath: Brain-Inspired Dual-Pathway Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2608.17487)] [[code](https://github.com/ZhouKanglei/NeuroPath)]
 - Frequency-Aware Spatio-Temporal Topology Learning for Skeleton-Based Human Activity Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001093)]
 - ST-VA-AR: Learning velocity-aware action representations with mixture of spatiotemporal attention [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001652)]
 - Lightweight adaptive pseudo-augmented graph convolutional network for skeleton-based gesture and action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326009829)]
-- NeuroPath: Brain-Inspired Dual-Pathway Graph Convolutional Networks for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2608.17487)]
 - DGA-GCN: Dynamic Global Adaptive Graph Convolutional Networks for Skeleton-based Action Recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326014706)]
 
 **Neurocomputing**
 - FMFNet: A Faster Multimodal Fusion Network for action recognition via efficient modality compensation [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226004881)]
 - Refining skeleton with text: A diffusion-enhanced contrastive learning framework for action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226016863)]
 - Super-joint guided local relation groups with fuzzy mask for self-supervised skeleton action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226022022)]
+- Multi-branch interactive information fusion model for skeleton-based human action recognition [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226023350)]
 
 **arXiv papers**
 - Affinity Contrastive Learning for Skeleton-based Human Activity Understanding [[paper](https://arxiv.org/abs/2601.16694)] [[code](https://github.com/firework8/ACLNet)]
@@ -188,6 +192,8 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - T-MOR: Learning Motion-Aware Skeleton Representations for Human Action Recognition [[paper](https://arxiv.org/abs/2606.21607)]
 - From General Actions to Domain-Specific Monitoring: Prior-Adaptive Transfer for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2607.03327)]
 - Zero-Shot Skeleton-Based Action Anticipation [[paper](https://arxiv.org/abs/2608.14243)]
+- Skeleton-based Zero-Shot Spatio-Temporal Action Localization via Weakly-Supervised Pretraining [[paper](https://arxiv.org/abs/2608.25701)]
+- MASQ: Mask-Aware Spatiotemporal Quantization for Unsupervised Skeleton Action Segmentation [[paper](https://arxiv.org/abs/2608.29891)]
 
 
 ### 2025
@@ -1109,6 +1115,6 @@ With all the resources available on the github website, this paper list is compr
 - [caglarmert/MOT-Research/wiki/Awesome-Action-Recognition](https://github.com/caglarmert/MOT-Research/wiki/Awesome-Action-Recognition)
 - [shuangshuangguo/skeleton-based-action-recognition-review](https://github.com/shuangshuangguo/skeleton-based-action-recognition-review)
 
-## Last update: Aug 20, 2026
+## Last update: Sep 6, 2026
 
 ## Feel free to contact me if you find any interesting paper is missing.
