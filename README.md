@@ -213,6 +213,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - Zero-Shot Skeleton-Based Action Anticipation [[paper](https://arxiv.org/abs/2608.14243)]
 - Skeleton-based Zero-Shot Spatio-Temporal Action Localization via Weakly-Supervised Pretraining [[paper](https://arxiv.org/abs/2608.25701)]
 - MASQ: Mask-Aware Spatiotemporal Quantization for Unsupervised Skeleton Action Segmentation [[paper](https://arxiv.org/abs/2608.29891)]
+- Orthogonal Ensembles and Tested Explanations for Performer-Independent Body-Motion Emotion Recognition [[paper](https://arxiv.org/abs/2609.02510)] [[code](https://github.com/nawta/diema-challenge)]
 - PhysioAI: Clinical Knowledge-Guided Semantic Supervision for Skeleton-Based Physiotherapy Action Recognition [[paper](https://arxiv.org/abs/2609.12491)]
 
 
