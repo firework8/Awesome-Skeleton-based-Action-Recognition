@@ -71,6 +71,7 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 
 **NeurIPS**
 - Less is More: Compact-Token Masked Feature Prediction for Skeleton Representation Learning [[paper](https://arxiv.org/pdf/2603.10648)] [[code](https://github.com/KAIST-VICLab/SLiM)]
+- PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2605.11497)] [[code](https://github.com/hyeon0819/PoseBridge)]
 
 **ICLR**
 - Curvature-Guided Task Synergy for Skeleton based Temporal Action Segmentation [[paper](https://openreview.net/forum?id=Vgh30npuN3)]
@@ -206,7 +207,6 @@ Statistics: 🔥 relatively highly cited | ⭐ code is available and star > 100
 - LLM Enhanced Action Recognition via Hierarchical Global-Local Skeleton-Language Model [[paper](https://arxiv.org/abs/2603.27103)]
 - Explainable Fall Detection for Elderly Care via Temporally Stable SHAP in Skeleton-Based Human Activity Recognition [[paper](https://arxiv.org/abs/2604.13279)]
 - Unsupervised Skeleton-Based Action Segmentation via Hierarchical Spatiotemporal Vector Quantization [[paper](https://arxiv.org/abs/2604.15196)]
-- PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2605.11497)]
 - Skeleton-Based Activity Recognition for Children with Autism Using Graph Convolutional Networks [[paper](https://www.preprints.org/frontend/manuscript/e77cfe8b75c37c00f9d47ffd89d5acef/download_pub)]
 - T-MOR: Learning Motion-Aware Skeleton Representations for Human Action Recognition [[paper](https://arxiv.org/abs/2606.21607)]
 - From General Actions to Domain-Specific Monitoring: Prior-Adaptive Transfer for Skeleton-Based Action Recognition [[paper](https://arxiv.org/abs/2607.03327)]
